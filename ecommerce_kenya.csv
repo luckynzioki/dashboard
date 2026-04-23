@@ -1,0 +1,2001 @@
+Order_Date,Category,Product,Area,Channel,Payment_Method,Unit_Price_KES,Quantity,Discount_Pct,Revenue_KES,Customer_Rating,Units_Returned
+27/08/2024,Electronics,Smartphone,Thika,Mobile App,Credit Card,35035.19,2,0,70070.38,3.6,0
+14/08/2023,Clothing,Jeans,Eldoret,Online,PayPal,2786.63,9,20,20063.74,3.6,0
+11/12/2023,Electronics,Speaker,Machakos,In-Store,Bank Transfer,52357.08,3,5,149217.68,3.4,0
+19/07/2024,Home & Garden,Pillow Set,Kisumu,Online,Bank Transfer,43269.26,7,0,302884.82,3.2,0
+27/08/2023,Home & Garden,Pillow Set,Mombasa,Online,M-Pesa,53172.05,5,0,265860.25,4.7,0
+19/12/2024,Books,Comics,Machakos,Mobile App,Credit Card,1484.58,4,10,6947.837,4.1,0
+02/12/2024,Clothing,Sneakers,Thika,In-Store,Credit Card,5815.99,5,5,27625.95,4.4,0
+06/08/2023,Electronics,Speaker,Kisumu,Social Media,Cash,11795.91,10,15,100265.24,4.1,0
+21/08/2024,Books,Self-Help Book,Kisumu,In-Store,Credit Card,2683.96,9,10,21740.08,3.6,0
+04/10/2024,Home & Garden,Desk Lamp,Mombasa,Social Media,M-Pesa,60657.95,2,0,121315.9,2.9,0
+20/07/2024,Sports,Yoga Mat,Nakuru,Social Media,PayPal,59769.61,9,10,484133.84,4.7,0
+09/04/2024,Electronics,Camera,Eldoret,Mobile App,Cash,18509.72,7,0,129568.04,2.5,0
+06/06/2023,Home & Garden,Pillow Set,Machakos,In-Store,PayPal,73080.12,5,5,347130.57,3.4,0
+03/09/2023,Sports,Yoga Mat,Eldoret,Mobile App,Bank Transfer,1756.92,6,10,9487.37,2.6,1
+12/05/2023,Electronics,Smartphone,Thika,Social Media,M-Pesa,146741.71,9,0,1320675.39,4.1,1
+13/02/2024,Clothing,Dress,Eldoret,Social Media,Credit Card,11182.51,4,10,40257.04,5,0
+25/08/2024,Books,Biographies,Nakuru,Online,Credit Card,1019.03,6,0,6114.18,3.9,0
+14/03/2023,Electronics,Smartphone,Thika,Online,Credit Card,11975.25,1,15,10178.96,3.8,0
+21/02/2024,Books,Self-Help Book,Eldoret,In-Store,PayPal,2143.88,4,25,6431.64,3,0
+04/03/2023,Books,Cookbook,Nakuru,Social Media,Bank Transfer,3064.28,1,0,3064.28,3.5,0
+13/10/2023,Electronics,Laptop,Mombasa,In-Store,PayPal,68394.81,7,0,478763.67,3.7,1
+06/04/2023,Electronics,Headphones,Machakos,Online,M-Pesa,98517.44,9,0,886656.96,4.8,0
+24/01/2024,Clothing,Jacket,Nakuru,Social Media,Credit Card,10443.48,1,0,10443.48,2.5,0
+16/08/2024,Books,Cookbook,Nakuru,Social Media,Credit Card,907.67,4,0,3630.68,4.3,0
+28/02/2023,Home & Garden,Sofa,Nairobi,Social Media,PayPal,73615.46,9,0,662539.14,4.9,0
+15/08/2024,Clothing,T-Shirt,Eldoret,Online,Credit Card,5143.42,10,5,48862.49,4,0
+29/09/2023,Books,Comics,Eldoret,Mobile App,Cash,953.63,6,5,5435.69,3.5,0
+17/03/2023,Home & Garden,Coffee Maker,Kisumu,Online,M-Pesa,37096.21,10,0,370962.1,3.8,0
+18/09/2024,Clothing,Dress,Nairobi,In-Store,Cash,3777.35,8,10,27196.92,5,0
+29/04/2023,Sports,Yoga Mat,Thika,Mobile App,M-Pesa,56372.44,3,10,152205.59,4.7,0
+15/09/2023,Clothing,Dress,Kisumu,In-Store,Cash,2841.37,5,25,10655.14,4.8,0
+15/06/2023,Electronics,Camera,Nakuru,Mobile App,M-Pesa,2524.76,3,10,6816.85,4.4,0
+14/01/2024,Books,Biographies,Nairobi,Online,M-Pesa,3324.16,3,0,9972.48,4,0
+13/11/2024,Clothing,T-Shirt,Kisumu,Mobile App,M-Pesa,10837.63,4,5,41182.99,4.5,1
+26/01/2023,Books,Biographies,Thika,In-Store,Credit Card,3066.74,3,20,7360.18,2.9,1
+09/02/2023,Books,Textbook,Thika,In-Store,Cash,809.43,2,20,1295.09,4.6,0
+03/12/2023,Books,Cookbook,Kisumu,In-Store,Credit Card,375.73,4,20,1202.34,2.7,0
+25/09/2023,Home & Garden,Wall Art,Eldoret,Social Media,PayPal,27027.07,1,0,27027.07,2.9,1
+12/09/2024,Home & Garden,Sofa,Nairobi,Social Media,Cash,58500.77,6,20,280803.7,5,0
+08/01/2024,Sports,Dumbbells,Kisumu,Online,Bank Transfer,700.46,9,5,5988.93,3.6,1
+17/02/2024,Home & Garden,Pillow Set,Kisumu,Online,Cash,40964.1,7,15,243736.39,4.2,0
+15/07/2024,Clothing,Jacket,Thika,Social Media,Credit Card,7578.42,5,20,30313.68,4.6,0
+23/06/2023,Clothing,Jacket,Machakos,Mobile App,Bank Transfer,5580.54,4,25,16741.62,4.1,0
+26/01/2023,Sports,Running Shoes,Nairobi,In-Store,Cash,13943.66,4,0,55774.64,2.6,2
+14/12/2024,Sports,Swimming Goggles,Machakos,Online,Bank Transfer,25217.8,10,5,239569.1,3.5,0
+21/02/2023,Electronics,Speaker,Machakos,Online,Bank Transfer,34388.49,9,25,232122.31,3.9,1
+29/03/2024,Electronics,Headphones,Mombasa,Social Media,PayPal,148208.08,10,15,1259768.68,4,0
+23/09/2023,Sports,Bicycle,Machakos,Social Media,Credit Card,44773.13,8,25,268638.78,4.4,0
+29/08/2023,Home & Garden,Rug,Machakos,Social Media,Credit Card,22548.12,2,10,40586.62,3.2,0
+07/03/2023,Sports,Yoga Mat,Mombasa,In-Store,Credit Card,23352.3,3,5,66554.05,3.5,0
+12/08/2024,Books,Science Book,Nairobi,In-Store,Bank Transfer,1546.33,10,0,15463.3,3.5,0
+14/05/2024,Home & Garden,Blender,Machakos,Social Media,Bank Transfer,43427.07,9,5,371301.45,3,0
+08/02/2024,Electronics,Headphones,Kisumu,Social Media,Credit Card,126394.84,3,0,379184.52,4,0
+02/12/2023,Electronics,Camera,Nakuru,In-Store,Bank Transfer,28895.9,5,20,115583.6,3.3,0
+06/07/2024,Books,Cookbook,Machakos,Social Media,Cash,2971.71,8,0,23773.68,2.6,1
+28/09/2024,Clothing,Boots,Nairobi,Online,M-Pesa,11420.53,4,0,45682.12,2.9,0
+17/06/2023,Electronics,Smartwatch,Mombasa,Social Media,Cash,115500.92,3,0,346502.76,4.9,0
+29/08/2024,Electronics,Tablet,Eldoret,Social Media,Bank Transfer,141337.65,4,0,565350.6,4.2,0
+22/12/2023,Electronics,Camera,Machakos,Mobile App,PayPal,121218.14,10,0,1575835.82,4.2,0
+25/12/2024,Home & Garden,Sofa,Machakos,Social Media,Bank Transfer,9158.68,6,25,41214.06,2.9,0
+27/11/2023,Home & Garden,Pillow Set,Machakos,Social Media,Bank Transfer,35297.5,10,10,412980.75,4.6,0
+30/01/2023,Books,Self-Help Book,Machakos,Social Media,PayPal,2253.06,7,15,13405.71,3.7,0
+23/07/2024,Books,Self-Help Book,Kisumu,Mobile App,Cash,1194.91,10,10,10754.19,2.5,1
+23/10/2024,Electronics,Laptop,Thika,Social Media,Bank Transfer,84166.08,4,25,252498.24,4.3,0
+29/04/2024,Electronics,Smartphone,Kisumu,In-Store,Bank Transfer,104384.5,5,15,443634.12,3.9,0
+17/07/2023,Sports,Running Shoes,Kisumu,Social Media,Cash,18813.41,4,0,75253.64,3.3,0
+13/04/2023,Clothing,Jeans,Mombasa,Social Media,Cash,8832.73,9,10,71545.11,4.6,0
+20/07/2024,Home & Garden,Desk Lamp,Kisumu,Online,PayPal,10825.37,1,0,10825.37,3.2,1
+15/12/2023,Books,Fiction Novel,Machakos,Online,PayPal,1209.89,8,25,7259.34,2.6,1
+05/06/2023,Books,Fiction Novel,Machakos,Online,Bank Transfer,1873.59,10,0,18735.9,2.9,0
+19/06/2024,Home & Garden,Sofa,Mombasa,Online,PayPal,61343.92,10,5,582767.24,3.5,1
+01/08/2023,Home & Garden,Rug,Eldoret,Social Media,Cash,45835.45,1,0,45835.45,4.1,0
+06/04/2024,Electronics,Laptop,Mombasa,In-Store,PayPal,13109.6,1,20,10487.68,4.2,0
+02/10/2024,Electronics,Laptop,Kisumu,Mobile App,Bank Transfer,12534.6,4,10,45124.56,4,0
+03/03/2023,Clothing,Jacket,Nairobi,In-Store,Credit Card,10946.73,3,0,32840.19,2.9,0
+27/05/2024,Sports,Running Shoes,Nakuru,Online,Bank Transfer,41507.47,7,10,261497.06,3.8,0
+21/11/2024,Sports,Yoga Mat,Nakuru,Mobile App,PayPal,15471.85,2,5,38215.463,3.9,1
+05/07/2023,Home & Garden,Pillow Set,Nairobi,In-Store,Bank Transfer,41901.94,8,10,301693.97,5,0
+04/12/2023,Books,Fiction Novel,Nakuru,Mobile App,Bank Transfer,1366.59,2,0,3553.134,3.7,0
+29/04/2023,Books,Textbook,Machakos,Online,Bank Transfer,581.79,5,15,2472.61,4.9,0
+29/09/2024,Sports,Swimming Goggles,Nairobi,Social Media,Bank Transfer,3819.72,9,15,29220.86,4.4,0
+30/01/2023,Electronics,Laptop,Kisumu,In-Store,Cash,66841.18,8,0,534729.44,4.9,0
+19/08/2023,Clothing,Boots,Mombasa,Mobile App,PayPal,657.26,7,0,4600.82,5,1
+01/03/2024,Books,Fiction Novel,Thika,In-Store,Bank Transfer,3284.49,5,10,14780.2,4.6,2
+13/03/2023,Clothing,Jacket,Eldoret,In-Store,Bank Transfer,2692.02,10,0,26920.2,3.2,0
+02/06/2023,Books,Cookbook,Machakos,Mobile App,M-Pesa,1205.08,5,25,4519.05,3.6,0
+08/08/2024,Home & Garden,Pillow Set,Machakos,Social Media,Bank Transfer,74681.9,4,5,283791.22,3.5,1
+07/02/2023,Books,Fiction Novel,Kisumu,Social Media,Bank Transfer,1535.45,3,25,3454.76,2.8,1
+28/05/2023,Home & Garden,Rug,Nairobi,Social Media,M-Pesa,42455.33,8,0,339642.64,3.5,0
+03/12/2023,Clothing,T-Shirt,Nakuru,Mobile App,Cash,7667.48,7,0,69774.068,4.6,0
+08/10/2024,Home & Garden,Wall Art,Thika,Social Media,PayPal,3643.21,2,5,6922.1,4.2,0
+20/06/2023,Clothing,Boots,Nairobi,Social Media,M-Pesa,9244.25,2,25,13866.38,4.2,1
+08/09/2023,Electronics,Tablet,Machakos,Online,Cash,55052.57,7,0,385367.99,3.8,0
+24/05/2024,Clothing,Jeans,Mombasa,Online,PayPal,10514.66,10,5,99889.27,4.8,0
+24/11/2024,Books,Comics,Kisumu,Social Media,Cash,2433.89,8,10,22781.213,2.7,1
+29/01/2024,Sports,Running Shoes,Thika,Social Media,Cash,27736.05,5,5,131746.24,4.6,0
+09/01/2023,Books,Biographies,Kisumu,Mobile App,Cash,370.21,7,10,2332.32,3.9,0
+13/08/2023,Electronics,Smartwatch,Thika,Social Media,Cash,116809.66,4,15,397152.84,4.1,0
+15/05/2023,Clothing,Boots,Nairobi,Online,Cash,9569.02,1,15,8133.67,2.7,0
+18/06/2023,Books,Self-Help Book,Mombasa,In-Store,PayPal,3104.67,6,10,16765.22,3.1,0
+20/08/2023,Books,Textbook,Kisumu,Mobile App,M-Pesa,1798.66,2,0,3597.32,4.7,0
+03/07/2024,Books,Textbook,Machakos,Mobile App,M-Pesa,2830.18,1,10,2547.16,2.8,0
+26/09/2024,Home & Garden,Pillow Set,Nakuru,Mobile App,M-Pesa,54247.06,8,0,433976.48,4.7,0
+30/04/2023,Sports,Dumbbells,Thika,Online,Bank Transfer,54617.63,5,20,218470.52,2.8,1
+09/04/2024,Home & Garden,Coffee Maker,Nairobi,Online,Credit Card,71070.94,3,20,170570.26,3.4,1
+14/10/2023,Sports,Bicycle,Eldoret,In-Store,Bank Transfer,39502.36,8,20,252815.1,2.6,0
+04/03/2023,Books,Science Book,Mombasa,Mobile App,M-Pesa,3438.97,6,15,17538.75,3.5,0
+21/02/2023,Electronics,Speaker,Machakos,Social Media,M-Pesa,100089.77,10,0,1000897.7,4.5,0
+23/08/2024,Clothing,Hoodie,Eldoret,In-Store,M-Pesa,10042.91,9,5,85866.88,3,1
+07/07/2024,Home & Garden,Rug,Mombasa,Online,Cash,68785.77,3,0,206357.31,3.1,0
+29/09/2023,Electronics,Laptop,Nairobi,Mobile App,Credit Card,89150.23,1,0,89150.23,2.6,0
+07/04/2024,Sports,Yoga Mat,Thika,Online,Bank Transfer,27227.55,6,0,163365.3,3.8,1
+05/05/2024,Electronics,Camera,Machakos,Mobile App,Bank Transfer,97214.42,1,0,97214.42,4.6,0
+09/03/2023,Electronics,Headphones,Thika,Social Media,M-Pesa,135091.48,6,0,810548.88,2.8,0
+09/04/2024,Sports,Tennis Racket,Thika,Mobile App,Bank Transfer,59680.89,9,10,483415.21,3.8,0
+14/12/2023,Electronics,Speaker,Thika,In-Store,Bank Transfer,68830.13,4,20,286333.346,3.5,0
+04/04/2023,Home & Garden,Coffee Maker,Kisumu,Mobile App,Cash,76324.53,8,0,610596.24,4.6,0
+17/11/2024,Electronics,Camera,Thika,Mobile App,Credit Card,84342.87,10,15,716914.39,3.4,0
+14/08/2024,Books,Textbook,Thika,Online,Cash,2221.31,6,0,13327.86,3.8,0
+13/10/2023,Books,Self-Help Book,Machakos,Online,Cash,3005.19,6,0,18031.14,3.9,0
+04/07/2023,Sports,Swimming Goggles,Machakos,Online,PayPal,55787.61,5,0,278938.05,3.2,0
+26/05/2023,Home & Garden,Blender,Nairobi,In-Store,Credit Card,45652.63,7,0,319568.41,4.4,2
+14/01/2024,Electronics,Camera,Eldoret,In-Store,Bank Transfer,64135.21,6,0,384811.26,3.3,0
+21/11/2024,Sports,Tennis Racket,Nairobi,Online,Credit Card,9950.15,10,0,99501.5,3.6,0
+16/03/2024,Sports,Bicycle,Nakuru,Mobile App,Credit Card,45443.62,2,15,77254.15,2.8,0
+08/01/2023,Sports,Bicycle,Eldoret,Mobile App,M-Pesa,13698.8,10,0,136988,3,1
+29/06/2023,Clothing,Hoodie,Kisumu,Mobile App,Cash,1879.82,8,20,12030.85,2.8,0
+20/01/2023,Clothing,Sneakers,Eldoret,Mobile App,M-Pesa,5066.32,1,20,4053.06,3.6,0
+29/11/2023,Home & Garden,Pillow Set,Nakuru,Social Media,Bank Transfer,23729.6,7,0,166107.2,4.9,0
+10/02/2024,Home & Garden,Sofa,Nakuru,Online,Credit Card,35305.58,7,0,247139.06,4.7,0
+24/12/2023,Clothing,Dress,Machakos,In-Store,M-Pesa,6370.56,2,5,12104.06,4.9,0
+02/11/2024,Clothing,Jeans,Nairobi,In-Store,Cash,2768.63,10,0,27686.3,4.9,0
+04/10/2024,Books,Textbook,Eldoret,Social Media,PayPal,2357.57,10,15,20039.35,3.3,0
+14/11/2023,Books,Science Book,Thika,Mobile App,Cash,2192.54,6,0,17101.812,2.6,0
+17/08/2024,Home & Garden,Sofa,Thika,Online,PayPal,47851.12,7,25,251218.38,3.9,0
+05/03/2023,Electronics,Headphones,Machakos,In-Store,Cash,91540.86,9,0,823867.74,3.6,0
+20/06/2024,Home & Garden,Wall Art,Nairobi,In-Store,M-Pesa,20421.3,8,25,122527.8,3.8,0
+09/03/2023,Home & Garden,Blender,Nakuru,Social Media,Cash,54568.7,1,15,46383.39,3.3,0
+14/11/2023,Books,Cookbook,Kisumu,In-Store,Cash,560.81,3,15,1859.091,4.2,0
+17/11/2024,Sports,Football,Nairobi,Mobile App,PayPal,22974.75,6,0,179203.05,4.9,2
+04/07/2023,Sports,Yoga Mat,Thika,Social Media,PayPal,22092.59,6,10,119299.99,4.9,0
+08/11/2024,Books,Self-Help Book,Mombasa,In-Store,Credit Card,546.93,2,0,1093.86,4.4,0
+14/02/2023,Books,Self-Help Book,Mombasa,In-Store,PayPal,2888.94,3,25,6500.11,3.5,0
+25/04/2024,Clothing,Jacket,Eldoret,Mobile App,Bank Transfer,3191.03,4,10,11487.71,4.8,0
+24/07/2023,Sports,Bicycle,Nakuru,Mobile App,Bank Transfer,30472.66,7,0,213308.62,4.5,0
+19/10/2023,Home & Garden,Sofa,Thika,Social Media,Cash,44719.63,2,0,89439.26,2.7,0
+24/12/2023,Books,Biographies,Mombasa,Social Media,M-Pesa,3328.52,4,25,12981.228,3.5,0
+27/10/2024,Home & Garden,Desk Lamp,Nakuru,Online,Cash,18583.47,6,0,111500.82,3.3,0
+22/09/2024,Electronics,Tablet,Machakos,Social Media,Credit Card,114308.49,8,25,685850.94,2.5,0
+24/04/2023,Home & Garden,Desk Lamp,Machakos,In-Store,PayPal,75265.9,10,20,602127.2,4.4,0
+03/09/2024,Electronics,Smartphone,Mombasa,Social Media,PayPal,69652.82,2,25,104479.23,3.8,0
+04/09/2023,Sports,Dumbbells,Thika,In-Store,Cash,26096.79,10,15,221822.72,3.9,0
+04/02/2024,Electronics,Smartwatch,Kisumu,Online,PayPal,82524.13,9,0,742717.17,4.7,0
+03/11/2024,Books,Cookbook,Kisumu,Online,Cash,2823.26,6,5,20920.354,4.4,0
+13/12/2024,Home & Garden,Desk Lamp,Nairobi,Mobile App,PayPal,27612.94,3,25,80767.843,3,0
+14/11/2023,Books,Fiction Novel,Kisumu,In-Store,M-Pesa,2831.55,1,15,3128.866,5,0
+07/10/2023,Home & Garden,Sofa,Machakos,In-Store,Cash,29072.35,1,15,24711.5,2.8,0
+12/01/2024,Books,Comics,Nakuru,Social Media,Cash,3415.92,8,25,20495.52,4.8,0
+25/11/2023,Electronics,Camera,Nakuru,Online,Bank Transfer,91163.09,3,10,246140.34,3.3,0
+13/02/2023,Books,Biographies,Thika,Social Media,Credit Card,2507.25,6,25,11282.62,4.3,1
+09/06/2024,Sports,Bicycle,Kisumu,Online,M-Pesa,40468.32,7,15,240786.5,4.5,0
+06/01/2024,Electronics,Laptop,Machakos,Social Media,M-Pesa,20682.04,4,15,70318.94,3.5,0
+26/06/2024,Sports,Dumbbells,Thika,Social Media,Cash,22697.59,2,0,45395.18,3.4,0
+26/09/2023,Home & Garden,Desk Lamp,Nairobi,Online,Credit Card,40324.28,7,0,282269.96,4.4,0
+26/06/2023,Clothing,Sneakers,Kisumu,Social Media,Credit Card,1910.33,2,25,2865.49,4.7,0
+04/11/2023,Electronics,Speaker,Thika,Mobile App,Cash,107011.99,9,10,1126836.256,4.3,1
+20/05/2024,Clothing,Hoodie,Kisumu,In-Store,M-Pesa,11829.02,3,5,33712.71,2.6,0
+12/02/2024,Home & Garden,Coffee Maker,Machakos,In-Store,PayPal,70832.32,2,10,127498.18,5,0
+05/04/2024,Sports,Bicycle,Machakos,Social Media,PayPal,4980.79,6,0,29884.74,3.7,0
+14/06/2024,Clothing,Hoodie,Machakos,In-Store,Credit Card,5475.11,1,0,5475.11,2.9,0
+21/07/2023,Home & Garden,Wall Art,Mombasa,Mobile App,PayPal,71678.13,2,10,129020.63,4.1,0
+25/06/2023,Clothing,Boots,Kisumu,Online,PayPal,7871.36,10,0,78713.6,4.1,0
+28/10/2024,Sports,Running Shoes,Machakos,Online,M-Pesa,5424.64,10,10,48821.76,3,0
+08/09/2023,Sports,Football,Nairobi,Social Media,PayPal,17806.5,5,25,66774.38,4.5,0
+28/07/2023,Home & Garden,Coffee Maker,Nairobi,Online,Credit Card,35616.76,8,25,213700.56,3.4,0
+23/11/2023,Home & Garden,Wall Art,Machakos,Mobile App,Bank Transfer,11156.68,6,0,66940.08,2.8,0
+13/06/2023,Clothing,T-Shirt,Nairobi,Mobile App,Bank Transfer,10437.88,7,5,69411.9,4.5,1
+12/11/2023,Home & Garden,Desk Lamp,Machakos,In-Store,Bank Transfer,79680.78,8,25,621510.084,2.7,0
+20/10/2023,Books,Self-Help Book,Mombasa,Mobile App,M-Pesa,461.73,8,25,2770.38,3.8,0
+06/08/2024,Books,Self-Help Book,Kisumu,Mobile App,Bank Transfer,1471,7,0,10297,3.9,0
+12/05/2023,Home & Garden,Sofa,Nakuru,Social Media,PayPal,22953.88,10,0,229538.8,4.9,0
+16/02/2023,Home & Garden,Pillow Set,Kisumu,In-Store,Credit Card,48515.07,7,0,339605.49,2.6,0
+19/09/2024,Books,Biographies,Nakuru,In-Store,PayPal,3158.02,3,15,8052.95,3.3,0
+26/12/2024,Sports,Football,Machakos,Mobile App,PayPal,20580.58,9,25,180594.596,3.7,0
+29/09/2023,Home & Garden,Wall Art,Nairobi,Social Media,PayPal,25168.08,1,25,18876.06,4.9,0
+01/06/2023,Sports,Tennis Racket,Mombasa,Online,PayPal,29138.66,9,20,209798.35,4.6,0
+27/02/2024,Sports,Football,Nairobi,In-Store,M-Pesa,26797.69,7,0,187583.83,4.2,0
+09/11/2024,Sports,Bicycle,Machakos,Online,Credit Card,31409.78,9,15,312370.266,3.4,1
+13/10/2023,Books,Biographies,Kisumu,Mobile App,Cash,2252.25,4,5,8558.55,3.9,0
+22/10/2023,Home & Garden,Rug,Kisumu,In-Store,Bank Transfer,25909.63,6,10,139912,2.8,0
+21/12/2023,Books,Science Book,Machakos,Mobile App,Credit Card,1229.45,5,0,7991.425,4.1,0
+22/09/2024,Clothing,Jeans,Machakos,Mobile App,PayPal,8505.97,3,0,25517.91,4.4,0
+28/04/2024,Electronics,Camera,Eldoret,In-Store,Credit Card,9768.68,7,15,58123.65,2.8,0
+25/11/2023,Electronics,Smartwatch,Mombasa,Social Media,Bank Transfer,72662.38,4,10,261584.57,2.6,0
+11/02/2024,Sports,Dumbbells,Eldoret,Online,Credit Card,25422.37,3,0,76267.11,4.5,0
+10/04/2024,Home & Garden,Sofa,Nairobi,Mobile App,PayPal,48540.41,6,10,262118.21,5,0
+16/06/2023,Books,Self-Help Book,Machakos,Social Media,Cash,917,2,15,1558.9,4.3,0
+17/09/2024,Clothing,T-Shirt,Thika,Mobile App,Cash,7029.48,4,0,28117.92,4.6,1
+03/05/2024,Books,Biographies,Kisumu,Online,Bank Transfer,2441.62,3,0,7324.86,3.3,0
+25/09/2023,Home & Garden,Coffee Maker,Mombasa,Social Media,Cash,76359.56,5,0,381797.8,4.1,0
+07/12/2024,Electronics,Camera,Nairobi,Social Media,Cash,25638.09,9,10,207668.53,4.8,0
+01/03/2024,Sports,Dumbbells,Mombasa,In-Store,Bank Transfer,9699.22,10,15,82443.37,4.3,1
+22/06/2024,Sports,Swimming Goggles,Thika,In-Store,Credit Card,41012.31,10,0,410123.1,3.6,0
+18/06/2023,Electronics,Smartwatch,Nairobi,Online,PayPal,135627.45,4,0,542509.8,3.3,0
+09/04/2024,Electronics,Camera,Mombasa,Social Media,M-Pesa,135035.62,8,0,1080284.96,2.8,0
+04/01/2023,Sports,Yoga Mat,Eldoret,Social Media,Cash,43562.84,7,10,274445.89,4.4,0
+02/02/2023,Electronics,Headphones,Kisumu,Online,PayPal,149130.3,2,25,223695.45,3.2,0
+22/01/2024,Clothing,Hoodie,Thika,Social Media,Cash,11917.85,7,25,62568.71,3.4,0
+25/06/2024,Sports,Dumbbells,Thika,Mobile App,M-Pesa,11201.33,9,20,80649.58,2.8,2
+28/06/2024,Electronics,Speaker,Nairobi,Mobile App,Bank Transfer,101677.98,9,20,732081.46,3.4,0
+07/11/2024,Books,Cookbook,Mombasa,Mobile App,Credit Card,3299.71,2,0,8579.246,4.4,1
+08/09/2023,Electronics,Laptop,Mombasa,Online,M-Pesa,89903.73,8,0,719229.84,4.4,0
+12/08/2024,Clothing,Sneakers,Mombasa,Online,Credit Card,6294.8,5,5,29900.3,3.3,0
+04/03/2023,Home & Garden,Desk Lamp,Kisumu,In-Store,PayPal,18306.59,5,10,82379.65,3.9,0
+21/06/2024,Clothing,Boots,Thika,Social Media,PayPal,6199.64,6,20,29758.27,3.3,0
+25/12/2024,Clothing,Dress,Nakuru,In-Store,PayPal,5945.47,4,10,21403.69,3.7,0
+24/10/2024,Books,Science Book,Eldoret,In-Store,Bank Transfer,1077.15,4,15,3662.31,2.7,0
+16/03/2023,Home & Garden,Sofa,Eldoret,In-Store,M-Pesa,22062.16,10,0,220621.6,3,0
+14/07/2023,Sports,Dumbbells,Nakuru,In-Store,Cash,18609.37,1,5,17678.9,4.9,0
+17/10/2023,Books,Self-Help Book,Thika,In-Store,Bank Transfer,3228.4,9,15,24697.26,3.5,0
+25/04/2024,Home & Garden,Blender,Kisumu,Mobile App,PayPal,70718.71,8,0,565749.68,4.4,0
+17/01/2023,Clothing,Dress,Kisumu,Social Media,M-Pesa,6969.03,4,0,27876.12,3.2,1
+06/08/2024,Sports,Football,Nakuru,Mobile App,Credit Card,12253.79,4,20,39212.13,4.6,0
+24/05/2023,Home & Garden,Blender,Machakos,Social Media,Bank Transfer,37297.66,6,0,223785.96,4.3,0
+27/02/2024,Sports,Football,Nairobi,Online,M-Pesa,56744.17,1,0,56744.17,2.8,0
+24/09/2024,Electronics,Camera,Mombasa,Online,Credit Card,76848.47,6,0,461090.82,4.1,1
+18/01/2023,Books,Comics,Nakuru,Online,M-Pesa,2003.08,7,0,14021.56,3.8,0
+04/09/2023,Home & Garden,Sofa,Eldoret,Social Media,Credit Card,9275.7,2,0,18551.4,3,0
+01/08/2024,Home & Garden,Blender,Machakos,Social Media,M-Pesa,30345.69,7,25,159314.87,3.1,0
+19/07/2024,Home & Garden,Wall Art,Machakos,Online,M-Pesa,8205.24,7,20,45949.34,3.7,0
+24/08/2023,Clothing,T-Shirt,Nakuru,Social Media,Cash,7007.35,2,0,14014.7,3,1
+03/07/2023,Sports,Bicycle,Kisumu,Online,M-Pesa,41255.07,5,0,206275.35,4.8,0
+03/08/2024,Clothing,Sneakers,Mombasa,Social Media,M-Pesa,3941.68,10,5,37445.96,4.6,0
+11/04/2023,Sports,Running Shoes,Nakuru,In-Store,M-Pesa,30347.1,6,0,182082.6,3.6,0
+17/05/2024,Home & Garden,Pillow Set,Machakos,Social Media,Cash,3146.35,5,25,11798.81,3.1,0
+31/12/2024,Books,Science Book,Mombasa,Social Media,M-Pesa,2770.94,5,5,13161.97,3.2,0
+31/03/2024,Clothing,Boots,Nakuru,Mobile App,Cash,1725.34,1,10,1552.81,3.4,0
+16/04/2023,Clothing,T-Shirt,Mombasa,Social Media,Bank Transfer,6905.33,9,20,49718.38,2.6,0
+28/03/2023,Electronics,Smartwatch,Eldoret,Mobile App,Bank Transfer,3826.41,7,20,21427.9,4.3,0
+02/10/2023,Clothing,Sneakers,Eldoret,In-Store,Bank Transfer,2449.27,5,10,11021.72,3.7,0
+10/09/2023,Books,Cookbook,Nakuru,Mobile App,Bank Transfer,2804.53,6,10,15144.46,4.3,0
+27/09/2024,Sports,Dumbbells,Nakuru,Online,Credit Card,18696.68,7,15,111245.25,3.4,1
+18/11/2023,Books,Cookbook,Nakuru,In-Store,Cash,1326.13,4,25,3978.39,3.5,0
+27/04/2023,Books,Biographies,Machakos,In-Store,Cash,1503.38,7,15,8945.11,4.8,0
+26/10/2023,Sports,Dumbbells,Thika,Online,Bank Transfer,56612.71,4,25,169838.13,4.6,0
+22/01/2024,Books,Comics,Nakuru,In-Store,Cash,1074.47,3,20,2578.73,2.7,2
+22/04/2023,Books,Biographies,Nakuru,Social Media,PayPal,417.65,6,0,2505.9,4.4,0
+16/03/2024,Home & Garden,Desk Lamp,Thika,Online,PayPal,78701.77,7,15,468275.53,2.8,0
+20/12/2023,Clothing,Sneakers,Thika,In-Store,Bank Transfer,4802.38,8,0,49944.752,3.7,0
+17/06/2024,Electronics,Smartphone,Machakos,In-Store,Cash,48159.77,8,5,366014.25,3.7,0
+24/01/2023,Books,Comics,Thika,Social Media,Cash,514.96,1,0,514.96,4.6,0
+18/04/2024,Clothing,Boots,Mombasa,In-Store,PayPal,2341.56,9,20,16859.23,3.1,0
+05/04/2024,Clothing,Jeans,Thika,Social Media,Bank Transfer,835.71,10,5,7939.24,4,0
+10/01/2024,Clothing,Jeans,Kisumu,Online,PayPal,1670.15,9,0,15031.35,3.3,0
+17/09/2024,Home & Garden,Wall Art,Machakos,Social Media,PayPal,77300.58,6,20,371042.78,3.5,0
+19/11/2024,Home & Garden,Rug,Nakuru,In-Store,Cash,73559.66,10,0,735596.6,2.8,0
+11/08/2024,Clothing,Dress,Thika,In-Store,PayPal,4967.33,10,0,49673.3,3.5,0
+11/07/2023,Sports,Football,Thika,In-Store,PayPal,10511.81,5,0,52559.05,3.3,0
+23/02/2024,Electronics,Speaker,Kisumu,Online,Bank Transfer,22207.14,7,25,116587.48,4.2,0
+03/02/2023,Books,Science Book,Mombasa,Online,PayPal,398.75,4,10,1435.5,3.2,0
+02/10/2023,Clothing,Hoodie,Nakuru,Social Media,PayPal,6374.27,10,0,63742.7,4.4,0
+31/10/2024,Home & Garden,Pillow Set,Machakos,Online,Bank Transfer,44071.18,7,0,308498.26,4.4,0
+03/08/2023,Electronics,Headphones,Kisumu,Mobile App,M-Pesa,66982.35,2,5,127266.47,4.5,0
+02/03/2023,Home & Garden,Rug,Thika,Social Media,Credit Card,49599.18,4,5,188476.88,3.9,0
+19/05/2023,Sports,Tennis Racket,Mombasa,Mobile App,Cash,17786.39,5,0,88931.95,4.9,0
+23/11/2024,Electronics,Tablet,Machakos,In-Store,Credit Card,38952.23,6,5,222027.71,2.9,0
+10/04/2024,Books,Science Book,Nakuru,Online,M-Pesa,1589.12,5,15,6753.76,4.9,0
+01/07/2024,Electronics,Speaker,Machakos,Online,Bank Transfer,95956.4,6,0,575738.4,3.5,1
+02/08/2024,Clothing,Jacket,Kisumu,Mobile App,Cash,4384.18,10,0,43841.8,4.6,0
+12/04/2024,Electronics,Smartphone,Nairobi,Social Media,M-Pesa,20387.1,3,25,45870.97,2.5,1
+01/11/2024,Clothing,Boots,Mombasa,Mobile App,Credit Card,10555.87,5,0,52779.35,2.7,0
+02/01/2023,Clothing,T-Shirt,Nakuru,Mobile App,Credit Card,5436.16,2,0,10872.32,3,0
+08/03/2024,Sports,Dumbbells,Eldoret,Social Media,M-Pesa,1078.92,6,0,6473.52,4.2,0
+27/01/2024,Clothing,Jacket,Nairobi,Online,M-Pesa,4103.54,5,0,20517.7,4.4,0
+26/03/2024,Clothing,Boots,Thika,In-Store,M-Pesa,6600.85,1,0,6600.85,3.4,0
+07/05/2023,Clothing,Jacket,Eldoret,Social Media,Credit Card,1496.91,2,0,2993.82,4,0
+20/07/2024,Books,Cookbook,Machakos,In-Store,Credit Card,1186.3,2,5,2253.97,4,0
+06/02/2024,Home & Garden,Rug,Thika,Online,Cash,17071.3,10,5,162177.35,3.2,0
+24/06/2024,Clothing,Jacket,Nakuru,Online,Credit Card,6245.2,10,0,62452,4.7,0
+27/04/2024,Home & Garden,Blender,Mombasa,Social Media,PayPal,34132.39,9,0,307191.51,4.9,0
+02/06/2024,Electronics,Smartwatch,Nairobi,Online,Cash,33929.95,1,20,27143.96,3.2,0
+12/10/2023,Books,Science Book,Thika,Social Media,M-Pesa,2349.72,9,0,21147.48,2.7,0
+16/12/2024,Clothing,Hoodie,Mombasa,Mobile App,Bank Transfer,7244.03,2,10,16951.025,4.9,0
+13/11/2024,Clothing,T-Shirt,Nakuru,Online,Bank Transfer,7541.41,1,10,8823.451,4.4,0
+20/06/2023,Clothing,Boots,Nairobi,In-Store,Bank Transfer,11459.69,9,10,92823.49,3.4,0
+27/09/2023,Home & Garden,Wall Art,Nairobi,Online,Cash,64722.94,5,0,323614.7,4.3,0
+12/01/2024,Electronics,Headphones,Nakuru,Mobile App,M-Pesa,75942.28,10,0,759422.8,2.9,0
+13/01/2023,Sports,Football,Thika,Online,Credit Card,44602.33,1,0,44602.33,3.1,0
+26/11/2023,Books,Self-Help Book,Mombasa,Online,PayPal,2869.97,7,5,19085.3,4.8,0
+17/08/2023,Electronics,Smartwatch,Kisumu,Online,PayPal,101652.21,1,0,101652.21,4.5,2
+09/01/2023,Books,Fiction Novel,Nakuru,Mobile App,Cash,1347.36,9,25,9094.68,3.4,0
+13/07/2024,Home & Garden,Wall Art,Eldoret,In-Store,Bank Transfer,29967.27,8,5,227751.25,4.4,0
+02/01/2023,Electronics,Headphones,Nairobi,In-Store,PayPal,53270.71,1,15,45280.1,4.4,0
+29/12/2024,Home & Garden,Sofa,Mombasa,In-Store,Bank Transfer,39768.69,1,0,39768.69,2.6,0
+01/06/2024,Sports,Bicycle,Thika,Mobile App,Bank Transfer,58488.55,2,0,116977.1,2.8,0
+26/10/2023,Electronics,Smartwatch,Eldoret,Online,Bank Transfer,100041.7,3,5,285118.84,3.2,0
+27/07/2023,Books,Comics,Machakos,Mobile App,Cash,1748.83,4,0,6995.32,2.8,0
+02/07/2024,Electronics,Laptop,Nairobi,In-Store,Bank Transfer,70976.16,7,0,496833.12,3.4,0
+09/08/2023,Books,Cookbook,Nakuru,Mobile App,M-Pesa,589.35,5,0,2946.75,4.6,0
+28/06/2023,Electronics,Camera,Mombasa,Mobile App,Bank Transfer,77992.03,5,10,350964.14,2.6,0
+13/01/2023,Books,Biographies,Thika,In-Store,M-Pesa,1778.54,3,0,5335.62,2.7,0
+18/03/2023,Clothing,Jeans,Mombasa,Social Media,Cash,8392.28,2,10,15106.1,2.6,0
+22/06/2023,Books,Textbook,Mombasa,Online,Cash,692.09,8,0,5536.72,4.8,0
+09/10/2023,Books,Science Book,Nairobi,Social Media,Bank Transfer,852.98,4,0,3411.92,3.2,1
+04/03/2023,Electronics,Smartwatch,Eldoret,In-Store,Cash,75835.96,9,25,511892.73,2.7,0
+06/05/2024,Books,Self-Help Book,Thika,In-Store,PayPal,2843.51,7,15,16918.88,3.9,0
+31/01/2023,Sports,Tennis Racket,Kisumu,Social Media,Cash,11281.06,6,5,64302.04,4.7,0
+11/09/2023,Electronics,Speaker,Nakuru,Mobile App,PayPal,149941.65,3,0,449824.95,4.1,0
+31/08/2023,Electronics,Speaker,Mombasa,Social Media,Cash,140410.49,3,0,421231.47,4,0
+19/05/2024,Home & Garden,Pillow Set,Nairobi,Mobile App,PayPal,45437.63,10,5,431657.48,3.9,0
+01/01/2023,Electronics,Smartphone,Nairobi,In-Store,PayPal,34383.72,9,25,232090.11,3.3,0
+24/04/2023,Clothing,Dress,Thika,In-Store,Cash,1184.89,3,0,3554.67,4.6,1
+20/05/2023,Electronics,Tablet,Thika,Social Media,PayPal,16952.76,5,15,72049.23,4.9,0
+17/08/2023,Books,Textbook,Thika,Social Media,Cash,857.45,9,15,6559.49,4.2,0
+04/08/2024,Books,Cookbook,Thika,Mobile App,Credit Card,868.67,1,20,694.94,2.6,0
+22/12/2023,Sports,Dumbbells,Thika,Online,Bank Transfer,8954.22,2,5,22116.926,2.9,1
+10/12/2024,Electronics,Speaker,Thika,Mobile App,Bank Transfer,3686.55,4,5,14008.89,3.1,0
+23/01/2024,Electronics,Smartphone,Nakuru,Social Media,Bank Transfer,145427.07,7,25,763492.12,3.4,0
+21/01/2023,Books,Textbook,Machakos,In-Store,Credit Card,1744.12,1,10,1569.71,3.3,1
+13/12/2023,Electronics,Tablet,Mombasa,Social Media,Credit Card,110333.79,9,0,1290905.343,4,0
+14/04/2023,Electronics,Headphones,Thika,In-Store,PayPal,133683.48,3,0,401050.44,3.3,2
+07/02/2024,Books,Comics,Eldoret,Mobile App,Cash,1251.68,2,0,2503.36,3.9,0
+24/07/2023,Clothing,T-Shirt,Kisumu,Online,Bank Transfer,1507.73,10,25,11307.97,2.7,0
+07/11/2024,Home & Garden,Sofa,Nakuru,Online,Cash,62962.22,8,25,377773.32,4.1,0
+27/09/2023,Home & Garden,Coffee Maker,Kisumu,In-Store,Bank Transfer,4333.66,8,25,26001.96,3.1,0
+26/08/2024,Electronics,Laptop,Machakos,Online,M-Pesa,100884.89,9,20,726371.21,3.1,0
+02/05/2024,Books,Textbook,Eldoret,Social Media,PayPal,2498.62,8,5,18989.51,3.2,0
+21/06/2023,Electronics,Smartwatch,Eldoret,In-Store,M-Pesa,142489.71,8,0,1139917.68,4.9,0
+24/11/2023,Clothing,T-Shirt,Nakuru,Online,Bank Transfer,2822.07,3,10,9905.467,4.8,0
+26/04/2023,Books,Biographies,Nakuru,Mobile App,Cash,1963,1,20,1570.4,3.5,0
+02/07/2024,Sports,Tennis Racket,Machakos,Online,M-Pesa,34023.42,2,10,61242.16,4.7,1
+10/10/2023,Home & Garden,Coffee Maker,Thika,Social Media,PayPal,49029.8,1,0,49029.8,3.5,0
+17/01/2024,Books,Fiction Novel,Nakuru,Mobile App,Credit Card,457.73,8,10,3295.66,2.6,0
+04/11/2023,Home & Garden,Blender,Kisumu,Social Media,M-Pesa,77821.73,4,0,404672.996,3.6,0
+12/06/2024,Home & Garden,Wall Art,Nakuru,Online,Credit Card,35783.95,7,25,187865.74,4.7,0
+20/06/2024,Sports,Swimming Goggles,Mombasa,Online,Cash,42748.42,7,0,299238.94,4.7,0
+22/12/2024,Clothing,Hoodie,Mombasa,Online,Credit Card,880.32,1,15,748.27,3.4,0
+01/07/2023,Books,Comics,Nairobi,Online,Credit Card,1491.89,10,25,11189.18,4.9,0
+29/01/2023,Sports,Running Shoes,Kisumu,In-Store,Cash,45088.29,2,10,81158.92,3.5,0
+09/06/2024,Sports,Swimming Goggles,Mombasa,In-Store,Credit Card,40855.1,5,20,163420.4,2.6,0
+14/09/2024,Electronics,Headphones,Mombasa,In-Store,PayPal,120527.99,4,10,433900.76,4.5,0
+24/11/2024,Home & Garden,Coffee Maker,Nakuru,Mobile App,Bank Transfer,20758.3,8,10,194297.688,4.1,0
+02/11/2023,Electronics,Smartwatch,Thika,Mobile App,PayPal,97806.63,10,10,1144337.571,3.7,0
+03/06/2023,Home & Garden,Wall Art,Kisumu,Mobile App,Cash,52764.67,5,5,250632.18,3.8,0
+30/10/2023,Electronics,Speaker,Machakos,Social Media,Cash,102751.85,1,25,77063.89,3.1,0
+18/11/2024,Books,Comics,Nairobi,In-Store,Cash,2624.96,4,25,7874.88,3.3,0
+27/11/2024,Sports,Dumbbells,Kisumu,Online,Bank Transfer,8199.88,5,0,53299.22,4.1,0
+24/09/2023,Clothing,Boots,Machakos,Mobile App,Bank Transfer,9563.04,6,15,48771.5,4,0
+28/11/2024,Electronics,Headphones,Nairobi,Online,Bank Transfer,133635.06,9,0,1202715.54,3.2,0
+20/11/2023,Clothing,Jeans,Mombasa,Mobile App,Bank Transfer,11852.7,8,0,123268.08,3,0
+22/06/2023,Home & Garden,Wall Art,Mombasa,Mobile App,M-Pesa,1173.31,5,5,5573.22,3.9,0
+05/01/2023,Electronics,Laptop,Eldoret,Social Media,Bank Transfer,61702.24,8,20,394894.34,2.6,0
+11/12/2024,Home & Garden,Sofa,Kisumu,In-Store,M-Pesa,54398.45,4,5,268728.343,3.3,0
+11/04/2024,Sports,Tennis Racket,Kisumu,In-Store,M-Pesa,49536.32,5,10,222913.44,4.3,0
+12/07/2023,Home & Garden,Coffee Maker,Thika,In-Store,Cash,79694.2,8,15,541920.56,2.9,1
+07/05/2023,Books,Fiction Novel,Mombasa,In-Store,Credit Card,975.81,1,0,975.81,3.4,0
+08/11/2024,Electronics,Headphones,Thika,Mobile App,PayPal,94223.95,10,0,942239.5,4.6,0
+30/07/2023,Electronics,Headphones,Nakuru,Social Media,M-Pesa,82997.79,8,0,663982.32,4.2,0
+04/03/2024,Home & Garden,Coffee Maker,Thika,Online,PayPal,22182.19,10,0,221821.9,4.6,0
+27/09/2023,Sports,Yoga Mat,Kisumu,Online,M-Pesa,30165.7,10,5,286574.15,4.6,2
+05/12/2024,Home & Garden,Wall Art,Nakuru,Mobile App,Credit Card,3920.93,8,5,38738.791,3.3,0
+14/04/2023,Electronics,Smartphone,Machakos,Social Media,Credit Card,142518.01,9,0,1282662.09,4.8,0
+25/10/2023,Books,Cookbook,Kisumu,Social Media,M-Pesa,619.39,3,0,1858.17,3.4,0
+03/12/2023,Books,Comics,Nairobi,Online,M-Pesa,330.95,3,0,992.85,3.6,0
+06/10/2023,Electronics,Tablet,Machakos,Mobile App,Credit Card,18847.14,7,25,98947.48,4.6,0
+17/04/2023,Books,Textbook,Nakuru,In-Store,M-Pesa,724.04,1,0,724.04,3.5,0
+01/12/2024,Sports,Football,Nakuru,In-Store,PayPal,23157.2,6,0,180626.16,4.3,1
+13/01/2023,Books,Science Book,Nairobi,Social Media,Bank Transfer,447.11,5,15,1900.22,4.3,0
+19/03/2024,Sports,Football,Eldoret,In-Store,Cash,31434.52,10,0,314345.2,4.2,0
+12/01/2023,Home & Garden,Wall Art,Thika,Social Media,Credit Card,67251.42,9,0,605262.78,4.1,0
+05/12/2023,Books,Textbook,Nakuru,In-Store,M-Pesa,2704.58,6,5,20040.943,2.6,0
+01/04/2023,Books,Science Book,Machakos,In-Store,M-Pesa,1769.1,10,25,13268.25,4.6,0
+04/04/2023,Electronics,Headphones,Thika,Online,M-Pesa,61709.07,1,0,61709.07,4.5,1
+17/08/2023,Home & Garden,Pillow Set,Eldoret,In-Store,Bank Transfer,76068.13,6,0,456408.78,4.6,0
+16/12/2023,Sports,Tennis Racket,Nakuru,Mobile App,Bank Transfer,7372.99,4,0,29491.96,4.1,0
+24/02/2024,Sports,Tennis Racket,Kisumu,Online,M-Pesa,53874.5,8,0,430996,2.8,0
+21/04/2023,Clothing,T-Shirt,Machakos,Social Media,Credit Card,5756.03,4,15,19570.5,4.4,0
+25/05/2024,Sports,Yoga Mat,Machakos,Social Media,Bank Transfer,39712.33,9,0,357410.97,2.5,0
+12/05/2023,Sports,Bicycle,Machakos,Social Media,PayPal,46996.24,3,0,140988.72,2.8,0
+12/02/2024,Sports,Running Shoes,Eldoret,Social Media,Bank Transfer,58782.35,4,10,211616.46,4.9,2
+19/12/2024,Books,Textbook,Mombasa,In-Store,Bank Transfer,2228.08,9,10,23461.685,3.3,0
+19/11/2024,Sports,Football,Mombasa,In-Store,Credit Card,37675.55,5,15,160121.09,4.3,2
+19/08/2024,Clothing,Sneakers,Eldoret,Mobile App,M-Pesa,9248.91,9,25,62430.14,3.9,0
+26/01/2023,Books,Comics,Thika,Mobile App,Bank Transfer,2886.58,9,0,25979.22,3.5,0
+08/12/2024,Electronics,Laptop,Kisumu,In-Store,Cash,103141.77,3,0,402252.903,3,0
+24/10/2024,Home & Garden,Rug,Nakuru,Online,PayPal,69548.4,9,5,594638.82,3.9,0
+14/01/2023,Home & Garden,Wall Art,Thika,Online,Bank Transfer,31494.33,6,0,188965.98,4.4,0
+18/07/2023,Books,Textbook,Mombasa,Mobile App,PayPal,2049.17,10,5,19467.11,3.2,0
+14/05/2023,Electronics,Laptop,Mombasa,Online,Bank Transfer,8013.87,5,10,36062.42,2.9,0
+02/10/2024,Electronics,Tablet,Nakuru,In-Store,M-Pesa,24748.1,6,0,148488.6,4,0
+08/07/2023,Books,Textbook,Eldoret,Mobile App,M-Pesa,2808.9,6,5,16010.73,3.8,0
+06/12/2023,Clothing,Jacket,Eldoret,Social Media,M-Pesa,4518.13,4,15,15361.64,3,0
+19/10/2024,Sports,Bicycle,Eldoret,Online,M-Pesa,40334.94,8,5,306545.54,4,0
+26/01/2023,Electronics,Camera,Kisumu,Social Media,M-Pesa,59109.64,9,10,478788.08,4.8,0
+10/06/2024,Home & Garden,Pillow Set,Machakos,Social Media,Bank Transfer,4273.05,4,15,14528.37,2.7,0
+17/04/2023,Sports,Tennis Racket,Nairobi,Online,Credit Card,40417.91,4,20,129337.31,3,0
+31/03/2023,Books,Comics,Machakos,Online,Credit Card,376.01,6,0,2256.06,2.7,0
+19/03/2024,Home & Garden,Pillow Set,Nairobi,In-Store,Cash,33084.52,8,20,211740.93,3.3,0
+29/05/2024,Electronics,Smartwatch,Nairobi,Online,PayPal,8736.49,2,15,14852.03,2.8,0
+10/06/2023,Home & Garden,Pillow Set,Nairobi,Mobile App,Bank Transfer,31007.96,1,25,23255.97,3.8,0
+20/07/2024,Books,Textbook,Machakos,Mobile App,Credit Card,1253.78,6,0,7522.68,4.7,0
+04/08/2023,Electronics,Smartphone,Eldoret,Social Media,PayPal,83033.77,2,10,149460.79,4.4,1
+18/07/2023,Home & Garden,Desk Lamp,Nakuru,In-Store,Credit Card,15372.22,10,10,138349.98,2.8,0
+11/04/2023,Sports,Swimming Goggles,Nairobi,Social Media,PayPal,4944.79,2,10,8900.62,3,0
+22/11/2023,Home & Garden,Blender,Mombasa,In-Store,M-Pesa,23382.86,2,5,57755.659,3.3,0
+17/11/2023,Sports,Dumbbells,Eldoret,Mobile App,Cash,57544.34,3,0,172633.02,3.1,0
+18/04/2024,Books,Cookbook,Machakos,Mobile App,Credit Card,2474.66,6,25,11135.97,3.6,0
+05/07/2024,Books,Biographies,Nairobi,In-Store,PayPal,562.32,5,0,2811.6,3,0
+27/08/2024,Electronics,Camera,Nairobi,Online,PayPal,95480.72,10,20,763845.76,3,0
+18/05/2023,Home & Garden,Pillow Set,Eldoret,Social Media,Credit Card,29772.84,4,10,107182.22,3.7,0
+10/06/2024,Books,Cookbook,Eldoret,Online,Credit Card,3013.54,10,0,30135.4,2.9,0
+14/05/2024,Sports,Tennis Racket,Thika,In-Store,Bank Transfer,56387.01,1,5,53567.66,3.1,0
+25/04/2024,Clothing,T-Shirt,Thika,In-Store,PayPal,10938.85,6,20,52506.48,4.8,1
+15/08/2024,Electronics,Camera,Kisumu,Online,PayPal,95767.91,5,10,430955.6,3.9,0
+28/12/2023,Books,Cookbook,Eldoret,Online,PayPal,1105.08,4,20,4597.138,3.4,0
+05/08/2023,Sports,Yoga Mat,Eldoret,In-Store,Bank Transfer,10436.99,2,10,18786.58,2.9,0
+08/05/2024,Sports,Football,Machakos,Online,Credit Card,25228.05,6,0,151368.3,4.2,0
+18/05/2023,Sports,Dumbbells,Thika,Social Media,M-Pesa,15074.02,3,0,45222.06,4.1,0
+05/09/2024,Sports,Dumbbells,Nairobi,In-Store,Cash,55393.34,9,20,398832.05,4.9,0
+13/08/2023,Home & Garden,Sofa,Mombasa,Social Media,PayPal,79427.85,8,0,635422.8,4.6,0
+03/12/2024,Sports,Swimming Goggles,Machakos,In-Store,PayPal,39783.14,5,0,198915.7,3.6,0
+03/06/2023,Clothing,Jacket,Nakuru,In-Store,M-Pesa,690.47,9,20,4971.38,4,0
+25/11/2024,Sports,Tennis Racket,Nairobi,Online,M-Pesa,29245.11,3,0,114055.929,3.8,0
+25/12/2023,Electronics,Camera,Eldoret,Social Media,Credit Card,140886.4,8,20,1172174.848,4.4,0
+18/10/2023,Sports,Yoga Mat,Nakuru,In-Store,Cash,28942.19,4,0,115768.76,4,0
+20/01/2024,Home & Garden,Desk Lamp,Nairobi,Online,PayPal,42185.22,9,0,379666.98,4.1,0
+25/09/2023,Home & Garden,Coffee Maker,Kisumu,Online,Credit Card,34544.87,10,10,310903.83,4.6,0
+03/07/2023,Home & Garden,Pillow Set,Kisumu,Social Media,Credit Card,33527.67,9,25,226311.77,3.4,0
+02/04/2024,Home & Garden,Blender,Eldoret,Mobile App,Bank Transfer,59073.97,2,5,112240.54,4.5,1
+14/06/2023,Electronics,Laptop,Eldoret,Social Media,Cash,120526.35,10,0,1205263.5,3.5,0
+16/08/2023,Electronics,Speaker,Mombasa,Social Media,PayPal,66435.86,2,10,119584.55,3.4,0
+25/03/2024,Books,Science Book,Eldoret,Mobile App,PayPal,483.88,3,25,1088.73,2.5,1
+21/11/2024,Sports,Running Shoes,Mombasa,Online,PayPal,30926.54,4,0,123706.16,3.1,0
+14/06/2024,Clothing,T-Shirt,Kisumu,Social Media,Cash,8201.11,7,5,54537.38,2.5,0
+12/09/2024,Electronics,Smartwatch,Kisumu,Mobile App,Cash,144566.57,5,5,686691.21,4.9,0
+30/05/2024,Books,Biographies,Nairobi,Mobile App,Credit Card,1602.83,2,0,3205.66,3.2,1
+07/09/2023,Sports,Running Shoes,Eldoret,Mobile App,Bank Transfer,57983.69,10,25,434877.68,4.4,1
+10/10/2024,Books,Comics,Nakuru,Online,Bank Transfer,672.06,2,20,1075.3,4.5,0
+12/09/2023,Clothing,Hoodie,Kisumu,Social Media,Cash,6439.8,1,10,5795.82,3.2,0
+07/07/2023,Home & Garden,Sofa,Eldoret,In-Store,Bank Transfer,25658.72,4,10,92371.39,4.9,0
+23/08/2023,Clothing,Jacket,Thika,In-Store,Credit Card,8957.43,5,5,42547.79,3,0
+08/07/2024,Sports,Running Shoes,Mombasa,Online,M-Pesa,55259.17,8,0,442073.36,4.9,0
+07/06/2024,Home & Garden,Pillow Set,Kisumu,Social Media,PayPal,69606.49,8,0,556851.92,3.2,0
+08/02/2024,Sports,Dumbbells,Nairobi,Social Media,Bank Transfer,56415.47,1,15,47953.15,4.7,0
+24/01/2024,Books,Fiction Novel,Thika,Social Media,Cash,2505.47,1,5,2380.2,4,0
+19/09/2024,Sports,Swimming Goggles,Kisumu,In-Store,PayPal,16213.23,5,25,60799.61,3.4,0
+04/07/2023,Books,Self-Help Book,Nakuru,Mobile App,Cash,3033.84,5,25,11376.9,3.9,2
+30/05/2023,Clothing,Hoodie,Nairobi,Mobile App,Credit Card,6886.41,7,5,45794.63,4.5,0
+13/05/2024,Books,Textbook,Nairobi,In-Store,Bank Transfer,1898.71,9,15,14525.13,3.3,0
+06/10/2024,Sports,Yoga Mat,Nakuru,Online,Credit Card,4166.16,5,25,15623.1,2.7,0
+26/11/2024,Home & Garden,Blender,Kisumu,Mobile App,Cash,2370.96,2,15,5239.819,3,0
+02/04/2024,Sports,Dumbbells,Machakos,Mobile App,Cash,19910.36,9,25,134394.93,4.7,0
+08/10/2024,Home & Garden,Coffee Maker,Thika,In-Store,Credit Card,51533.99,6,20,247363.15,4,0
+11/09/2024,Electronics,Smartphone,Mombasa,Mobile App,Credit Card,48395.35,5,10,217779.08,4.1,0
+21/06/2023,Books,Textbook,Machakos,Mobile App,PayPal,1966.99,8,20,12588.74,3,0
+07/03/2023,Clothing,Boots,Kisumu,Online,Credit Card,2419.47,2,0,4838.94,4.8,0
+26/09/2023,Electronics,Smartphone,Machakos,Social Media,PayPal,115219.46,2,0,230438.92,4,0
+23/06/2024,Books,Cookbook,Mombasa,In-Store,Cash,1718.11,3,0,5154.33,4.6,0
+15/07/2024,Home & Garden,Rug,Kisumu,Social Media,Bank Transfer,78018.54,9,10,631950.17,3.6,1
+22/12/2023,Sports,Dumbbells,Eldoret,Social Media,PayPal,26437.66,9,10,278388.565,3.1,0
+19/12/2023,Home & Garden,Blender,Nakuru,Mobile App,Credit Card,24842.97,1,0,24842.97,3.8,0
+08/01/2023,Books,Textbook,Nakuru,Mobile App,M-Pesa,2750.78,5,5,13066.2,3.9,0
+14/08/2023,Sports,Bicycle,Nakuru,In-Store,Credit Card,43067.32,7,20,241176.99,3.2,0
+27/02/2024,Clothing,Sneakers,Machakos,Mobile App,Cash,7957.26,9,10,64453.81,3,0
+12/07/2023,Clothing,Dress,Nairobi,Social Media,PayPal,5706.82,10,25,42801.15,3.3,0
+27/08/2023,Sports,Yoga Mat,Mombasa,Online,Cash,16590.19,8,0,132721.52,2.7,0
+05/12/2023,Clothing,Dress,Nakuru,Mobile App,Bank Transfer,11976.58,8,0,95812.64,4.4,0
+26/01/2024,Home & Garden,Rug,Nakuru,Online,PayPal,38035.62,4,10,136928.23,4.6,0
+16/04/2024,Clothing,Jacket,Machakos,Social Media,Credit Card,8982.62,1,5,8533.49,4.3,0
+17/09/2023,Clothing,Jacket,Nakuru,Mobile App,Cash,2324.03,1,0,2324.03,3.7,0
+16/01/2023,Home & Garden,Sofa,Machakos,In-Store,M-Pesa,19488.49,7,15,115956.52,2.9,0
+05/12/2024,Electronics,Headphones,Machakos,In-Store,M-Pesa,145387.57,10,25,1417528.814,3.4,0
+09/05/2023,Clothing,Jacket,Nairobi,Mobile App,M-Pesa,1187.41,3,0,3562.23,3.7,0
+02/01/2024,Sports,Swimming Goggles,Thika,Mobile App,Bank Transfer,44151.42,1,20,35321.14,4.3,0
+03/08/2024,Electronics,Headphones,Thika,Social Media,PayPal,45617.76,8,5,346694.98,3,0
+27/09/2023,Books,Cookbook,Machakos,In-Store,M-Pesa,1999.64,8,10,14397.41,3.9,0
+25/11/2023,Sports,Bicycle,Thika,In-Store,M-Pesa,37412.24,6,5,277224.701,4.1,0
+24/02/2024,Books,Self-Help Book,Eldoret,Social Media,PayPal,793.22,5,15,3371.19,4.1,0
+20/04/2023,Sports,Football,Nairobi,Online,Credit Card,11211.14,1,5,10650.58,3.7,0
+20/02/2023,Sports,Football,Machakos,Social Media,Bank Transfer,31833.79,10,10,286504.11,3.4,0
+25/07/2024,Electronics,Smartphone,Mombasa,Social Media,M-Pesa,71272.75,1,15,60581.84,4.4,1
+08/11/2023,Home & Garden,Rug,Thika,Online,PayPal,21852.6,1,0,21852.6,3,0
+25/07/2024,Electronics,Camera,Mombasa,Social Media,Credit Card,30581.68,4,0,122326.72,4.4,0
+20/06/2023,Electronics,Speaker,Thika,Mobile App,Bank Transfer,105977.46,7,0,741842.22,4.5,0
+19/11/2023,Sports,Running Shoes,Thika,In-Store,PayPal,59906.95,8,15,529577.438,5,0
+20/01/2024,Books,Textbook,Thika,Social Media,Cash,2246.92,10,5,21345.74,4.4,1
+02/09/2024,Home & Garden,Blender,Nakuru,Social Media,Bank Transfer,815.49,1,10,733.94,2.5,0
+20/07/2024,Home & Garden,Sofa,Kisumu,In-Store,Credit Card,68573.06,1,10,61715.75,3.8,0
+11/01/2024,Sports,Dumbbells,Nairobi,Online,Bank Transfer,21725.95,3,10,58660.07,4.7,0
+29/11/2023,Home & Garden,Rug,Kisumu,Online,PayPal,32464.02,4,0,168812.904,2.9,0
+22/03/2023,Sports,Swimming Goggles,Nairobi,Mobile App,M-Pesa,44008.89,10,20,352071.12,4.5,1
+30/10/2024,Home & Garden,Blender,Machakos,Social Media,Bank Transfer,74475.49,2,5,141503.43,4.6,1
+29/05/2024,Books,Fiction Novel,Kisumu,Online,Cash,2027.78,3,15,5170.84,4.2,0
+16/05/2023,Books,Science Book,Machakos,Online,Credit Card,1682.19,7,0,11775.33,3.3,0
+19/05/2023,Electronics,Smartwatch,Nakuru,Mobile App,M-Pesa,60982,7,0,426874,3.7,0
+06/09/2023,Books,Comics,Eldoret,In-Store,PayPal,2271.19,9,5,19418.67,2.7,0
+23/12/2023,Home & Garden,Wall Art,Eldoret,Online,M-Pesa,54002.41,7,15,321314.34,3.4,0
+24/07/2023,Home & Garden,Desk Lamp,Kisumu,Social Media,PayPal,12348.82,1,5,11731.38,4.2,0
+15/01/2023,Electronics,Smartphone,Thika,Online,Credit Card,142443.26,3,10,384596.8,3.4,0
+28/07/2023,Home & Garden,Coffee Maker,Nakuru,Online,Cash,17353.56,9,5,148372.94,3.9,0
+19/09/2023,Sports,Bicycle,Eldoret,In-Store,M-Pesa,22970.44,9,0,206733.96,2.9,0
+21/04/2023,Sports,Running Shoes,Nairobi,Social Media,M-Pesa,4555.91,5,15,19362.62,2.5,1
+10/07/2023,Books,Self-Help Book,Nakuru,Online,Cash,1850.92,10,0,18509.2,3,1
+16/05/2024,Sports,Football,Nairobi,Online,Credit Card,55382.84,5,15,235377.07,3.5,0
+05/03/2023,Home & Garden,Wall Art,Kisumu,Mobile App,Cash,19507.42,9,10,158010.1,4.1,1
+31/03/2023,Electronics,Smartwatch,Kisumu,In-Store,Credit Card,52584.35,7,0,368090.45,4.3,0
+16/11/2023,Sports,Swimming Goggles,Thika,In-Store,Bank Transfer,14877.43,3,20,46417.579,3.3,0
+16/03/2024,Clothing,Boots,Mombasa,In-Store,Credit Card,4053.48,9,0,36481.32,5,2
+08/07/2023,Clothing,Boots,Eldoret,In-Store,Cash,1279.86,9,0,11518.74,3.3,1
+12/07/2023,Electronics,Speaker,Kisumu,Social Media,Bank Transfer,46895.52,5,0,234477.6,2.8,0
+23/03/2023,Sports,Tennis Racket,Kisumu,In-Store,PayPal,14391.64,1,15,12232.89,4.2,0
+30/04/2024,Sports,Swimming Goggles,Eldoret,Social Media,Cash,11528.2,7,25,60523.05,2.8,0
+29/07/2023,Electronics,Headphones,Machakos,Online,Cash,142629.31,4,5,541991.38,2.7,1
+19/02/2024,Books,Textbook,Eldoret,Social Media,Cash,3073.68,4,20,9835.78,4.4,0
+17/06/2024,Books,Comics,Kisumu,Social Media,PayPal,3305.25,10,0,33052.5,2.8,0
+14/07/2023,Electronics,Laptop,Eldoret,Social Media,M-Pesa,84539.74,9,0,760857.66,3.2,0
+07/12/2024,Home & Garden,Rug,Machakos,Mobile App,Bank Transfer,13985.74,5,0,90907.31,2.9,0
+07/02/2024,Books,Fiction Novel,Thika,Online,Credit Card,2791.94,9,0,25127.46,3.5,0
+07/05/2023,Clothing,Jacket,Eldoret,In-Store,Bank Transfer,1537.07,6,0,9222.42,2.7,0
+17/07/2024,Home & Garden,Sofa,Eldoret,Social Media,PayPal,49276.14,3,20,118262.74,3.5,0
+05/03/2024,Home & Garden,Pillow Set,Machakos,In-Store,Credit Card,69610.43,3,0,208831.29,3.3,0
+29/09/2024,Books,Cookbook,Thika,In-Store,M-Pesa,3175.33,4,0,12701.32,4.4,0
+25/08/2024,Books,Textbook,Nakuru,Online,PayPal,3124.65,4,5,11873.67,4.1,0
+20/02/2023,Books,Fiction Novel,Eldoret,Online,Credit Card,3122.94,5,5,14833.97,3,0
+31/03/2023,Home & Garden,Sofa,Mombasa,Online,PayPal,67170.74,5,15,285475.65,2.6,0
+11/04/2024,Clothing,Jeans,Thika,Mobile App,PayPal,8100.63,10,0,81006.3,4.4,0
+13/03/2024,Electronics,Smartphone,Machakos,Mobile App,Cash,56548.27,7,0,395837.89,4.6,0
+13/12/2024,Books,Self-Help Book,Nairobi,Mobile App,Cash,1986.57,9,5,16985.17,2.6,0
+22/06/2024,Sports,Yoga Mat,Nakuru,Mobile App,Bank Transfer,36765.37,6,10,198533,3.9,0
+04/07/2023,Clothing,Sneakers,Eldoret,Social Media,PayPal,8885.62,8,25,53313.72,4.7,0
+22/09/2024,Home & Garden,Desk Lamp,Nairobi,Online,M-Pesa,37618.94,2,5,71475.99,5,0
+11/03/2023,Home & Garden,Blender,Eldoret,In-Store,M-Pesa,51536.97,5,10,231916.37,3.3,0
+29/06/2023,Home & Garden,Rug,Nairobi,Online,Cash,27835.84,10,0,278358.4,3,0
+18/04/2024,Books,Science Book,Machakos,Online,Credit Card,1840.79,8,15,12517.37,4.5,0
+02/08/2023,Electronics,Speaker,Eldoret,Mobile App,PayPal,109294.69,6,0,655768.14,3.9,0
+07/08/2024,Home & Garden,Sofa,Mombasa,Mobile App,M-Pesa,27660.87,7,0,193626.09,4,0
+30/03/2023,Electronics,Speaker,Machakos,Mobile App,Cash,107056.32,5,20,428225.28,3.7,0
+08/02/2023,Books,Textbook,Kisumu,In-Store,PayPal,1267.42,2,15,2154.61,4.4,1
+20/06/2024,Books,Biographies,Nairobi,Social Media,PayPal,793.05,6,25,3568.72,3.3,0
+31/12/2024,Electronics,Speaker,Eldoret,In-Store,Credit Card,109236.45,8,20,908847.264,2.8,0
+17/06/2024,Electronics,Camera,Machakos,Online,Cash,71097.63,1,0,71097.63,4.4,0
+11/10/2023,Electronics,Smartwatch,Machakos,Mobile App,Credit Card,49490.29,4,10,178165.04,3.8,0
+31/07/2023,Electronics,Tablet,Mombasa,In-Store,Cash,18940.14,10,0,189401.4,3.9,0
+19/09/2024,Home & Garden,Desk Lamp,Thika,Mobile App,PayPal,20190.15,2,10,36342.27,4.7,0
+12/03/2024,Electronics,Laptop,Nairobi,Social Media,M-Pesa,17677.18,1,0,17677.18,3.5,0
+31/12/2024,Sports,Football,Machakos,Social Media,PayPal,21724.08,6,5,160975.438,4.5,0
+26/04/2024,Books,Biographies,Mombasa,Online,Bank Transfer,611.24,5,25,2292.15,3.1,0
+09/04/2024,Sports,Running Shoes,Kisumu,Social Media,Credit Card,42157.11,6,15,215001.26,3.7,0
+04/06/2024,Electronics,Tablet,Nakuru,Social Media,Credit Card,43774.09,6,0,262644.54,2.8,0
+02/09/2023,Electronics,Tablet,Eldoret,Online,Cash,80846.34,7,20,452739.5,4.1,0
+21/03/2024,Books,Science Book,Nairobi,Mobile App,Credit Card,2904.53,10,20,23236.24,3.9,0
+30/11/2023,Clothing,Jeans,Thika,Online,PayPal,10122.6,2,25,19739.07,4.6,0
+21/05/2024,Books,Fiction Novel,Eldoret,Online,PayPal,2768.3,7,15,16471.39,4.1,0
+04/02/2024,Clothing,Hoodie,Mombasa,Online,Credit Card,8100.14,8,10,58321.01,4,0
+19/12/2023,Clothing,Boots,Kisumu,Mobile App,PayPal,9634.99,5,20,50101.948,4,0
+01/01/2023,Sports,Bicycle,Machakos,In-Store,Cash,4307.19,9,0,38764.71,4.3,0
+02/10/2024,Home & Garden,Sofa,Machakos,Mobile App,M-Pesa,19431.1,10,20,155448.8,3.3,0
+04/01/2024,Books,Science Book,Eldoret,In-Store,Credit Card,1819.59,4,20,5822.69,4.6,0
+20/05/2023,Clothing,Jeans,Nairobi,Online,M-Pesa,2155.95,8,20,13798.08,2.7,0
+19/07/2024,Books,Textbook,Nakuru,Social Media,PayPal,875.35,9,20,6302.52,4.6,0
+25/02/2024,Clothing,Jeans,Nakuru,Online,PayPal,6228.81,4,10,22423.72,4.8,0
+26/05/2023,Electronics,Smartphone,Eldoret,Social Media,Cash,18748.33,8,0,149986.64,4.3,0
+28/04/2024,Home & Garden,Coffee Maker,Eldoret,Online,PayPal,71281.31,2,5,135434.49,4.1,0
+25/04/2024,Electronics,Camera,Thika,Mobile App,PayPal,9810.59,6,0,58863.54,3.6,1
+21/06/2023,Sports,Football,Kisumu,Social Media,Cash,57658.53,5,10,259463.39,2.6,1
+09/08/2024,Home & Garden,Wall Art,Machakos,Mobile App,M-Pesa,50640.56,10,0,506405.6,2.6,2
+16/09/2023,Sports,Yoga Mat,Kisumu,Social Media,M-Pesa,8133.19,2,10,14639.74,2.8,0
+05/11/2024,Home & Garden,Sofa,Thika,Online,PayPal,14629.42,10,0,190182.46,4.5,0
+22/05/2024,Clothing,Jacket,Mombasa,Online,Cash,11816.82,3,0,35450.46,4.4,0
+19/10/2024,Books,Self-Help Book,Thika,Social Media,Credit Card,974.74,6,0,5848.44,3.2,0
+24/01/2024,Electronics,Laptop,Nakuru,Social Media,Bank Transfer,46602.34,9,5,398450.01,4.2,0
+25/11/2024,Home & Garden,Desk Lamp,Eldoret,Social Media,M-Pesa,23672.34,8,20,151502.98,3.8,1
+04/10/2023,Electronics,Smartwatch,Thika,Mobile App,Bank Transfer,92351.86,5,15,392495.4,3.2,0
+24/11/2024,Sports,Bicycle,Nakuru,In-Store,PayPal,46367.54,9,15,461125.184,2.9,0
+26/12/2023,Electronics,Speaker,Nairobi,Online,Bank Transfer,16459.42,2,25,24689.13,3.2,0
+26/12/2024,Electronics,Smartwatch,Nairobi,Online,PayPal,99177.62,4,0,515723.624,2.7,0
+23/04/2024,Books,Comics,Machakos,In-Store,M-Pesa,2526.09,5,10,11367.41,4.2,0
+05/03/2023,Books,Cookbook,Machakos,Social Media,Cash,1123.48,2,10,2022.26,3.5,0
+16/09/2024,Electronics,Tablet,Machakos,Mobile App,Credit Card,67205.08,8,5,510758.61,3.5,0
+23/09/2023,Electronics,Laptop,Eldoret,Social Media,Credit Card,92867.01,2,25,139300.51,2.8,0
+08/02/2023,Sports,Football,Kisumu,Social Media,M-Pesa,53852.84,3,0,161558.52,4.2,0
+22/03/2024,Home & Garden,Coffee Maker,Eldoret,Online,PayPal,56842.37,8,25,341054.22,3.5,0
+03/08/2024,Electronics,Smartwatch,Mombasa,Online,Bank Transfer,143214.99,8,0,1145719.92,3.8,2
+01/07/2024,Home & Garden,Wall Art,Kisumu,Social Media,M-Pesa,50875.98,2,15,86489.17,4.6,0
+07/11/2024,Books,Textbook,Machakos,Mobile App,Credit Card,865.18,1,20,692.14,4.2,1
+30/08/2024,Home & Garden,Coffee Maker,Nairobi,Social Media,Credit Card,11883.48,4,0,47533.92,3.1,0
+07/02/2023,Sports,Football,Kisumu,Social Media,PayPal,57918.26,8,0,463346.08,3.3,0
+16/08/2024,Electronics,Headphones,Nairobi,In-Store,PayPal,69838.81,9,0,628549.29,3.1,0
+06/09/2023,Clothing,Jacket,Thika,Online,Bank Transfer,10932.56,10,0,109325.6,4.3,0
+19/04/2023,Clothing,Boots,Nairobi,Mobile App,M-Pesa,5746.12,3,0,17238.36,2.8,0
+04/05/2023,Sports,Dumbbells,Nairobi,In-Store,Bank Transfer,20638.18,7,15,122797.17,4.9,0
+04/05/2023,Clothing,Dress,Machakos,In-Store,M-Pesa,7320.48,6,0,43922.88,3.2,0
+17/05/2023,Clothing,Boots,Kisumu,In-Store,Bank Transfer,3301.91,10,0,33019.1,2.7,0
+08/01/2023,Sports,Bicycle,Machakos,In-Store,M-Pesa,52849.84,2,0,105699.68,2.9,0
+26/02/2024,Sports,Running Shoes,Nakuru,Social Media,Credit Card,12845.92,5,25,48172.2,3.1,0
+04/03/2024,Electronics,Smartwatch,Mombasa,Social Media,PayPal,142644.11,5,15,606237.47,2.5,0
+11/10/2023,Electronics,Smartwatch,Nairobi,Mobile App,PayPal,77116.03,8,5,586081.83,2.6,0
+22/10/2024,Clothing,Boots,Machakos,Social Media,Bank Transfer,2527.72,1,0,2527.72,3.4,0
+11/06/2023,Home & Garden,Blender,Eldoret,Social Media,M-Pesa,9070.15,1,0,9070.15,4.5,0
+24/11/2024,Electronics,Smartphone,Mombasa,Social Media,PayPal,87804.74,7,5,759071.976,3.1,0
+27/04/2024,Clothing,T-Shirt,Mombasa,Social Media,Credit Card,4818.62,4,0,19274.48,4,0
+18/07/2023,Books,Self-Help Book,Mombasa,Social Media,Credit Card,1539.46,3,25,3463.78,4.1,2
+21/04/2024,Clothing,Dress,Mombasa,Online,PayPal,1185.99,3,0,3557.97,3.6,0
+30/03/2023,Home & Garden,Desk Lamp,Kisumu,In-Store,PayPal,72521.79,10,5,688957,3.5,0
+11/09/2023,Clothing,Sneakers,Nakuru,Social Media,Cash,666.79,7,5,4434.15,3.3,0
+31/05/2024,Sports,Dumbbells,Eldoret,Online,Bank Transfer,58822.93,1,25,44117.2,2.6,0
+10/12/2024,Books,Textbook,Machakos,Online,Bank Transfer,1884.91,2,0,4900.766,4.9,0
+21/12/2024,Home & Garden,Desk Lamp,Thika,Online,M-Pesa,38798.81,5,0,252192.265,3.9,0
+21/12/2024,Books,Science Book,Machakos,In-Store,Bank Transfer,891.83,6,25,5217.212,4.7,0
+02/12/2024,Home & Garden,Pillow Set,Nairobi,Mobile App,Bank Transfer,60428.73,10,5,574072.94,4.7,0
+25/09/2024,Electronics,Smartwatch,Thika,Mobile App,M-Pesa,18423.05,6,25,82903.72,2.6,0
+26/10/2024,Sports,Football,Nairobi,In-Store,Credit Card,58886.35,4,0,235545.4,3.7,1
+11/10/2023,Sports,Swimming Goggles,Thika,In-Store,Credit Card,19635.55,5,20,78542.2,2.6,0
+07/04/2024,Books,Science Book,Eldoret,Online,Bank Transfer,2571.44,9,10,20828.66,4.1,0
+20/03/2023,Electronics,Laptop,Nakuru,Online,M-Pesa,59821.01,3,10,161516.73,2.8,0
+02/03/2024,Clothing,Jacket,Mombasa,In-Store,PayPal,11449.2,1,10,10304.28,4.9,0
+13/07/2023,Clothing,Jacket,Kisumu,Social Media,Bank Transfer,8983.66,1,10,8085.29,2.7,1
+30/08/2024,Clothing,Hoodie,Eldoret,Mobile App,Bank Transfer,7155.1,6,25,32197.95,4.2,0
+24/09/2023,Sports,Bicycle,Nakuru,Mobile App,PayPal,8438.08,5,0,42190.4,3.1,0
+25/09/2024,Home & Garden,Rug,Machakos,Online,Credit Card,28767.17,8,0,230137.36,4.8,0
+11/08/2024,Home & Garden,Desk Lamp,Mombasa,In-Store,Credit Card,19642.1,1,15,16695.78,2.8,0
+04/04/2024,Clothing,Jeans,Eldoret,Online,Cash,11747.26,3,15,29955.51,3.8,0
+09/06/2023,Home & Garden,Sofa,Nairobi,Social Media,Bank Transfer,61666.64,8,15,419333.15,2.5,0
+01/08/2024,Sports,Running Shoes,Thika,Mobile App,Bank Transfer,53821.06,10,0,538210.6,4.3,1
+12/11/2023,Home & Garden,Wall Art,Nairobi,Social Media,M-Pesa,11842.32,9,0,106580.88,4,0
+12/10/2023,Home & Garden,Sofa,Kisumu,Online,PayPal,51591.96,10,5,490123.62,3,0
+09/09/2024,Books,Comics,Thika,Online,PayPal,1562.16,8,15,10622.69,4,1
+20/12/2023,Home & Garden,Coffee Maker,Mombasa,Social Media,Cash,31380.12,1,10,28242.11,4.9,1
+10/03/2024,Electronics,Laptop,Thika,Social Media,Bank Transfer,120945.45,5,0,604727.25,4.3,0
+09/03/2023,Sports,Tennis Racket,Nairobi,In-Store,Credit Card,18611.93,9,15,142381.26,4.8,0
+28/12/2024,Books,Fiction Novel,Nairobi,Social Media,Cash,1626.44,9,25,14272.011,4.8,0
+20/05/2024,Books,Cookbook,Eldoret,Social Media,M-Pesa,2932.96,5,10,13198.32,3.9,0
+31/10/2024,Electronics,Speaker,Nairobi,In-Store,Cash,46425.07,8,0,371400.56,4.2,0
+10/03/2023,Clothing,Jacket,Thika,In-Store,M-Pesa,1872.58,5,25,7022.17,4,0
+08/06/2024,Books,Biographies,Nakuru,Mobile App,Bank Transfer,3417.63,2,15,5809.97,4.3,0
+17/06/2023,Home & Garden,Desk Lamp,Eldoret,Online,Credit Card,26118.74,3,15,66602.79,2.6,0
+05/10/2024,Home & Garden,Sofa,Kisumu,Mobile App,PayPal,51404.56,2,5,97668.66,3,0
+01/07/2024,Clothing,Sneakers,Kisumu,Mobile App,Cash,3621.78,6,0,21730.68,4,0
+16/06/2023,Electronics,Laptop,Eldoret,Mobile App,Cash,117263.56,7,15,697718.18,2.8,0
+15/05/2023,Clothing,Hoodie,Mombasa,Online,Bank Transfer,5795.65,2,0,11591.3,4.8,0
+26/06/2023,Home & Garden,Wall Art,Kisumu,In-Store,Bank Transfer,71266.33,10,15,605763.81,4.3,0
+22/03/2023,Electronics,Laptop,Mombasa,In-Store,Credit Card,47499.39,4,0,189997.56,3.6,0
+06/11/2024,Electronics,Smartphone,Nairobi,Social Media,Bank Transfer,8292.51,2,0,21560.526,2.6,0
+24/08/2024,Home & Garden,Sofa,Nairobi,Mobile App,M-Pesa,60560.38,2,5,115064.72,4.8,0
+14/06/2023,Home & Garden,Sofa,Nairobi,In-Store,Cash,75944.3,6,15,387315.93,4.6,0
+16/07/2023,Sports,Dumbbells,Eldoret,Online,M-Pesa,49283.44,1,5,46819.27,4.9,0
+15/12/2024,Sports,Yoga Mat,Thika,Online,Credit Card,55276.34,8,15,488642.843,3.6,1
+26/04/2023,Clothing,Hoodie,Kisumu,Social Media,Bank Transfer,2964.15,4,20,9485.28,4.4,0
+26/03/2023,Books,Fiction Novel,Eldoret,In-Store,Bank Transfer,2739.28,5,0,13696.4,3.3,0
+14/03/2024,Home & Garden,Coffee Maker,Eldoret,Mobile App,Bank Transfer,18689.18,7,10,117741.83,3,0
+10/02/2024,Books,Comics,Kisumu,In-Store,M-Pesa,3495.91,8,0,27967.28,3.6,0
+08/03/2023,Electronics,Smartphone,Mombasa,Social Media,Bank Transfer,104865.49,2,0,209730.98,3.4,0
+13/10/2023,Clothing,Sneakers,Machakos,Social Media,M-Pesa,3178,7,25,16684.5,4.4,0
+11/05/2024,Sports,Running Shoes,Machakos,Social Media,Cash,28864.08,10,20,230912.64,3.8,0
+12/04/2023,Books,Fiction Novel,Nairobi,Mobile App,Bank Transfer,1891.28,3,0,5673.84,4.3,0
+07/11/2023,Books,Comics,Nairobi,In-Store,Bank Transfer,2234.67,6,0,17430.426,2.7,0
+31/05/2024,Sports,Swimming Goggles,Nakuru,Social Media,Credit Card,18037.64,8,25,108225.84,3.2,0
+05/04/2024,Sports,Tennis Racket,Nairobi,Online,Bank Transfer,52879.46,2,20,84607.14,3.3,0
+18/05/2024,Books,Fiction Novel,Nairobi,In-Store,PayPal,2410.12,5,0,12050.6,3.6,0
+02/05/2024,Books,Science Book,Machakos,Online,PayPal,2460.08,9,25,16605.54,3.9,0
+19/10/2023,Electronics,Headphones,Kisumu,Social Media,PayPal,145688.87,10,15,1238355.4,3.3,0
+02/10/2024,Electronics,Laptop,Machakos,Mobile App,Cash,121813.91,10,0,1218139.1,3.4,0
+25/10/2024,Home & Garden,Blender,Nakuru,Mobile App,M-Pesa,53170.21,4,5,202046.8,3.3,0
+08/02/2023,Electronics,Speaker,Kisumu,Online,Cash,27127.33,9,15,207524.07,3.7,1
+21/11/2023,Sports,Tennis Racket,Nakuru,Mobile App,M-Pesa,41939.93,10,0,419399.3,3.5,0
+21/09/2024,Books,Fiction Novel,Thika,In-Store,Cash,1889.54,6,0,11337.24,3.2,1
+01/11/2023,Clothing,Jacket,Thika,Online,PayPal,2961.92,5,0,19252.48,3.5,0
+13/03/2024,Electronics,Camera,Machakos,Online,PayPal,51852.03,2,25,77778.04,3,0
+29/02/2024,Home & Garden,Pillow Set,Machakos,Mobile App,Bank Transfer,53345.77,6,5,304070.89,3.5,0
+13/08/2024,Books,Comics,Machakos,In-Store,M-Pesa,2309.1,9,0,20781.9,3.7,0
+09/01/2024,Books,Cookbook,Thika,Social Media,PayPal,2625.17,1,5,2493.91,3.7,0
+27/02/2024,Home & Garden,Rug,Nakuru,Social Media,Cash,68926.73,2,5,130960.79,3.2,0
+29/01/2023,Clothing,Dress,Thika,In-Store,Bank Transfer,3242.56,3,5,9241.3,3.1,0
+13/06/2023,Books,Science Book,Eldoret,Social Media,Bank Transfer,2370.15,1,5,2251.64,3.2,0
+26/02/2023,Home & Garden,Wall Art,Eldoret,In-Store,M-Pesa,77131.92,8,0,617055.36,4.6,0
+24/05/2023,Sports,Running Shoes,Machakos,Online,Bank Transfer,53868.33,2,20,86189.33,3.1,0
+17/11/2023,Sports,Yoga Mat,Eldoret,Mobile App,Bank Transfer,53143.15,4,0,212572.6,4,0
+23/02/2024,Clothing,Jacket,Mombasa,In-Store,M-Pesa,2514.27,5,25,9428.51,3.1,0
+12/10/2023,Books,Biographies,Kisumu,Online,Cash,2046.38,8,5,15552.49,4.7,1
+09/11/2024,Home & Garden,Coffee Maker,Thika,Mobile App,Cash,2469.08,10,0,32098.04,2.6,1
+01/07/2024,Clothing,Dress,Eldoret,Social Media,Cash,7847.91,6,0,47087.46,4.7,1
+04/08/2023,Books,Fiction Novel,Nakuru,Mobile App,Cash,588.8,4,10,2119.68,4.6,0
+27/04/2024,Books,Comics,Kisumu,Social Media,M-Pesa,1176.92,2,25,1765.38,4.3,1
+27/12/2023,Home & Garden,Wall Art,Nakuru,Online,Credit Card,56119.79,9,0,656601.543,4.3,0
+18/10/2024,Home & Garden,Coffee Maker,Thika,Online,M-Pesa,51596.73,3,25,116092.64,2.8,0
+31/08/2024,Home & Garden,Blender,Eldoret,Online,M-Pesa,13299.54,9,0,119695.86,4.2,0
+16/10/2023,Home & Garden,Coffee Maker,Nakuru,In-Store,Cash,14539.54,10,15,123586.09,3,0
+02/04/2023,Clothing,Jacket,Nakuru,In-Store,M-Pesa,11403.26,9,5,97497.87,4.9,0
+24/06/2023,Clothing,T-Shirt,Nakuru,Social Media,PayPal,3491.81,2,15,5936.08,4.9,0
+30/09/2023,Sports,Bicycle,Machakos,Social Media,Bank Transfer,7639.63,4,5,29030.59,3.2,0
+04/03/2024,Clothing,Jacket,Machakos,In-Store,PayPal,2979.02,5,5,14150.34,3,0
+19/08/2024,Electronics,Tablet,Kisumu,In-Store,PayPal,68744.55,4,15,233731.47,4.2,0
+03/09/2024,Electronics,Headphones,Mombasa,Mobile App,Bank Transfer,103654.16,7,20,580463.3,3.1,0
+06/01/2023,Electronics,Smartphone,Kisumu,In-Store,Bank Transfer,136417.53,10,0,1364175.3,3.1,0
+17/08/2024,Home & Garden,Coffee Maker,Thika,Mobile App,Credit Card,77470.18,9,0,697231.62,2.9,0
+26/05/2023,Books,Cookbook,Nakuru,In-Store,M-Pesa,1315.42,9,20,9471.02,3.2,0
+19/09/2024,Clothing,Jacket,Machakos,Mobile App,Cash,11151.73,5,10,50182.78,4.6,1
+23/07/2024,Sports,Running Shoes,Nakuru,In-Store,Cash,44370.03,8,0,354960.24,4.6,0
+24/09/2023,Books,Fiction Novel,Mombasa,In-Store,M-Pesa,1035.55,1,25,776.66,2.9,0
+13/04/2024,Electronics,Headphones,Nairobi,Social Media,Cash,148345.15,9,25,1001329.76,3.7,0
+04/06/2024,Clothing,T-Shirt,Kisumu,Online,Credit Card,10483.99,3,0,31451.97,4.6,0
+20/03/2023,Sports,Dumbbells,Eldoret,Online,PayPal,46150.75,3,20,110761.8,3.1,0
+28/11/2023,Electronics,Tablet,Nairobi,Mobile App,M-Pesa,60337.13,10,0,603371.3,2.7,0
+02/11/2024,Books,Science Book,Thika,Mobile App,PayPal,2405.62,6,0,18763.836,3.6,1
+14/07/2024,Sports,Dumbbells,Mombasa,Online,Cash,19796.35,1,0,19796.35,4.9,0
+02/02/2024,Books,Cookbook,Mombasa,In-Store,Bank Transfer,585.4,4,0,2341.6,4.4,0
+03/01/2024,Clothing,T-Shirt,Kisumu,Social Media,Bank Transfer,8962.73,5,0,44813.65,4.2,0
+03/04/2023,Sports,Dumbbells,Nakuru,Social Media,Bank Transfer,28900.52,10,20,231204.16,4.4,0
+23/11/2024,Sports,Dumbbells,Nakuru,Social Media,M-Pesa,3002.02,6,25,13509.09,4.2,0
+04/11/2023,Books,Biographies,Thika,Online,Cash,1798.3,2,25,2697.45,2.8,1
+09/06/2024,Clothing,Sneakers,Nakuru,Mobile App,PayPal,1048.88,2,0,2097.76,2.8,0
+27/04/2023,Electronics,Headphones,Thika,Mobile App,Cash,39719.31,2,0,79438.62,4.4,0
+24/08/2024,Clothing,Hoodie,Nakuru,Online,M-Pesa,5286.89,5,15,22469.28,4.3,0
+09/07/2023,Books,Biographies,Machakos,Mobile App,Cash,3393.5,3,5,9671.48,2.7,2
+30/04/2023,Home & Garden,Rug,Thika,Online,Bank Transfer,43122.58,1,20,34498.06,2.5,0
+08/12/2024,Books,Comics,Nakuru,Social Media,Cash,2279.2,10,15,25185.16,4.2,0
+28/01/2023,Home & Garden,Sofa,Mombasa,In-Store,M-Pesa,15911.52,1,5,15115.94,3,0
+30/04/2024,Clothing,Jacket,Machakos,In-Store,M-Pesa,3960.56,8,0,31684.48,3.6,0
+26/07/2023,Clothing,Boots,Thika,Social Media,Bank Transfer,5922.13,8,5,45008.19,3.2,0
+22/05/2024,Books,Fiction Novel,Kisumu,Online,M-Pesa,2317.31,7,20,12976.94,4.3,0
+26/08/2023,Sports,Running Shoes,Nairobi,Social Media,Bank Transfer,29474.4,10,25,221058,4.3,0
+30/04/2023,Books,Biographies,Kisumu,Online,Cash,3157.21,7,25,16575.35,3.7,1
+19/12/2023,Home & Garden,Coffee Maker,Thika,Social Media,M-Pesa,13577.61,4,25,52952.679,3.8,0
+20/11/2024,Home & Garden,Pillow Set,Machakos,Social Media,Credit Card,70747.33,7,20,515040.565,3.4,0
+24/07/2023,Clothing,Sneakers,Mombasa,Mobile App,M-Pesa,8171.15,3,0,24513.45,2.9,0
+25/09/2023,Books,Science Book,Kisumu,In-Store,Credit Card,2081.86,1,15,1769.58,3.4,0
+04/05/2023,Sports,Yoga Mat,Machakos,Online,Cash,26178.86,10,5,248699.17,3.9,0
+24/12/2024,Home & Garden,Rug,Kisumu,Online,PayPal,21985.31,3,0,65955.93,4.9,0
+07/10/2024,Electronics,Smartphone,Machakos,Online,PayPal,8211.48,2,0,16422.96,2.8,0
+07/06/2023,Home & Garden,Desk Lamp,Thika,Mobile App,Bank Transfer,61147.6,8,0,489180.8,4.1,0
+30/04/2024,Clothing,T-Shirt,Machakos,In-Store,Bank Transfer,11650.82,1,5,11068.28,3.4,0
+26/06/2024,Electronics,Tablet,Kisumu,Social Media,Cash,95157.18,4,0,380628.72,3.6,0
+29/03/2024,Books,Science Book,Nakuru,Social Media,PayPal,2842.74,6,0,17056.44,2.9,0
+04/03/2023,Sports,Yoga Mat,Nairobi,Mobile App,Cash,24458.06,3,20,58699.34,3.5,0
+18/11/2023,Clothing,Sneakers,Nairobi,Mobile App,Bank Transfer,5123.03,9,10,53945.502,2.5,0
+15/12/2024,Sports,Tennis Racket,Mombasa,Social Media,Bank Transfer,38846.43,9,25,262213.4,4.5,0
+07/08/2023,Clothing,Dress,Nairobi,Online,PayPal,4346.67,3,10,11736.01,2.7,0
+05/09/2023,Sports,Running Shoes,Machakos,In-Store,M-Pesa,2256.74,9,10,18279.59,4.6,0
+07/05/2023,Books,Biographies,Nairobi,Online,Cash,1131.22,9,15,8653.83,2.6,0
+25/12/2023,Electronics,Headphones,Kisumu,Online,Bank Transfer,52169.08,4,5,198242.5,4.2,0
+12/06/2024,Sports,Football,Mombasa,Social Media,PayPal,44408.23,2,15,75493.99,4,0
+05/03/2023,Home & Garden,Coffee Maker,Nairobi,In-Store,Bank Transfer,66412.26,2,0,132824.52,3.6,0
+28/09/2023,Clothing,Jacket,Nairobi,Mobile App,PayPal,5131.67,9,20,36948.02,4,0
+29/12/2024,Books,Comics,Nakuru,Social Media,Credit Card,761.91,3,25,2228.59,4.9,0
+02/05/2023,Sports,Yoga Mat,Thika,In-Store,Bank Transfer,28717.32,3,15,73229.17,4,0
+09/11/2023,Electronics,Tablet,Eldoret,Mobile App,M-Pesa,79371.07,2,15,175410.066,3.3,0
+09/08/2023,Clothing,Jeans,Machakos,Social Media,M-Pesa,11273.44,5,10,50730.48,3,0
+09/08/2024,Electronics,Smartphone,Eldoret,Mobile App,M-Pesa,130823.13,7,25,686821.43,3.3,0
+05/04/2024,Home & Garden,Rug,Nakuru,Social Media,PayPal,11318.52,3,25,25466.67,4.2,0
+07/07/2024,Home & Garden,Sofa,Machakos,Social Media,Bank Transfer,19239.52,7,15,114475.14,2.6,0
+28/07/2024,Books,Comics,Kisumu,Online,Credit Card,2563.07,10,10,23067.63,4.1,0
+04/05/2023,Electronics,Laptop,Eldoret,Online,PayPal,79219.56,8,0,633756.48,4.1,0
+28/03/2023,Electronics,Tablet,Machakos,In-Store,Credit Card,124794.2,10,25,935956.5,4.5,0
+25/01/2023,Books,Biographies,Nairobi,Social Media,M-Pesa,1387.86,3,20,3330.86,4.6,0
+19/09/2023,Home & Garden,Sofa,Nairobi,Online,PayPal,14117.95,3,0,42353.85,4.4,0
+31/12/2024,Books,Comics,Mombasa,Online,PayPal,3375.59,3,0,10126.77,3.5,0
+19/05/2024,Books,Cookbook,Kisumu,Social Media,M-Pesa,466.01,4,5,1770.84,3.8,0
+30/01/2023,Electronics,Tablet,Nairobi,Mobile App,Bank Transfer,83861.92,2,25,125792.88,3.5,0
+04/08/2024,Electronics,Tablet,Eldoret,Online,Credit Card,114920.79,3,10,310286.13,3.5,0
+04/07/2024,Sports,Dumbbells,Machakos,In-Store,Cash,32702.12,3,5,93201.04,4.9,1
+30/10/2024,Sports,Bicycle,Nairobi,Online,Bank Transfer,57690.2,10,10,519211.8,4.9,0
+16/02/2023,Books,Cookbook,Eldoret,Mobile App,Bank Transfer,3497.57,4,10,12591.25,2.9,0
+18/03/2024,Electronics,Tablet,Nairobi,Social Media,M-Pesa,124913.72,9,10,1011801.13,3,0
+04/08/2023,Home & Garden,Wall Art,Kisumu,Mobile App,Bank Transfer,22422.64,6,15,114355.46,3.6,0
+28/02/2024,Electronics,Camera,Mombasa,Online,PayPal,72526.28,1,0,72526.28,3.9,0
+28/12/2023,Books,Textbook,Nakuru,Online,M-Pesa,2023.68,8,0,21046.272,3.4,0
+10/01/2023,Books,Self-Help Book,Machakos,Online,M-Pesa,1780.62,4,25,5341.86,3.1,0
+15/08/2023,Home & Garden,Wall Art,Thika,Mobile App,Credit Card,7925.35,10,10,71328.15,3.1,0
+24/04/2023,Home & Garden,Sofa,Kisumu,Social Media,PayPal,17359.64,4,20,55550.85,4.7,0
+08/03/2023,Books,Self-Help Book,Eldoret,In-Store,PayPal,2450.96,10,0,24509.6,4,0
+25/11/2024,Clothing,Dress,Eldoret,In-Store,PayPal,8882.34,5,5,42191.11,4.9,0
+18/03/2024,Sports,Running Shoes,Thika,Social Media,M-Pesa,56310.69,1,15,47864.09,4.6,0
+18/02/2023,Electronics,Camera,Eldoret,Social Media,Bank Transfer,55497.83,1,5,52722.94,3.2,0
+20/08/2023,Books,Cookbook,Nairobi,Social Media,Credit Card,1371.06,10,0,13710.6,4.9,0
+06/05/2024,Electronics,Laptop,Mombasa,In-Store,Cash,47999.27,2,0,95998.54,3.6,0
+08/12/2023,Home & Garden,Rug,Kisumu,In-Store,M-Pesa,38307.26,6,0,298796.628,3.1,0
+04/02/2023,Sports,Tennis Racket,Nakuru,Online,Bank Transfer,34988.71,2,0,69977.42,3.4,1
+09/03/2023,Electronics,Speaker,Mombasa,Online,Bank Transfer,10108.75,10,20,80870,2.8,0
+05/09/2024,Electronics,Tablet,Machakos,Social Media,Bank Transfer,16182.88,7,5,107616.15,4.5,0
+09/04/2024,Books,Science Book,Nakuru,Social Media,PayPal,2281.54,6,0,13689.24,3.8,0
+14/10/2024,Electronics,Smartphone,Nairobi,Online,PayPal,118833.63,4,0,475334.52,3.8,0
+11/05/2023,Books,Comics,Eldoret,Social Media,Credit Card,1078.09,1,0,1078.09,3.3,0
+26/10/2023,Home & Garden,Blender,Eldoret,In-Store,Credit Card,37986.28,10,15,322883.38,3.4,0
+08/03/2024,Sports,Football,Thika,In-Store,M-Pesa,14700.81,9,0,132307.29,3.4,2
+15/08/2024,Clothing,Hoodie,Nairobi,Mobile App,Credit Card,8180.39,8,15,55626.65,3.9,0
+13/08/2023,Home & Garden,Coffee Maker,Kisumu,In-Store,M-Pesa,36780.73,1,25,27585.55,4.8,0
+30/07/2023,Clothing,Jacket,Eldoret,In-Store,Credit Card,6028.58,6,20,28937.18,3.5,0
+25/10/2023,Electronics,Tablet,Nairobi,Online,Cash,6442.6,2,0,12885.2,3.6,0
+28/06/2023,Home & Garden,Sofa,Nairobi,In-Store,Credit Card,23300.79,4,10,83882.84,3.3,0
+24/01/2024,Clothing,Jeans,Nairobi,In-Store,Cash,10972.46,1,0,10972.46,4.1,1
+23/06/2024,Home & Garden,Desk Lamp,Kisumu,Social Media,Credit Card,30075.54,6,0,180453.24,4.9,2
+16/07/2023,Books,Comics,Nairobi,Online,Credit Card,3124.71,3,5,8905.42,3.8,0
+02/07/2024,Home & Garden,Pillow Set,Nakuru,In-Store,M-Pesa,61236.12,10,5,581743.14,3.2,0
+03/08/2023,Clothing,T-Shirt,Thika,Mobile App,Credit Card,10292.28,10,25,77192.1,4.3,0
+03/07/2023,Sports,Yoga Mat,Mombasa,Social Media,PayPal,22831.41,9,25,154112.02,3.3,0
+01/08/2023,Books,Comics,Nakuru,Social Media,Cash,2159.8,10,0,21598,3,0
+19/01/2024,Clothing,Jacket,Mombasa,Mobile App,Bank Transfer,10720.15,10,0,107201.5,3.1,0
+12/03/2024,Electronics,Tablet,Nakuru,Mobile App,Credit Card,88426.41,8,15,601299.59,3.6,0
+28/08/2023,Home & Garden,Rug,Nakuru,Mobile App,Cash,31083.78,3,25,69938.51,3.2,0
+15/03/2023,Electronics,Tablet,Machakos,Online,Cash,139137.68,2,0,278275.36,3.4,0
+23/12/2024,Home & Garden,Desk Lamp,Thika,Mobile App,Cash,24775.07,5,5,152986.054,2.8,1
+16/08/2024,Sports,Running Shoes,Nairobi,Mobile App,Cash,49445.15,7,20,276892.84,4.4,0
+28/08/2023,Sports,Swimming Goggles,Mombasa,Social Media,Credit Card,14079.42,4,25,42238.26,3.8,0
+15/03/2024,Books,Comics,Machakos,Social Media,Cash,2834.13,6,5,16154.54,4.4,0
+10/01/2023,Clothing,Jacket,Nakuru,Online,Cash,2097.93,3,10,5664.41,3.7,0
+30/11/2023,Home & Garden,Blender,Mombasa,Social Media,Bank Transfer,55112.41,7,10,451370.634,3.9,0
+01/07/2024,Clothing,Jeans,Kisumu,Social Media,Bank Transfer,2848.35,7,0,19938.45,3.5,0
+02/02/2023,Home & Garden,Pillow Set,Nakuru,Mobile App,M-Pesa,14376.75,9,0,129390.75,4.6,0
+06/11/2024,Electronics,Laptop,Mombasa,Online,Bank Transfer,44005.01,4,10,205943.452,3.6,0
+03/07/2024,Electronics,Laptop,Kisumu,Social Media,Bank Transfer,25241.25,2,0,50482.5,3.5,0
+10/09/2024,Books,Textbook,Mombasa,In-Store,Credit Card,1291.22,8,0,10329.76,3.9,0
+07/03/2023,Clothing,Sneakers,Thika,Social Media,Cash,2819.58,3,25,6344.06,4.6,0
+22/10/2023,Clothing,Sneakers,Kisumu,Social Media,Bank Transfer,5821,1,0,5821,4.1,1
+13/09/2023,Home & Garden,Wall Art,Machakos,Mobile App,Bank Transfer,49351.78,3,20,118444.27,2.9,0
+11/06/2023,Books,Science Book,Nakuru,In-Store,PayPal,605.71,1,5,575.42,3.2,0
+13/01/2024,Home & Garden,Wall Art,Nairobi,In-Store,Bank Transfer,33373.23,9,0,300359.07,2.7,0
+28/01/2023,Home & Garden,Coffee Maker,Nakuru,In-Store,Cash,17223.87,1,25,12917.9,2.7,0
+28/04/2023,Books,Science Book,Kisumu,Social Media,Credit Card,1569.36,1,10,1412.42,4.3,0
+24/05/2023,Books,Science Book,Nakuru,Online,M-Pesa,2054.97,4,25,6164.91,3.7,0
+01/07/2024,Clothing,Jeans,Machakos,Online,PayPal,1655.92,5,0,8279.6,4.4,0
+22/11/2024,Electronics,Camera,Kisumu,In-Store,Bank Transfer,54996.87,4,0,285983.724,3.6,0
+04/09/2024,Sports,Football,Thika,Online,Bank Transfer,41606.59,8,0,332852.72,2.5,0
+15/01/2023,Clothing,Jeans,Kisumu,In-Store,Credit Card,1550.94,7,0,10856.58,3.3,0
+01/12/2023,Electronics,Laptop,Nairobi,In-Store,Credit Card,8513.85,9,0,76624.65,4.1,0
+27/06/2023,Sports,Bicycle,Nakuru,Online,Credit Card,13298.53,6,15,67822.5,2.5,0
+14/02/2023,Electronics,Headphones,Mombasa,Social Media,Credit Card,11770.41,5,15,50024.24,2.7,0
+15/09/2023,Home & Garden,Rug,Eldoret,Social Media,M-Pesa,57232.46,10,0,572324.6,4.9,0
+11/03/2023,Books,Comics,Machakos,In-Store,Cash,861.06,6,25,3874.77,3.3,0
+22/01/2023,Sports,Bicycle,Nakuru,In-Store,PayPal,35495.63,1,5,33720.85,4,1
+19/01/2024,Home & Garden,Desk Lamp,Thika,Social Media,Credit Card,49885.49,1,0,49885.49,3.7,0
+03/12/2023,Books,Self-Help Book,Thika,Online,Credit Card,3254.91,10,25,24411.82,3.3,0
+17/12/2023,Electronics,Smartwatch,Machakos,Social Media,Cash,113081.53,4,15,384477.2,3.8,1
+07/07/2023,Clothing,Hoodie,Thika,In-Store,PayPal,10536.12,9,15,80601.32,3.6,0
+27/06/2023,Books,Fiction Novel,Mombasa,Online,Credit Card,3302.48,3,0,9907.44,4,0
+22/07/2023,Clothing,Jeans,Eldoret,Online,Bank Transfer,8837.37,5,0,44186.85,3.1,0
+04/01/2024,Clothing,Dress,Kisumu,Social Media,Credit Card,3626.4,8,0,29011.2,3.5,0
+26/01/2024,Books,Science Book,Eldoret,Social Media,Credit Card,2922.73,8,0,23381.84,3.6,0
+19/04/2024,Home & Garden,Pillow Set,Eldoret,In-Store,PayPal,58350.54,5,20,233402.16,3.3,0
+08/06/2023,Sports,Tennis Racket,Nakuru,Online,Cash,8717.39,8,5,66252.16,4.8,0
+18/01/2024,Sports,Football,Thika,Mobile App,Bank Transfer,24630.58,7,20,137931.25,3.5,0
+18/07/2023,Sports,Yoga Mat,Nakuru,Online,M-Pesa,23458.67,10,0,234586.7,4.4,1
+10/09/2023,Home & Garden,Pillow Set,Thika,Social Media,Cash,55959.27,7,20,313371.91,3.1,0
+18/09/2023,Home & Garden,Wall Art,Thika,Online,Credit Card,21497.39,8,0,171979.12,3.1,0
+14/06/2024,Clothing,T-Shirt,Nairobi,Online,Bank Transfer,5073.17,10,0,50731.7,4.8,1
+23/08/2024,Clothing,Hoodie,Nakuru,Mobile App,Cash,6257.44,9,20,45053.57,3.3,0
+16/12/2024,Electronics,Smartphone,Thika,Mobile App,Credit Card,41815.16,4,20,133808.51,5,0
+24/06/2023,Electronics,Smartphone,Nairobi,Social Media,PayPal,63692.66,5,20,254770.64,2.9,0
+10/07/2023,Clothing,Jeans,Nakuru,In-Store,PayPal,11407.56,8,5,86697.46,3,0
+13/10/2024,Clothing,Dress,Machakos,Social Media,Bank Transfer,7708.63,10,0,77086.3,2.9,0
+11/05/2024,Books,Fiction Novel,Kisumu,Online,Cash,394.93,4,25,1184.79,4.2,0
+05/08/2023,Electronics,Tablet,Machakos,Online,PayPal,118802.66,1,0,118802.66,3.8,0
+11/12/2023,Sports,Tennis Racket,Machakos,Mobile App,Bank Transfer,28709.97,6,20,137807.86,4.7,2
+13/04/2023,Clothing,Dress,Thika,Social Media,Bank Transfer,7524.3,6,15,38373.93,2.5,1
+17/12/2024,Books,Comics,Machakos,In-Store,M-Pesa,2226.11,9,10,23440.937,3.1,0
+10/10/2024,Books,Biographies,Nakuru,In-Store,M-Pesa,3455.78,6,0,20734.68,3.4,0
+23/12/2023,Home & Garden,Wall Art,Nakuru,In-Store,PayPal,39175.26,10,0,509278.38,4.8,1
+11/05/2023,Electronics,Camera,Nakuru,Mobile App,PayPal,30871.39,3,0,92614.17,3.7,0
+07/09/2023,Sports,Swimming Goggles,Nakuru,In-Store,Bank Transfer,57330.04,8,5,435708.3,3,0
+15/10/2023,Electronics,Smartphone,Nakuru,Online,Credit Card,139492.51,6,20,669564.05,3.1,0
+09/12/2024,Books,Comics,Nairobi,In-Store,PayPal,2327.35,8,0,18618.8,3.1,0
+27/08/2023,Sports,Yoga Mat,Thika,Mobile App,Bank Transfer,54663.93,7,20,306118.01,3.1,0
+11/05/2023,Electronics,Smartphone,Nairobi,Mobile App,PayPal,140707.18,2,15,239202.21,4.6,1
+09/03/2024,Sports,Football,Nairobi,Mobile App,M-Pesa,35649.55,4,20,114078.56,3.3,0
+20/11/2023,Clothing,Sneakers,Thika,In-Store,M-Pesa,5046.09,9,25,34061.11,4.9,0
+13/11/2023,Books,Comics,Nakuru,In-Store,PayPal,1206.86,1,15,1333.579,4.2,0
+08/12/2023,Sports,Bicycle,Thika,In-Store,Bank Transfer,17914.81,7,0,125403.67,4.3,0
+06/11/2024,Clothing,Boots,Thika,Online,Credit Card,10352.96,7,10,84790.745,2.9,0
+24/06/2024,Books,Cookbook,Nakuru,Social Media,Cash,2724.69,7,0,19072.83,4.3,0
+27/12/2024,Clothing,Boots,Machakos,Social Media,M-Pesa,2005.36,10,0,20053.6,4.1,0
+06/01/2024,Books,Comics,Nakuru,Mobile App,Credit Card,971.25,4,0,3885,4.3,0
+23/02/2023,Clothing,Jacket,Nakuru,In-Store,M-Pesa,1604.55,8,0,12836.4,2.8,0
+11/02/2024,Home & Garden,Pillow Set,Nakuru,In-Store,Bank Transfer,20204.08,2,5,38387.75,3.7,0
+09/10/2024,Clothing,Boots,Thika,Social Media,M-Pesa,9443.9,7,10,59496.57,4.1,0
+24/01/2023,Electronics,Smartphone,Nairobi,Online,Bank Transfer,96928.58,9,5,828739.36,4,2
+02/11/2023,Books,Cookbook,Thika,Online,PayPal,879.51,8,20,7317.518,2.7,0
+07/03/2023,Sports,Dumbbells,Nakuru,Online,Bank Transfer,33629.97,9,25,227002.3,3.8,0
+06/01/2023,Electronics,Speaker,Machakos,In-Store,M-Pesa,28738.3,10,0,287383,3.9,0
+28/03/2023,Electronics,Smartphone,Mombasa,In-Store,Credit Card,14997.5,5,0,74987.5,4.9,0
+05/11/2024,Home & Garden,Pillow Set,Mombasa,Social Media,M-Pesa,20468.3,1,10,23947.911,2.8,0
+07/02/2023,Home & Garden,Pillow Set,Kisumu,In-Store,M-Pesa,53279.27,1,5,50615.31,3,0
+18/03/2023,Clothing,Jeans,Eldoret,In-Store,PayPal,4629.25,3,20,11110.2,3.9,0
+14/03/2023,Clothing,Jacket,Nakuru,Online,Cash,8280.05,3,5,23598.14,4.1,0
+24/01/2024,Clothing,Boots,Kisumu,In-Store,Bank Transfer,9948.03,6,20,47750.54,2.6,0
+07/01/2024,Electronics,Tablet,Nairobi,Online,PayPal,62203.63,6,0,373221.78,4.8,0
+23/01/2024,Clothing,Hoodie,Machakos,In-Store,Cash,613.43,7,5,4079.31,4.9,0
+25/06/2024,Electronics,Laptop,Eldoret,Mobile App,PayPal,123558.8,8,0,988470.4,3.4,0
+20/12/2023,Home & Garden,Pillow Set,Kisumu,Online,M-Pesa,14323.2,7,0,130341.12,4.2,0
+04/12/2024,Sports,Tennis Racket,Machakos,Social Media,Bank Transfer,35783.22,5,0,232590.93,2.9,0
+25/11/2024,Books,Biographies,Thika,Mobile App,M-Pesa,3239.01,6,5,24001.068,4.3,0
+09/11/2023,Home & Garden,Rug,Nakuru,Mobile App,Cash,76247.21,9,5,847487.745,2.7,0
+12/08/2024,Home & Garden,Rug,Nairobi,Online,M-Pesa,58612.28,2,0,117224.56,2.6,0
+24/05/2024,Sports,Bicycle,Machakos,Online,Bank Transfer,40815.76,3,25,91835.46,3.8,2
+20/12/2024,Sports,Football,Nairobi,Social Media,M-Pesa,37207.42,1,20,38695.722,3.4,2
+29/06/2023,Sports,Football,Eldoret,Online,PayPal,27249.93,3,5,77662.3,2.7,0
+13/12/2023,Sports,Running Shoes,Nairobi,Social Media,Bank Transfer,23118.23,6,0,180322.194,3.1,0
+11/08/2023,Electronics,Tablet,Kisumu,Social Media,Cash,41183.12,1,20,32946.5,4.8,1
+07/01/2023,Sports,Swimming Goggles,Nairobi,Social Media,PayPal,50992.1,1,15,43343.28,4,0
+17/03/2024,Home & Garden,Sofa,Nairobi,Mobile App,Credit Card,32643.79,1,0,32643.79,3.7,0
+26/04/2024,Sports,Dumbbells,Nakuru,Online,Bank Transfer,1010.48,5,5,4799.78,3.5,0
+24/05/2023,Books,Self-Help Book,Eldoret,Mobile App,M-Pesa,3465.98,8,0,27727.84,3.4,0
+09/02/2024,Home & Garden,Rug,Thika,In-Store,M-Pesa,15813.71,1,0,15813.71,3.6,0
+07/03/2024,Electronics,Laptop,Thika,In-Store,Bank Transfer,144035.43,5,0,720177.15,3.7,0
+23/04/2023,Clothing,Dress,Machakos,Social Media,PayPal,8848.94,7,0,61942.58,4.9,0
+03/09/2024,Clothing,Jeans,Kisumu,Online,Credit Card,1098.46,6,20,5272.61,4.3,0
+13/09/2023,Home & Garden,Blender,Nakuru,Online,Bank Transfer,20421.59,3,0,61264.77,3.2,0
+13/07/2023,Home & Garden,Wall Art,Mombasa,Social Media,Credit Card,38332.31,2,0,76664.62,5,0
+12/03/2024,Clothing,Jeans,Nairobi,In-Store,Bank Transfer,941.21,4,0,3764.84,2.5,0
+04/03/2023,Electronics,Headphones,Nakuru,Mobile App,Credit Card,34822.73,7,25,182819.33,3.8,0
+24/11/2023,Home & Garden,Sofa,Kisumu,Mobile App,Cash,75485.5,7,5,652572.141,3,0
+09/07/2023,Home & Garden,Desk Lamp,Kisumu,Social Media,Cash,72751.77,2,20,116402.83,3.1,0
+05/01/2024,Home & Garden,Blender,Nairobi,Online,M-Pesa,54890.55,3,15,139970.9,4.4,0
+31/03/2023,Sports,Tennis Racket,Eldoret,Mobile App,Credit Card,39224.75,4,20,125519.2,4.7,0
+13/07/2024,Sports,Yoga Mat,Nairobi,In-Store,Credit Card,42456.81,2,0,84913.62,4,0
+27/07/2024,Books,Textbook,Mombasa,In-Store,M-Pesa,709.06,7,10,4467.08,4.9,1
+20/06/2023,Books,Comics,Thika,Online,Bank Transfer,516.67,7,0,3616.69,4,0
+02/12/2024,Clothing,Dress,Nairobi,Online,Credit Card,9018.22,7,25,61549.345,3.8,0
+31/07/2023,Books,Textbook,Eldoret,Social Media,PayPal,2793.99,7,10,17602.14,3,0
+07/11/2023,Clothing,Sneakers,Thika,Online,PayPal,5737.57,9,10,60416.616,3.2,0
+12/10/2023,Electronics,Laptop,Mombasa,Online,PayPal,37256.08,1,0,37256.08,4.8,0
+29/11/2023,Electronics,Camera,Mombasa,In-Store,PayPal,19195.36,6,15,97896.34,4.3,0
+13/08/2023,Clothing,Jacket,Eldoret,Mobile App,Cash,11830.5,1,15,10055.92,4.3,0
+28/03/2024,Home & Garden,Sofa,Eldoret,Online,Bank Transfer,75695.98,5,5,359555.9,3.1,0
+01/06/2023,Sports,Football,Machakos,Social Media,Credit Card,27095.72,7,15,161219.53,4.8,0
+22/01/2023,Clothing,Jacket,Mombasa,In-Store,Credit Card,7051.07,3,10,19037.89,3.3,1
+10/04/2024,Books,Comics,Eldoret,In-Store,M-Pesa,759.27,7,5,5049.15,4.8,2
+22/01/2023,Electronics,Camera,Eldoret,In-Store,M-Pesa,91287.44,7,20,511209.66,2.8,0
+10/01/2023,Electronics,Laptop,Mombasa,Online,Cash,23110.07,10,0,231100.7,4.9,0
+17/06/2023,Home & Garden,Rug,Thika,Online,Credit Card,11827.02,10,25,88702.65,3.3,0
+11/07/2024,Clothing,T-Shirt,Eldoret,Mobile App,PayPal,1915.37,1,0,1915.37,3.2,0
+28/12/2023,Books,Self-Help Book,Nairobi,In-Store,M-Pesa,1025.36,7,0,9330.776,3.1,1
+15/04/2023,Books,Comics,Thika,Online,Bank Transfer,842.59,2,5,1600.92,4.9,0
+11/09/2024,Electronics,Smartwatch,Kisumu,Online,Cash,138651.3,2,0,277302.6,2.9,0
+23/12/2023,Home & Garden,Pillow Set,Mombasa,Social Media,Credit Card,71534.91,5,10,418479.23,3.2,0
+24/11/2023,Home & Garden,Blender,Machakos,Online,M-Pesa,69047.75,3,0,207143.25,3.6,0
+03/04/2023,Books,Textbook,Nairobi,Online,PayPal,1667.85,5,0,8339.25,3.3,0
+22/05/2023,Books,Cookbook,Kisumu,Social Media,Bank Transfer,1840.12,7,15,10948.71,4.5,0
+29/01/2024,Clothing,Jacket,Nakuru,Social Media,PayPal,6638.36,9,5,56757.98,2.7,0
+18/01/2023,Sports,Tennis Racket,Machakos,In-Store,M-Pesa,14570.47,1,5,13841.95,3.4,0
+16/04/2024,Clothing,T-Shirt,Nairobi,Mobile App,Cash,10260.64,3,10,27703.73,2.9,1
+22/01/2024,Books,Self-Help Book,Mombasa,In-Store,M-Pesa,2690.39,2,0,5380.78,4.3,0
+31/01/2023,Books,Cookbook,Nairobi,Online,PayPal,536.06,10,0,5360.6,2.9,0
+24/06/2024,Clothing,T-Shirt,Nairobi,Social Media,Credit Card,9302.3,8,0,74418.4,4.2,0
+19/10/2024,Books,Comics,Kisumu,Social Media,M-Pesa,1217.66,3,0,3652.98,2.6,0
+08/08/2024,Sports,Dumbbells,Nairobi,Social Media,Bank Transfer,40986.27,8,10,295101.14,3.8,0
+15/02/2024,Books,Self-Help Book,Kisumu,Online,PayPal,1508.19,3,5,4298.34,4,0
+18/06/2023,Clothing,Hoodie,Thika,Online,Bank Transfer,5990.29,7,20,33545.62,2.6,0
+29/01/2023,Books,Self-Help Book,Kisumu,Online,M-Pesa,548.99,10,15,4666.41,3.1,0
+04/09/2023,Electronics,Smartphone,Mombasa,Online,Cash,29786.08,4,0,119144.32,3.2,2
+09/01/2023,Sports,Yoga Mat,Eldoret,Social Media,M-Pesa,3454.1,2,10,6217.38,5,0
+06/12/2023,Books,Biographies,Mombasa,Mobile App,Bank Transfer,2622.2,3,0,10226.58,4.4,0
+15/06/2023,Clothing,T-Shirt,Eldoret,Social Media,Bank Transfer,7243.12,1,10,6518.81,2.9,0
+03/04/2024,Electronics,Camera,Mombasa,In-Store,Credit Card,115786.21,3,15,295254.84,4.5,0
+02/08/2023,Home & Garden,Pillow Set,Machakos,Social Media,M-Pesa,71341.85,7,5,474423.3,5,0
+14/07/2024,Clothing,Sneakers,Thika,Social Media,M-Pesa,9754.35,3,10,26336.75,4.7,0
+11/03/2023,Electronics,Headphones,Nairobi,Social Media,Cash,27118.21,5,0,135591.05,3.2,0
+27/10/2024,Electronics,Smartphone,Mombasa,Social Media,Cash,147949.21,5,25,554809.54,4.8,1
+27/03/2024,Sports,Bicycle,Nairobi,Mobile App,Cash,24415.79,10,0,244157.9,3.4,0
+08/09/2023,Home & Garden,Blender,Nairobi,Social Media,PayPal,36447.31,1,0,36447.31,4.2,0
+17/08/2023,Clothing,Hoodie,Nairobi,Mobile App,Bank Transfer,2319.37,7,0,16235.59,3.5,0
+29/03/2023,Electronics,Tablet,Nakuru,Social Media,PayPal,135218.72,8,0,1081749.76,3,0
+10/09/2024,Books,Textbook,Nakuru,In-Store,Bank Transfer,1351.91,6,15,6894.74,3.7,0
+17/10/2024,Books,Fiction Novel,Kisumu,Social Media,M-Pesa,2044.26,8,0,16354.08,3,0
+25/02/2023,Sports,Swimming Goggles,Nakuru,Online,Cash,47499.81,8,5,360998.56,3,0
+25/03/2023,Books,Cookbook,Kisumu,In-Store,M-Pesa,753.56,5,20,3014.24,3.2,0
+17/12/2023,Books,Biographies,Mombasa,Mobile App,Credit Card,2957.76,2,20,6152.146,3.2,0
+11/01/2023,Books,Science Book,Nakuru,In-Store,Bank Transfer,1435.02,10,20,11480.16,3.9,1
+04/06/2023,Clothing,T-Shirt,Thika,In-Store,Cash,8136.72,6,0,48820.32,4.7,1
+09/05/2023,Books,Textbook,Kisumu,Online,Bank Transfer,1140.97,1,25,855.73,4.1,0
+07/09/2024,Sports,Yoga Mat,Nairobi,In-Store,Credit Card,25558.46,9,0,230026.14,3.4,0
+11/11/2023,Clothing,Boots,Eldoret,Online,Cash,9858.46,1,10,11534.393,4.7,0
+27/04/2023,Books,Science Book,Nakuru,Mobile App,Cash,2950.19,7,15,17553.63,4.8,0
+11/10/2024,Home & Garden,Desk Lamp,Eldoret,In-Store,PayPal,35321.39,5,20,141285.56,3.2,0
+17/04/2023,Electronics,Smartphone,Machakos,Online,M-Pesa,98144.44,10,20,785155.52,3.7,0
+06/03/2024,Sports,Yoga Mat,Thika,Social Media,PayPal,35125.27,1,10,31612.74,3,0
+27/02/2024,Sports,Bicycle,Nairobi,In-Store,Bank Transfer,57062.76,6,25,256782.42,4.8,0
+29/02/2024,Books,Fiction Novel,Kisumu,In-Store,PayPal,1207.53,5,10,5433.89,4.2,0
+10/12/2023,Books,Fiction Novel,Nairobi,Online,Credit Card,2829.63,9,15,21646.67,3.9,0
+12/05/2023,Sports,Bicycle,Mombasa,Social Media,M-Pesa,48199.1,10,20,385592.8,4.8,0
+08/10/2024,Clothing,Jacket,Kisumu,In-Store,Bank Transfer,3156.15,3,0,9468.45,3.9,0
+23/03/2024,Home & Garden,Rug,Eldoret,In-Store,Cash,16938,2,0,33876,2.5,0
+11/10/2024,Clothing,T-Shirt,Eldoret,Online,PayPal,4897.66,3,25,11019.74,4.1,0
+24/09/2023,Clothing,Boots,Mombasa,Mobile App,Credit Card,6657.3,4,20,21303.36,4.1,0
+20/04/2023,Clothing,Boots,Nairobi,Online,M-Pesa,5779.97,10,0,57799.7,2.9,0
+14/04/2023,Clothing,T-Shirt,Nairobi,Social Media,Cash,10996.27,4,20,35188.06,3.7,0
+10/10/2024,Electronics,Headphones,Thika,Online,Credit Card,103725.79,7,15,617168.45,4.8,0
+18/12/2023,Clothing,Dress,Nairobi,In-Store,PayPal,7758.95,1,0,10086.635,3.7,0
+14/06/2024,Sports,Yoga Mat,Mombasa,Mobile App,M-Pesa,12055.01,1,0,12055.01,3.8,0
+02/10/2023,Home & Garden,Sofa,Mombasa,Online,Cash,11774.35,2,0,23548.7,3.2,0
+08/06/2024,Electronics,Tablet,Thika,Mobile App,Bank Transfer,112288.78,8,20,718648.19,4.9,1
+19/06/2023,Home & Garden,Desk Lamp,Mombasa,Mobile App,Bank Transfer,8949.25,10,10,80543.25,4.5,1
+13/09/2024,Books,Science Book,Nakuru,Social Media,PayPal,2690.65,6,0,16143.9,3.5,0
+23/08/2024,Home & Garden,Blender,Thika,Online,Bank Transfer,14046.12,1,10,12641.51,3.5,0
+10/07/2023,Sports,Running Shoes,Nakuru,Online,M-Pesa,11286.31,6,20,54174.29,3.4,0
+07/08/2023,Home & Garden,Blender,Mombasa,Mobile App,M-Pesa,1562.93,1,15,1328.49,3.7,0
+16/04/2023,Clothing,Sneakers,Nairobi,Social Media,Cash,7420.72,9,5,63447.16,3.9,0
+21/07/2023,Electronics,Smartwatch,Thika,Social Media,Bank Transfer,49031.93,6,5,279482,2.6,0
+28/08/2024,Electronics,Tablet,Nakuru,Online,M-Pesa,69012.2,10,15,586603.7,3.5,0
+30/06/2024,Home & Garden,Sofa,Thika,Online,Bank Transfer,23321.77,7,0,163252.39,4.8,0
+21/12/2023,Electronics,Smartphone,Nakuru,Online,Bank Transfer,109041.54,5,15,602454.502,3.9,0
+24/09/2024,Sports,Yoga Mat,Nakuru,Mobile App,Bank Transfer,29904.2,2,15,50837.14,2.8,0
+13/01/2024,Electronics,Laptop,Nairobi,Mobile App,Bank Transfer,35498.51,2,5,67447.17,4.5,0
+19/02/2023,Electronics,Camera,Machakos,Online,Cash,132731.26,1,0,132731.26,4.9,0
+03/05/2023,Home & Garden,Wall Art,Eldoret,Social Media,Cash,56134.25,3,25,126302.06,2.8,1
+08/11/2024,Sports,Swimming Goggles,Nakuru,Social Media,M-Pesa,31592.76,4,25,123211.764,3.2,0
+06/11/2024,Books,Self-Help Book,Nairobi,Mobile App,Cash,2576.42,6,5,19091.267,4.6,0
+12/07/2023,Electronics,Headphones,Nairobi,In-Store,M-Pesa,101233.85,8,20,647896.64,3.7,0
+14/05/2023,Sports,Swimming Goggles,Eldoret,Mobile App,Cash,42685.63,3,0,128056.89,3,0
+18/06/2023,Books,Textbook,Eldoret,In-Store,Bank Transfer,901.45,5,20,3605.8,4.2,1
+17/01/2023,Sports,Football,Nairobi,In-Store,Bank Transfer,52646.06,2,5,100027.51,4.7,0
+29/12/2023,Electronics,Headphones,Thika,Social Media,Cash,41305.65,9,0,483276.105,2.9,0
+08/03/2024,Sports,Running Shoes,Nairobi,Social Media,Cash,22564.97,1,20,18051.98,3,0
+24/04/2023,Clothing,Sneakers,Kisumu,Social Media,PayPal,5486,1,5,5211.7,3,0
+27/09/2024,Electronics,Smartwatch,Kisumu,In-Store,M-Pesa,80755.5,5,5,383588.62,4.2,0
+14/10/2024,Books,Fiction Novel,Mombasa,Mobile App,Bank Transfer,958.26,4,15,3258.08,3.2,0
+19/11/2023,Electronics,Smartphone,Mombasa,Social Media,Cash,128179.46,4,0,666533.192,2.9,0
+20/03/2023,Books,Self-Help Book,Nairobi,Social Media,Bank Transfer,1368.97,3,10,3696.22,2.9,0
+23/04/2023,Electronics,Smartwatch,Kisumu,Social Media,PayPal,2148.96,4,25,6446.88,2.6,0
+10/12/2023,Home & Garden,Rug,Mombasa,In-Store,Credit Card,62200.32,2,10,145548.754,4.3,2
+28/12/2024,Home & Garden,Wall Art,Nakuru,Mobile App,Cash,37133.06,6,10,200518.52,3.8,0
+25/02/2024,Sports,Bicycle,Nairobi,Mobile App,PayPal,43856,1,0,43856,4.6,0
+31/07/2023,Clothing,Dress,Nakuru,Online,Credit Card,7142.22,7,15,42496.21,4.4,0
+29/09/2023,Books,Comics,Nairobi,Mobile App,PayPal,3177.51,8,0,25420.08,4.8,0
+19/09/2024,Home & Garden,Coffee Maker,Eldoret,Social Media,Cash,25298.41,1,15,21503.65,2.8,0
+02/12/2024,Sports,Swimming Goggles,Machakos,Mobile App,Cash,7145.32,1,25,5358.99,4.2,0
+16/01/2023,Home & Garden,Pillow Set,Eldoret,In-Store,Cash,39356.52,2,10,70841.74,3.6,0
+21/02/2023,Sports,Yoga Mat,Nairobi,Social Media,Cash,902.36,6,0,5414.16,3.1,0
+18/03/2024,Home & Garden,Rug,Machakos,In-Store,M-Pesa,57285.21,3,5,163262.85,4,0
+13/02/2024,Clothing,T-Shirt,Nakuru,Mobile App,Credit Card,9834.65,7,20,55074.04,4.9,0
+30/11/2024,Home & Garden,Blender,Eldoret,Mobile App,Credit Card,45461.48,6,0,354599.544,3.1,0
+20/01/2024,Clothing,Dress,Kisumu,Online,Cash,7016.65,8,0,56133.2,4.5,0
+29/12/2023,Electronics,Laptop,Eldoret,Social Media,Cash,76564.65,6,25,447903.196,3.6,0
+06/09/2023,Electronics,Smartwatch,Nairobi,Social Media,M-Pesa,113866.76,10,10,1024800.84,4,0
+17/02/2024,Sports,Tennis Racket,Eldoret,Mobile App,M-Pesa,45466.91,7,0,318268.37,4.2,0
+31/08/2024,Sports,Bicycle,Machakos,Online,M-Pesa,3848.75,2,15,6542.88,2.7,0
+19/12/2024,Books,Comics,Kisumu,Online,M-Pesa,2669.51,9,0,24025.59,2.9,0
+30/09/2024,Books,Self-Help Book,Mombasa,In-Store,Cash,2310.37,1,25,1732.78,4.2,0
+30/04/2024,Electronics,Laptop,Eldoret,Online,PayPal,16335.82,4,0,65343.28,2.6,0
+13/07/2024,Books,Fiction Novel,Nairobi,Mobile App,Bank Transfer,1847.9,3,5,5266.52,3.2,0
+26/05/2023,Books,Textbook,Thika,Online,Bank Transfer,767.99,1,0,767.99,4.5,0
+25/08/2024,Clothing,Sneakers,Thika,In-Store,Bank Transfer,6025.36,5,0,30126.8,3.7,0
+29/01/2023,Books,Science Book,Thika,Online,Bank Transfer,1634.07,7,0,11438.49,3.2,0
+13/02/2023,Books,Fiction Novel,Eldoret,Mobile App,M-Pesa,2364.35,10,25,17732.62,4.8,0
+27/05/2024,Clothing,Jacket,Thika,Social Media,Cash,604.88,3,15,1542.44,4.6,0
+02/11/2024,Home & Garden,Wall Art,Eldoret,Social Media,PayPal,5771.05,3,15,19131.034,3.3,0
+28/04/2024,Clothing,Dress,Machakos,Mobile App,Bank Transfer,1284.42,8,20,8220.29,4,0
+21/08/2024,Sports,Swimming Goggles,Thika,Mobile App,Credit Card,42047.46,10,15,357403.41,4,0
+26/11/2024,Electronics,Smartphone,Machakos,In-Store,Credit Card,16287.99,2,25,31761.587,4.4,2
+28/04/2023,Clothing,T-Shirt,Mombasa,Social Media,Bank Transfer,11107.32,1,10,9996.59,2.6,0
+17/05/2023,Books,Textbook,Kisumu,Online,Credit Card,1327.71,8,20,8497.34,5,0
+15/06/2023,Clothing,Jeans,Kisumu,Social Media,Bank Transfer,8306.76,4,5,31565.69,3.6,0
+04/01/2024,Clothing,T-Shirt,Eldoret,Online,M-Pesa,2840.71,3,0,8522.13,4.4,0
+27/05/2024,Electronics,Tablet,Mombasa,Social Media,Credit Card,125195.63,10,25,938967.23,3.4,0
+05/08/2024,Sports,Swimming Goggles,Mombasa,Online,Bank Transfer,25994.2,7,0,181959.4,2.7,0
+24/01/2023,Home & Garden,Sofa,Nairobi,Social Media,Credit Card,4877.14,9,15,37310.12,3.1,1
+18/03/2023,Home & Garden,Coffee Maker,Thika,Mobile App,M-Pesa,69897.45,3,10,188723.11,3.8,0
+19/08/2024,Sports,Tennis Racket,Eldoret,Mobile App,Bank Transfer,37347.51,9,0,336127.59,3.7,1
+02/03/2023,Home & Garden,Wall Art,Nairobi,Online,Cash,34175.33,4,15,116196.12,2.8,0
+21/12/2023,Home & Garden,Rug,Thika,Online,Credit Card,39889.57,10,0,518564.41,4.9,0
+06/02/2023,Sports,Yoga Mat,Eldoret,Social Media,Credit Card,16668.2,1,0,16668.2,3.7,0
+20/07/2023,Home & Garden,Coffee Maker,Nakuru,Mobile App,Credit Card,2498.31,1,0,2498.31,3.8,1
+19/12/2024,Electronics,Smartwatch,Nakuru,Online,Bank Transfer,115320.86,3,20,359801.078,2.8,0
+26/08/2023,Sports,Running Shoes,Kisumu,In-Store,Cash,26529.57,1,5,25203.09,2.7,0
+20/03/2023,Books,Comics,Machakos,Online,M-Pesa,3094.42,4,0,12377.68,2.6,0
+13/05/2023,Home & Garden,Sofa,Kisumu,Mobile App,PayPal,52692.55,4,10,189693.18,4,0
+23/12/2024,Electronics,Camera,Nairobi,Online,Cash,140878.78,4,25,549427.242,3.4,1
+23/06/2024,Clothing,Jacket,Thika,Mobile App,Cash,9472.4,5,5,44993.9,4.7,0
+14/10/2023,Sports,Tennis Racket,Nairobi,Online,Cash,54085.27,10,25,405639.52,2.7,1
+29/08/2023,Sports,Dumbbells,Kisumu,In-Store,M-Pesa,22719.97,3,0,68159.91,4.2,0
+04/11/2023,Books,Fiction Novel,Nairobi,Social Media,M-Pesa,1164.96,10,20,12115.584,2.7,0
+30/07/2023,Sports,Bicycle,Nakuru,Online,Bank Transfer,23449,1,5,22276.55,3.4,0
+15/09/2024,Sports,Yoga Mat,Thika,Mobile App,M-Pesa,32768.02,6,0,196608.12,4.4,0
+13/03/2024,Home & Garden,Rug,Machakos,In-Store,M-Pesa,27802.8,10,20,222422.4,4.5,1
+10/03/2024,Electronics,Speaker,Nairobi,Social Media,Cash,129060.09,9,25,871155.61,3.9,0
+16/01/2023,Sports,Running Shoes,Mombasa,Social Media,Bank Transfer,44890.65,4,0,179562.6,3.2,0
+06/01/2024,Home & Garden,Sofa,Mombasa,Mobile App,Cash,46029.74,1,10,41426.77,3.2,0
+30/03/2024,Sports,Yoga Mat,Nairobi,Mobile App,PayPal,39850.12,5,0,199250.6,3.7,0
+11/10/2023,Books,Fiction Novel,Kisumu,Social Media,PayPal,997.1,1,0,997.1,4.7,0
+21/08/2023,Electronics,Headphones,Mombasa,Mobile App,Cash,40412.04,8,0,323296.32,4.1,0
+16/08/2024,Sports,Football,Nairobi,In-Store,M-Pesa,39483.29,3,25,88837.4,3.3,0
+06/09/2024,Clothing,T-Shirt,Thika,Mobile App,Cash,685.36,6,0,4112.16,3.1,0
+28/11/2024,Sports,Bicycle,Nairobi,Online,Credit Card,12720.09,10,15,140556.988,4.1,1
+29/10/2023,Clothing,T-Shirt,Kisumu,Mobile App,Cash,11713.64,6,25,52711.38,4.1,0
+09/08/2023,Electronics,Tablet,Mombasa,Online,M-Pesa,92137.65,6,15,469902.01,3.4,0
+05/07/2024,Clothing,Jacket,Machakos,Online,M-Pesa,11524.19,4,20,36877.41,4.3,0
+19/07/2023,Sports,Swimming Goggles,Nairobi,Social Media,PayPal,31507.96,6,10,170142.98,4.6,0
+31/03/2024,Clothing,Dress,Mombasa,Mobile App,Credit Card,5741.94,2,5,10909.69,4.3,1
+04/04/2024,Home & Garden,Sofa,Kisumu,Online,Cash,52543.73,10,5,499165.43,4.5,0
+21/10/2023,Clothing,Sneakers,Mombasa,Social Media,PayPal,8157.88,10,10,73420.92,3.4,0
+09/04/2024,Books,Science Book,Eldoret,In-Store,PayPal,1881.44,4,0,7525.76,2.5,0
+25/01/2023,Home & Garden,Rug,Eldoret,Social Media,M-Pesa,10810.72,1,20,8648.58,4.2,2
+30/12/2024,Clothing,Sneakers,Machakos,Social Media,Bank Transfer,4575.23,7,5,30425.28,3.3,0
+23/02/2024,Home & Garden,Pillow Set,Eldoret,Online,M-Pesa,6641.2,6,25,29885.4,4.1,0
+05/06/2023,Books,Cookbook,Machakos,Social Media,Credit Card,2647.02,10,0,26470.2,4.7,0
+10/04/2023,Home & Garden,Wall Art,Thika,Social Media,Bank Transfer,26178.6,3,10,70682.22,3.1,0
+27/05/2023,Electronics,Smartwatch,Eldoret,Social Media,Cash,49774.41,6,0,298646.46,2.6,1
+22/12/2023,Clothing,Jacket,Eldoret,Mobile App,PayPal,10615.21,6,0,63691.26,2.8,0
+13/11/2024,Books,Self-Help Book,Mombasa,Mobile App,Cash,3464.18,2,5,6581.94,2.7,0
+07/01/2023,Sports,Swimming Goggles,Mombasa,Online,PayPal,54210.95,9,5,463503.62,3.7,0
+23/04/2023,Home & Garden,Desk Lamp,Kisumu,Social Media,Bank Transfer,42054.8,8,10,302794.56,4.3,1
+15/11/2024,Electronics,Headphones,Nakuru,Social Media,Cash,14855.85,3,10,40110.8,3.4,0
+07/10/2024,Clothing,Boots,Nairobi,Mobile App,Credit Card,6331.19,5,25,23741.96,4.3,0
+14/07/2023,Electronics,Camera,Thika,Mobile App,M-Pesa,66139.89,9,15,505970.16,4.6,0
+20/11/2024,Electronics,Camera,Thika,Online,Credit Card,22257.45,7,5,148012.04,3.7,0
+04/01/2023,Clothing,Boots,Nakuru,Mobile App,Credit Card,2783.59,2,5,5288.82,3.6,0
+08/10/2024,Sports,Dumbbells,Thika,In-Store,M-Pesa,25438.67,5,20,101754.68,4,0
+16/05/2024,Books,Biographies,Thika,In-Store,Cash,2990.21,5,25,11213.29,4.5,0
+02/04/2024,Home & Garden,Pillow Set,Nakuru,Mobile App,M-Pesa,18139.3,5,20,72557.2,3.3,0
+10/05/2024,Electronics,Laptop,Nakuru,Mobile App,M-Pesa,53441.63,7,0,374091.41,4.6,1
+23/02/2024,Sports,Bicycle,Thika,In-Store,M-Pesa,17881.26,9,5,152884.77,2.7,0
+24/09/2023,Home & Garden,Wall Art,Kisumu,Social Media,Bank Transfer,64875.22,7,20,363301.23,4.8,0
+02/07/2024,Clothing,Dress,Thika,Online,Cash,5647.82,4,0,22591.28,3,0
+03/04/2023,Sports,Tennis Racket,Kisumu,In-Store,PayPal,32662.18,1,20,26129.74,4.5,0
+10/06/2023,Home & Garden,Rug,Machakos,Online,M-Pesa,41877,6,5,238698.9,4.6,0
+14/01/2023,Clothing,Dress,Machakos,In-Store,Cash,4312.27,4,5,16386.63,2.6,0
+25/01/2023,Sports,Yoga Mat,Eldoret,Social Media,Bank Transfer,3111.74,5,10,14002.83,3.1,0
+28/03/2023,Clothing,T-Shirt,Kisumu,Online,Bank Transfer,8035.67,3,10,21696.31,2.7,0
+12/09/2024,Books,Fiction Novel,Nairobi,In-Store,M-Pesa,2654.79,7,5,17654.35,4.6,0
+28/09/2023,Books,Biographies,Thika,Online,Cash,1176.96,4,0,4707.84,4.9,0
+09/05/2024,Books,Cookbook,Nakuru,Online,Credit Card,3394.04,9,10,27491.72,3.2,0
+08/04/2024,Sports,Dumbbells,Nakuru,Online,Bank Transfer,43816.91,6,0,262901.46,3.1,2
+07/12/2023,Books,Textbook,Mombasa,Social Media,Cash,1825.78,2,10,3286.4,4.1,0
+23/09/2024,Sports,Dumbbells,Mombasa,Social Media,PayPal,15448.16,3,20,37075.58,4.6,0
+04/06/2023,Sports,Swimming Goggles,Mombasa,Online,Bank Transfer,15570.22,5,15,66173.43,2.6,0
+12/07/2024,Sports,Bicycle,Machakos,Online,Cash,41609.6,9,25,280864.8,3.7,1
+11/03/2024,Clothing,Dress,Nakuru,Social Media,PayPal,6880.28,2,0,13760.56,4.2,0
+10/03/2024,Electronics,Laptop,Eldoret,Online,Credit Card,31210.41,2,0,62420.82,3.7,0
+29/10/2023,Sports,Bicycle,Mombasa,Social Media,Bank Transfer,1149.96,2,20,1839.94,4.3,1
+19/06/2024,Home & Garden,Pillow Set,Kisumu,Mobile App,PayPal,52297.48,3,10,141203.2,4.2,0
+18/06/2023,Home & Garden,Pillow Set,Eldoret,Mobile App,Bank Transfer,37460.11,6,0,224760.66,3.8,0
+19/12/2024,Electronics,Tablet,Nakuru,In-Store,Credit Card,71633.03,1,10,64469.73,4.2,0
+20/12/2023,Home & Garden,Sofa,Nairobi,Social Media,PayPal,13191.08,6,5,97745.908,4.8,0
+28/07/2024,Books,Biographies,Thika,Mobile App,Cash,2298.4,7,10,14479.92,3.9,0
+10/05/2023,Electronics,Smartwatch,Mombasa,Online,Credit Card,43437.86,5,0,217189.3,4.5,0
+22/06/2023,Books,Cookbook,Eldoret,Mobile App,PayPal,2439.19,8,5,18537.84,2.5,0
+21/03/2023,Clothing,T-Shirt,Machakos,In-Store,Credit Card,2395.41,1,15,2036.1,4.7,0
+04/09/2023,Sports,Swimming Goggles,Nakuru,Social Media,Bank Transfer,20029.11,9,0,180261.99,3.9,0
+11/09/2024,Books,Comics,Nakuru,Mobile App,Cash,2983.68,6,0,17902.08,4.6,1
+25/07/2024,Home & Garden,Wall Art,Mombasa,Social Media,PayPal,35778.43,5,0,178892.15,4.7,0
+07/08/2023,Clothing,T-Shirt,Machakos,Mobile App,Bank Transfer,9363.57,6,20,44945.14,4,1
+06/01/2023,Clothing,Jacket,Kisumu,In-Store,M-Pesa,2752.11,6,5,15687.03,4,0
+12/02/2024,Home & Garden,Blender,Eldoret,Online,PayPal,22423.8,5,25,84089.25,2.6,0
+17/05/2024,Home & Garden,Blender,Thika,Online,PayPal,66007.4,8,25,396044.4,2.9,0
+15/05/2023,Sports,Swimming Goggles,Nairobi,Online,Cash,2312.92,3,0,6938.76,2.7,0
+18/07/2023,Electronics,Smartphone,Nakuru,Online,Cash,16426.37,9,10,133053.6,4.1,0
+12/06/2024,Home & Garden,Rug,Thika,Mobile App,Credit Card,72533.4,10,15,616533.9,2.5,0
+01/10/2023,Books,Textbook,Thika,Online,M-Pesa,917.41,9,0,8256.69,2.7,0
+08/10/2023,Home & Garden,Pillow Set,Mombasa,Social Media,Credit Card,51115.74,1,10,46004.17,3.9,0
+03/04/2023,Books,Biographies,Machakos,Online,PayPal,3276.87,2,0,6553.74,3,0
+16/04/2024,Home & Garden,Pillow Set,Thika,Online,Credit Card,63267.94,4,15,215111,2.7,0
+02/07/2023,Clothing,Dress,Machakos,In-Store,Credit Card,4070.6,7,10,25644.78,3.2,0
+23/09/2023,Books,Self-Help Book,Machakos,In-Store,Cash,3127.42,3,10,8444.03,4.2,0
+08/10/2024,Books,Cookbook,Eldoret,Mobile App,Cash,2771.59,9,25,18708.23,4.2,0
+17/12/2023,Sports,Bicycle,Mombasa,In-Store,Bank Transfer,21207.14,5,5,130954.083,3.8,0
+29/04/2023,Home & Garden,Sofa,Eldoret,In-Store,Cash,18085.79,5,0,90428.95,3.8,0
+27/11/2023,Books,Self-Help Book,Nakuru,Mobile App,Cash,2104.06,10,0,27352.78,4.1,1
+02/01/2024,Electronics,Laptop,Nakuru,Social Media,Cash,51827.43,2,0,103654.86,3.3,0
+13/02/2024,Clothing,Hoodie,Nairobi,Social Media,PayPal,5749.13,10,20,45993.04,3.7,0
+07/03/2024,Home & Garden,Pillow Set,Kisumu,Social Media,Bank Transfer,24573.73,4,0,98294.92,3.6,0
+04/08/2024,Sports,Bicycle,Eldoret,Online,Credit Card,31024.94,5,5,147368.46,4.4,0
+14/04/2024,Home & Garden,Rug,Nairobi,Online,Cash,63594.78,3,15,162166.69,3.5,0
+23/03/2024,Clothing,Jeans,Mombasa,Mobile App,Cash,1424.32,4,5,5412.42,2.7,0
+27/04/2024,Sports,Swimming Goggles,Machakos,Mobile App,M-Pesa,28954.24,6,0,173725.44,3.9,0
+12/05/2023,Clothing,Jacket,Thika,Social Media,Bank Transfer,8621.58,2,20,13794.53,3.3,1
+22/12/2023,Books,Textbook,Kisumu,Mobile App,Bank Transfer,2210.2,9,0,25859.34,4.4,0
+17/09/2024,Clothing,Sneakers,Mombasa,In-Store,Cash,4666.23,9,0,41996.07,4,0
+21/03/2024,Electronics,Camera,Mombasa,In-Store,Bank Transfer,29819.64,4,10,107350.7,2.7,0
+25/09/2023,Clothing,Jacket,Mombasa,Mobile App,Cash,4948.38,8,0,39587.04,4.9,0
+02/11/2024,Clothing,Jacket,Thika,Online,Bank Transfer,9771.63,6,0,76218.714,4.5,0
+25/02/2023,Home & Garden,Desk Lamp,Eldoret,Social Media,Bank Transfer,1717.82,7,20,9619.79,3.3,0
+01/07/2024,Electronics,Smartwatch,Machakos,Social Media,PayPal,57178.15,8,15,388811.42,4.9,0
+22/07/2023,Clothing,Jacket,Eldoret,Social Media,M-Pesa,2229.45,6,10,12039.03,3.8,0
+11/01/2024,Books,Science Book,Nairobi,Social Media,Cash,427.5,8,25,2565,2.6,0
+03/07/2023,Home & Garden,Blender,Nakuru,Mobile App,Cash,61533.23,1,10,55379.91,3.2,0
+12/09/2023,Books,Cookbook,Kisumu,Online,PayPal,657.39,1,20,525.91,2.9,0
+06/12/2024,Clothing,Boots,Mombasa,Social Media,Bank Transfer,10766.24,6,25,62982.504,4.8,1
+15/09/2024,Sports,Tennis Racket,Nakuru,Online,M-Pesa,19999.36,1,0,19999.36,4.9,0
+15/02/2024,Electronics,Headphones,Eldoret,Online,Cash,139261.2,5,20,557044.8,2.6,1
+07/11/2023,Home & Garden,Wall Art,Thika,Online,Bank Transfer,77240.68,4,10,361486.385,3.8,0
+06/12/2024,Electronics,Tablet,Eldoret,Social Media,Credit Card,114586.42,7,10,938462.785,3.2,0
+29/02/2024,Sports,Bicycle,Mombasa,Mobile App,Cash,900.03,4,0,3600.12,4.1,0
+15/08/2023,Books,Biographies,Machakos,Mobile App,M-Pesa,1008.24,1,15,857,2.7,0
+25/07/2024,Sports,Swimming Goggles,Nakuru,Social Media,PayPal,20127.87,7,25,105671.32,2.5,0
+29/06/2024,Home & Garden,Rug,Nakuru,In-Store,Bank Transfer,68464.99,8,5,520333.92,4.2,0
+01/08/2023,Home & Garden,Coffee Maker,Nairobi,Online,Bank Transfer,45257,6,0,271542,4.4,0
+01/10/2024,Home & Garden,Blender,Machakos,Mobile App,Bank Transfer,54220.51,1,0,54220.51,4,0
+20/01/2024,Sports,Bicycle,Nakuru,Online,Cash,33652.51,8,5,255759.08,4.8,0
+02/07/2023,Sports,Swimming Goggles,Nairobi,Online,Bank Transfer,13567.34,2,10,24421.21,4.7,0
+24/11/2023,Books,Biographies,Nakuru,Mobile App,Credit Card,1638.18,10,10,19166.706,4.1,0
+21/10/2023,Home & Garden,Pillow Set,Eldoret,Social Media,Credit Card,68837.28,8,25,413023.68,4.6,0
+30/11/2024,Clothing,Jacket,Kisumu,Online,PayPal,10043.46,8,0,104451.984,3.5,0
+05/09/2024,Books,Science Book,Mombasa,Online,PayPal,1017.42,10,0,10174.2,3.9,0
+15/01/2024,Electronics,Tablet,Eldoret,In-Store,Credit Card,86257.31,8,0,690058.48,2.6,0
+28/04/2024,Books,Biographies,Eldoret,In-Store,Credit Card,1764.86,4,0,7059.44,4.8,1
+08/09/2023,Home & Garden,Desk Lamp,Kisumu,Online,M-Pesa,17194.98,8,25,103169.88,4.2,0
+13/06/2023,Clothing,Hoodie,Mombasa,Social Media,PayPal,7875.86,10,15,66944.81,3.1,0
+14/03/2023,Electronics,Smartphone,Thika,Online,Bank Transfer,130325.28,8,20,834081.79,4.5,1
+12/02/2024,Sports,Yoga Mat,Thika,Online,Bank Transfer,29159.97,1,10,26243.97,4.6,0
+26/09/2023,Electronics,Tablet,Nakuru,Social Media,Bank Transfer,118538.68,2,0,237077.36,4.4,0
+09/05/2024,Electronics,Camera,Mombasa,Mobile App,Bank Transfer,99167.48,3,5,282627.32,3,0
+06/12/2024,Electronics,Headphones,Thika,Social Media,Credit Card,114033.13,6,10,800512.57,4.5,0
+15/08/2023,Sports,Running Shoes,Eldoret,Online,Credit Card,9392.62,5,0,46963.1,4.7,0
+20/11/2024,Home & Garden,Blender,Thika,In-Store,PayPal,51004.45,8,25,306026.7,4.4,0
+20/08/2024,Clothing,Sneakers,Kisumu,Social Media,Cash,7822.77,1,5,7431.63,3.3,0
+21/10/2024,Home & Garden,Blender,Thika,Social Media,Bank Transfer,49782.03,3,15,126944.18,2.9,1
+29/06/2023,Home & Garden,Pillow Set,Kisumu,Social Media,Bank Transfer,52151.42,9,25,352022.08,3.7,0
+27/10/2024,Electronics,Tablet,Mombasa,Mobile App,Credit Card,35197.88,5,0,175989.4,3,0
+03/10/2024,Sports,Football,Nairobi,In-Store,Credit Card,22195.48,1,20,17756.38,2.7,0
+08/09/2023,Electronics,Tablet,Eldoret,Online,M-Pesa,68101.66,9,5,582269.19,3.1,0
+19/07/2024,Clothing,Jeans,Thika,Social Media,Credit Card,962.68,10,10,8664.12,3.2,0
+20/04/2024,Electronics,Laptop,Eldoret,Mobile App,M-Pesa,32744.34,4,25,98233.02,2.7,1
+02/05/2024,Electronics,Tablet,Machakos,Online,Credit Card,72788.26,8,0,582306.08,3,0
+29/03/2024,Clothing,Sneakers,Nakuru,Mobile App,PayPal,610.43,7,0,4273.01,4.4,0
+19/05/2024,Sports,Swimming Goggles,Nakuru,Online,Cash,45420.88,10,10,408787.92,4.1,0
+09/10/2023,Books,Biographies,Kisumu,Mobile App,Cash,3075.24,4,15,10455.82,4.2,0
+22/05/2024,Books,Fiction Novel,Machakos,In-Store,Bank Transfer,320.86,9,25,2165.81,2.9,0
+18/07/2023,Books,Comics,Kisumu,Online,Bank Transfer,1395.78,9,0,12562.02,4.4,0
+02/12/2024,Clothing,Dress,Eldoret,Mobile App,Cash,9313.84,8,0,74510.72,4,0
+30/11/2023,Clothing,Dress,Mombasa,In-Store,Bank Transfer,9536.83,3,0,37193.637,5,0
+15/01/2024,Books,Textbook,Thika,Mobile App,Credit Card,3285.1,8,10,23652.72,2.9,0
+03/03/2024,Home & Garden,Rug,Thika,Mobile App,Bank Transfer,25194.94,10,20,201559.52,2.5,1
+02/08/2023,Electronics,Headphones,Kisumu,In-Store,Bank Transfer,115523.19,1,5,109747.03,4.2,0
+09/08/2023,Home & Garden,Sofa,Kisumu,Social Media,Bank Transfer,26594.26,9,5,227380.92,4,0
+17/02/2023,Home & Garden,Sofa,Nairobi,In-Store,Credit Card,26578.26,8,25,159469.56,4.5,0
+04/07/2024,Books,Self-Help Book,Kisumu,Social Media,M-Pesa,624.61,6,10,3372.89,3.4,1
+04/06/2023,Electronics,Headphones,Mombasa,Online,Cash,146622.46,7,0,1026357.22,4,0
+07/12/2024,Sports,Yoga Mat,Nakuru,In-Store,Cash,34620.35,5,10,155791.58,4.4,0
+16/04/2024,Home & Garden,Rug,Kisumu,Social Media,Credit Card,15383.89,8,5,116917.56,3.4,0
+10/02/2024,Home & Garden,Blender,Eldoret,Online,Credit Card,10239.88,7,20,57343.33,4.5,0
+05/07/2024,Sports,Yoga Mat,Eldoret,Mobile App,M-Pesa,34203.45,1,15,29072.93,3.7,0
+09/06/2024,Electronics,Camera,Nairobi,Online,PayPal,117527.06,9,0,1057743.54,4.6,0
+21/04/2024,Books,Biographies,Thika,In-Store,M-Pesa,2754.77,7,10,17355.05,3.6,1
+24/06/2024,Clothing,Boots,Kisumu,Online,Credit Card,7950.16,6,25,35775.72,4.5,0
+09/01/2023,Books,Fiction Novel,Nakuru,Mobile App,M-Pesa,2295.81,7,0,16070.67,3.1,0
+13/08/2024,Home & Garden,Rug,Mombasa,Mobile App,PayPal,37054.06,4,15,125983.8,2.9,0
+07/07/2024,Clothing,Dress,Mombasa,Online,M-Pesa,6634.35,1,0,6634.35,3.4,0
+27/08/2023,Home & Garden,Desk Lamp,Thika,In-Store,Credit Card,24792.02,7,10,156189.73,4.8,0
+30/03/2024,Home & Garden,Sofa,Mombasa,Social Media,M-Pesa,66865.25,7,0,468056.75,4.7,1
+27/08/2024,Clothing,Jacket,Nairobi,Social Media,Bank Transfer,5090.55,4,20,16289.76,4.5,0
+11/09/2024,Clothing,Sneakers,Eldoret,Online,Credit Card,9200.97,2,25,13801.45,3.4,2
+12/04/2024,Books,Self-Help Book,Mombasa,Online,PayPal,1451.55,5,0,7257.75,2.5,0
+20/03/2024,Books,Science Book,Machakos,Online,Cash,1453.26,5,0,7266.3,4.9,0
+16/02/2023,Clothing,Boots,Nairobi,Social Media,Bank Transfer,682.28,5,15,2899.69,2.9,0
+02/09/2024,Sports,Yoga Mat,Mombasa,In-Store,Credit Card,41887.17,1,0,41887.17,4.5,1
+15/11/2024,Home & Garden,Blender,Eldoret,Social Media,Credit Card,34003.74,3,0,102011.22,4.7,0
+28/09/2024,Clothing,T-Shirt,Nakuru,In-Store,Cash,5142.02,6,10,27766.91,3.3,0
+04/09/2024,Home & Garden,Sofa,Nakuru,Online,Credit Card,73155.29,1,20,58524.23,4.3,0
+02/05/2024,Electronics,Smartphone,Kisumu,In-Store,M-Pesa,64142.67,2,0,128285.34,3.7,0
+27/11/2023,Sports,Bicycle,Mombasa,Online,Cash,28888.86,5,0,187777.59,3.4,0
+19/08/2023,Electronics,Headphones,Nakuru,In-Store,Credit Card,34458.05,3,0,103374.15,4.1,0
+03/12/2023,Books,Cookbook,Eldoret,Online,Credit Card,1023.91,3,10,3593.928,3.7,0
+30/01/2024,Sports,Tennis Racket,Kisumu,In-Store,Cash,25668.04,3,0,77004.12,4.1,0
+08/08/2024,Clothing,T-Shirt,Mombasa,Online,Credit Card,2361.68,6,0,14170.08,3.7,1
+12/07/2024,Clothing,Boots,Machakos,Social Media,Bank Transfer,11916.04,8,10,85795.49,3.6,0
+10/11/2024,Sports,Running Shoes,Kisumu,In-Store,Cash,20854.39,8,25,125126.34,4.6,0
+07/04/2023,Home & Garden,Sofa,Machakos,Mobile App,Bank Transfer,51669.58,9,0,465026.22,3.1,0
+22/03/2024,Electronics,Smartphone,Eldoret,Mobile App,Credit Card,131249.4,5,25,492185.25,3.9,1
+23/07/2023,Sports,Dumbbells,Nakuru,In-Store,Credit Card,50496.76,4,0,201987.04,4.3,0
+19/01/2024,Sports,Swimming Goggles,Mombasa,Online,PayPal,22141.78,4,0,88567.12,2.9,0
+27/07/2023,Sports,Dumbbells,Machakos,In-Store,PayPal,56566.2,10,20,452529.6,3.2,1
+01/01/2023,Books,Cookbook,Nakuru,Social Media,Bank Transfer,1797.61,3,10,4853.55,2.7,0
+07/05/2024,Home & Garden,Desk Lamp,Thika,Online,M-Pesa,60609.43,3,0,181828.29,4.6,0
+25/12/2023,Clothing,Jacket,Machakos,In-Store,Bank Transfer,4996.5,4,5,18986.7,4.9,0
+12/01/2023,Books,Fiction Novel,Thika,In-Store,Credit Card,1718.82,5,15,7304.98,4.1,0
+08/07/2024,Sports,Yoga Mat,Machakos,Social Media,Credit Card,39829.03,5,0,199145.15,4.4,0
+19/09/2023,Electronics,Speaker,Thika,Mobile App,Cash,142524.21,1,20,114019.37,2.8,0
+09/09/2024,Sports,Dumbbells,Thika,Social Media,Cash,13943.22,2,0,27886.44,4.9,1
+10/10/2023,Clothing,Hoodie,Machakos,Social Media,Bank Transfer,5349.25,2,10,9628.65,4.8,0
+06/09/2023,Home & Garden,Coffee Maker,Thika,Mobile App,Cash,7380.99,2,25,11071.49,4,0
+13/09/2024,Books,Comics,Kisumu,Online,Bank Transfer,2094.15,10,20,16753.2,3.8,1
+01/05/2023,Books,Fiction Novel,Eldoret,Online,PayPal,2982.26,2,0,5964.52,4.9,0
+24/10/2024,Sports,Football,Thika,Social Media,Bank Transfer,43266.37,1,15,36776.41,4.5,1
+10/08/2023,Sports,Swimming Goggles,Eldoret,Online,Bank Transfer,48901.74,7,0,342312.18,3.9,0
+30/11/2024,Home & Garden,Sofa,Kisumu,Social Media,M-Pesa,58541.34,5,15,248800.69,4.9,0
+03/08/2023,Books,Textbook,Nairobi,Mobile App,Bank Transfer,2537.13,5,0,12685.65,3.9,1
+27/12/2023,Home & Garden,Wall Art,Nakuru,Mobile App,Credit Card,67701.81,2,15,149621.004,4.3,0
+17/11/2023,Clothing,Dress,Machakos,Mobile App,M-Pesa,11012.97,2,20,22906.975,4.1,0
+13/06/2023,Clothing,Dress,Machakos,Social Media,Cash,4375.51,8,15,29753.47,4.9,0
+27/07/2024,Electronics,Laptop,Eldoret,Mobile App,PayPal,105633.79,9,10,855633.7,3.8,0
+30/05/2023,Electronics,Laptop,Nairobi,Online,PayPal,137375.2,7,10,865463.76,4.3,0
+19/08/2023,Books,Self-Help Book,Nakuru,Online,Cash,2262.94,2,15,3847,3.6,0
+20/08/2023,Sports,Dumbbells,Thika,Mobile App,M-Pesa,29972.88,4,5,113896.94,3.6,0
+29/02/2024,Clothing,T-Shirt,Kisumu,In-Store,M-Pesa,10361.61,8,25,62169.66,3.9,2
+24/12/2024,Clothing,Jacket,Mombasa,Social Media,PayPal,10718.95,7,10,87788.207,3.4,0
+26/11/2023,Books,Cookbook,Kisumu,In-Store,Cash,2029.18,2,0,5275.868,5,0
+18/04/2023,Sports,Tennis Racket,Mombasa,Online,PayPal,42676.22,9,15,326473.08,4.5,0
+25/09/2024,Home & Garden,Wall Art,Thika,In-Store,Bank Transfer,22115.37,1,25,16586.53,3.6,0
+24/12/2024,Electronics,Laptop,Nairobi,Social Media,PayPal,98241.08,6,25,442084.86,4.2,0
+09/08/2023,Home & Garden,Pillow Set,Kisumu,Online,PayPal,39672.14,3,20,95213.14,4.2,0
+07/01/2023,Home & Garden,Blender,Mombasa,Social Media,Credit Card,61490.98,10,15,522673.33,4.9,0
+19/07/2023,Home & Garden,Pillow Set,Nairobi,Online,PayPal,5839.4,7,0,40875.8,3.1,0
+07/04/2023,Clothing,Hoodie,Mombasa,Online,Bank Transfer,8879.67,6,0,53278.02,4.9,0
+09/04/2023,Books,Textbook,Nakuru,Social Media,Bank Transfer,743.23,6,0,4459.38,3.3,0
+26/12/2023,Books,Cookbook,Nakuru,Online,Credit Card,1133.62,4,5,5600.088,4.1,0
+30/11/2024,Electronics,Smartwatch,Kisumu,Online,PayPal,11013.33,9,0,99119.97,2.9,1
+13/03/2023,Sports,Yoga Mat,Nairobi,Mobile App,Bank Transfer,18792.07,10,15,159732.6,4.9,0
+10/08/2024,Sports,Bicycle,Mombasa,In-Store,Cash,6359.77,3,15,16217.41,2.9,0
+16/11/2023,Clothing,Sneakers,Mombasa,Social Media,M-Pesa,7653.95,9,0,89551.215,2.8,0
+10/04/2024,Sports,Tennis Racket,Mombasa,Online,Bank Transfer,12073.69,3,15,30787.91,4.8,0
+25/05/2023,Books,Textbook,Nakuru,Online,PayPal,509.48,4,15,1732.23,3.1,0
+16/06/2024,Clothing,Hoodie,Nakuru,Online,Cash,1174.18,8,0,9393.44,2.7,0
+19/05/2023,Sports,Tennis Racket,Eldoret,Social Media,PayPal,38805.99,5,15,164925.46,3.6,0
+26/11/2023,Books,Science Book,Nakuru,Social Media,M-Pesa,1869.49,8,0,19442.696,4,0
+11/11/2023,Home & Garden,Rug,Thika,Online,PayPal,66635.57,4,0,346504.964,4.4,0
+12/07/2023,Clothing,Boots,Kisumu,Online,PayPal,821.58,5,20,3286.32,3.4,0
+12/04/2023,Books,Comics,Eldoret,In-Store,PayPal,1486.64,1,5,1412.31,3.6,0
+16/02/2023,Clothing,Boots,Kisumu,Online,Credit Card,6195.66,10,0,61956.6,4.8,0
+16/01/2024,Electronics,Tablet,Nairobi,In-Store,Cash,147691.49,7,5,982148.41,4.8,0
+29/07/2023,Clothing,Jeans,Eldoret,In-Store,PayPal,8188.13,7,10,51585.22,4.9,0
+14/07/2023,Home & Garden,Coffee Maker,Thika,Online,Bank Transfer,66025.55,7,10,415960.97,4.5,0
+09/11/2024,Sports,Yoga Mat,Thika,Social Media,M-Pesa,41942.5,8,0,436202,2.7,0
+28/11/2024,Clothing,Hoodie,Nakuru,Online,Credit Card,6674.81,3,10,23428.587,4.2,0
+30/03/2023,Home & Garden,Blender,Machakos,Mobile App,M-Pesa,61070.35,7,5,406117.83,3.9,0
+02/02/2024,Clothing,Sneakers,Nairobi,Social Media,Bank Transfer,1757.45,4,0,7029.8,3,0
+09/11/2024,Electronics,Laptop,Nakuru,Mobile App,Bank Transfer,111275.26,8,0,1157262.704,4.4,0
+14/09/2023,Clothing,Boots,Kisumu,Online,PayPal,663.43,3,15,1691.75,4.8,0
+19/08/2023,Clothing,Boots,Nairobi,Social Media,Bank Transfer,2260.62,5,0,11303.1,3,0
+24/07/2024,Books,Fiction Novel,Machakos,Social Media,M-Pesa,2998.95,10,10,26990.55,2.9,0
+26/11/2023,Home & Garden,Sofa,Nairobi,Online,Bank Transfer,41829.35,1,0,41829.35,2.9,0
+18/08/2023,Clothing,T-Shirt,Nakuru,Online,PayPal,1171.8,7,0,8202.6,4.4,0
+05/04/2024,Sports,Yoga Mat,Nairobi,Social Media,PayPal,38900.54,5,20,155602.16,4.8,0
+03/07/2024,Books,Biographies,Kisumu,Mobile App,Bank Transfer,1833.21,3,25,4124.72,4.7,0
+22/01/2023,Home & Garden,Wall Art,Thika,In-Store,Bank Transfer,79931.93,3,15,203826.42,3.6,0
+20/02/2024,Electronics,Headphones,Nakuru,In-Store,Bank Transfer,20503.58,6,5,116870.41,3.6,0
+26/06/2024,Books,Science Book,Nakuru,Social Media,Cash,1380.96,7,0,9666.72,3,0
+21/10/2024,Clothing,Sneakers,Mombasa,Mobile App,Bank Transfer,6804.36,7,15,40485.94,3.3,0
+22/02/2023,Books,Fiction Novel,Eldoret,Social Media,Cash,3194.96,10,20,25559.68,3,0
+31/01/2024,Clothing,Boots,Nakuru,Social Media,Credit Card,11346.79,1,5,10779.45,3.9,0
+26/02/2024,Sports,Swimming Goggles,Mombasa,Social Media,PayPal,47042.42,4,0,188169.68,3.3,0
+23/11/2024,Clothing,Hoodie,Nakuru,Mobile App,PayPal,11229.73,10,0,112297.3,2.7,0
+04/06/2023,Electronics,Tablet,Machakos,Online,Cash,139871.27,6,5,797266.24,4.9,0
+13/12/2023,Electronics,Tablet,Eldoret,Mobile App,PayPal,135868.24,8,25,1059772.272,3.2,0
+12/06/2023,Sports,Dumbbells,Mombasa,In-Store,Bank Transfer,7635.36,10,20,61082.88,3.9,0
+10/04/2023,Home & Garden,Wall Art,Machakos,In-Store,M-Pesa,53378.43,3,25,120101.47,4.4,0
+27/03/2024,Books,Science Book,Nakuru,Social Media,Credit Card,2754.84,10,15,23416.14,4,0
+01/07/2023,Electronics,Headphones,Thika,Mobile App,Cash,148196.66,6,0,889179.96,2.8,0
+09/09/2024,Books,Self-Help Book,Nairobi,In-Store,Cash,1235.52,2,15,2100.38,5,0
+16/06/2024,Sports,Tennis Racket,Nakuru,In-Store,Cash,51164.42,4,10,184191.91,4.8,0
+11/02/2023,Home & Garden,Desk Lamp,Nairobi,In-Store,Cash,21638.58,7,15,128749.55,3.2,2
+10/08/2024,Books,Comics,Nairobi,Mobile App,PayPal,400.4,10,0,4004,2.5,0
+08/06/2024,Books,Science Book,Nakuru,Online,Cash,2529.94,6,15,12902.69,4.6,0
+15/05/2024,Books,Comics,Kisumu,In-Store,Cash,2601.17,9,5,22240,3.2,0
+20/04/2023,Books,Comics,Nairobi,Mobile App,PayPal,3166.62,1,0,3166.62,3.1,0
+16/12/2023,Electronics,Laptop,Eldoret,In-Store,M-Pesa,129826.18,1,0,168774.034,4,0
+24/07/2023,Books,Comics,Machakos,Mobile App,M-Pesa,2260.21,1,0,2260.21,4.8,1
+21/02/2023,Clothing,T-Shirt,Thika,Online,M-Pesa,5479.15,4,5,20820.77,4.3,0
+22/10/2023,Sports,Dumbbells,Nakuru,In-Store,Bank Transfer,36564.19,3,25,82269.43,4.3,0
+28/05/2023,Electronics,Headphones,Mombasa,Online,M-Pesa,28025.94,4,10,100893.38,4.7,0
+16/06/2023,Clothing,Boots,Nairobi,Online,Credit Card,2651.05,6,5,15110.99,3.5,0
+27/06/2024,Home & Garden,Pillow Set,Nakuru,Mobile App,Credit Card,34580.65,6,5,197109.71,2.5,1
+03/03/2023,Home & Garden,Blender,Machakos,In-Store,M-Pesa,5680.27,8,15,38625.84,4,0
+25/08/2024,Electronics,Camera,Machakos,Social Media,M-Pesa,146620.81,2,15,249255.38,4.4,1
+26/05/2024,Sports,Football,Nairobi,Mobile App,Cash,27376.74,8,15,186161.83,3.3,0
+21/04/2024,Sports,Football,Mombasa,In-Store,PayPal,10730.84,6,20,51508.03,4.7,0
+26/01/2023,Books,Science Book,Machakos,Social Media,Bank Transfer,788.59,7,20,4416.1,4.7,0
+04/06/2023,Books,Textbook,Thika,In-Store,Bank Transfer,1470.27,7,0,10291.89,4,0
+24/05/2024,Electronics,Smartphone,Nakuru,Social Media,Credit Card,42091.73,4,0,168366.92,3.5,0
+21/03/2024,Sports,Running Shoes,Mombasa,In-Store,Bank Transfer,36645.4,8,20,234530.56,4.9,0
+25/05/2023,Electronics,Tablet,Nairobi,Online,Cash,106491.57,10,10,958424.13,3.1,1
+01/12/2024,Clothing,Jacket,Nakuru,Online,Cash,7762.35,6,10,54491.697,4,0
+19/01/2023,Sports,Running Shoes,Kisumu,Mobile App,Credit Card,22552.31,8,0,180418.48,3.6,0
+22/07/2024,Clothing,Dress,Thika,In-Store,Cash,7789.52,8,10,56084.54,3.4,0
+30/07/2024,Clothing,Jeans,Kisumu,In-Store,PayPal,7507.95,4,25,22523.85,3.7,0
+18/04/2024,Sports,Yoga Mat,Nakuru,In-Store,PayPal,19706.3,9,25,133017.52,4,1
+08/01/2024,Home & Garden,Sofa,Nakuru,Social Media,Credit Card,63469.5,5,0,317347.5,4.6,0
+29/07/2024,Clothing,Jeans,Thika,Online,Cash,4595.94,10,25,34469.55,2.9,0
+30/10/2023,Home & Garden,Coffee Maker,Kisumu,In-Store,Credit Card,76651.88,10,0,766518.8,4.3,0
+02/11/2023,Clothing,Sneakers,Machakos,Mobile App,Credit Card,9593.16,7,0,67152.12,2.9,0
+31/08/2024,Books,Fiction Novel,Kisumu,Social Media,Credit Card,1729.39,7,0,12105.73,3.6,0
+27/11/2023,Home & Garden,Coffee Maker,Kisumu,In-Store,PayPal,36704.01,3,0,143145.639,2.8,1
+05/10/2024,Sports,Bicycle,Kisumu,In-Store,Cash,50009.18,7,0,350064.26,3.6,0
+07/06/2024,Clothing,Dress,Eldoret,Online,Cash,4226.16,10,0,42261.6,2.6,0
+31/12/2024,Clothing,Jacket,Nairobi,Online,Credit Card,2243.05,9,0,20187.45,4.4,2
+21/06/2024,Home & Garden,Sofa,Nakuru,Mobile App,M-Pesa,39802.49,9,0,358222.41,3.5,0
+21/08/2023,Clothing,Sneakers,Machakos,Online,Credit Card,5657.73,2,10,10183.91,3.1,0
+06/06/2023,Sports,Yoga Mat,Nairobi,In-Store,Bank Transfer,3118.25,4,5,11849.35,4.9,0
+25/01/2023,Home & Garden,Blender,Nakuru,Social Media,M-Pesa,41211.56,5,25,154543.35,4.2,0
+08/01/2023,Sports,Yoga Mat,Nairobi,In-Store,PayPal,2738.73,4,25,8216.19,3.4,0
+04/10/2024,Home & Garden,Pillow Set,Machakos,In-Store,Bank Transfer,17652.04,9,0,158868.36,4.4,0
+09/12/2023,Sports,Running Shoes,Eldoret,Social Media,Credit Card,50188.45,10,10,451696.05,4.7,0
+29/07/2023,Home & Garden,Coffee Maker,Nairobi,Social Media,PayPal,77444.59,9,20,557601.05,3,0
+30/08/2024,Electronics,Camera,Machakos,In-Store,Credit Card,114444.37,5,5,543610.76,4.5,0
+07/06/2024,Electronics,Camera,Thika,In-Store,PayPal,133750.56,5,5,635315.16,2.6,0
+13/04/2024,Clothing,Hoodie,Kisumu,In-Store,Bank Transfer,11388.14,7,15,67759.43,5,0
+01/02/2023,Clothing,Jacket,Nakuru,Mobile App,Credit Card,1393.25,2,0,2786.5,4,1
+24/02/2023,Home & Garden,Sofa,Kisumu,Social Media,Bank Transfer,58516.86,3,0,175550.58,3.4,0
+05/02/2023,Books,Comics,Kisumu,Online,Cash,1635.96,1,10,1472.36,4.7,0
+28/06/2023,Home & Garden,Coffee Maker,Machakos,In-Store,M-Pesa,73616.98,1,25,55212.74,2.5,0
+06/03/2023,Clothing,Jacket,Machakos,Mobile App,Cash,759.43,10,25,5695.72,4.3,0
+27/02/2024,Electronics,Headphones,Thika,Social Media,M-Pesa,7499.85,7,25,39374.21,2.9,0
+25/01/2023,Electronics,Camera,Nairobi,Mobile App,Cash,108392.88,4,10,390214.37,4.2,1
+26/07/2024,Clothing,Jeans,Thika,Social Media,M-Pesa,11952.13,1,20,9561.7,4.9,0
+12/04/2024,Clothing,Boots,Machakos,Online,Cash,4686.4,10,15,39834.4,4.6,0
+28/06/2023,Home & Garden,Wall Art,Kisumu,In-Store,Cash,59027.44,6,20,283331.71,4,0
+18/03/2024,Home & Garden,Rug,Kisumu,In-Store,Bank Transfer,54316.29,7,15,323181.93,2.7,0
+18/12/2023,Clothing,Dress,Kisumu,Social Media,Bank Transfer,9167.59,3,0,35753.601,4.6,0
+25/03/2023,Sports,Running Shoes,Eldoret,In-Store,PayPal,8887.57,4,20,28440.22,4.6,1
+21/08/2023,Sports,Tennis Racket,Nairobi,Online,PayPal,840.01,9,0,7560.09,4.2,0
+13/08/2023,Books,Fiction Novel,Kisumu,Mobile App,PayPal,3298.17,9,20,23746.82,3.9,0
+31/05/2024,Electronics,Laptop,Thika,Social Media,Credit Card,125483.69,4,0,501934.76,4.5,0
+15/07/2023,Electronics,Camera,Kisumu,In-Store,Bank Transfer,46822.93,4,0,187291.72,2.6,0
+02/01/2024,Electronics,Laptop,Mombasa,Online,M-Pesa,39508.22,2,20,63213.15,4.2,0
+12/10/2024,Sports,Running Shoes,Kisumu,Social Media,Cash,12981.84,7,25,68154.66,4,0
+05/07/2024,Books,Fiction Novel,Nakuru,Mobile App,Cash,399.33,8,20,2555.71,4.4,0
+01/05/2024,Sports,Tennis Racket,Kisumu,Social Media,M-Pesa,23170.06,8,0,185360.48,3.1,0
+10/09/2024,Clothing,Boots,Machakos,Online,Bank Transfer,4868.29,6,5,27749.25,5,0
+01/12/2024,Home & Garden,Pillow Set,Machakos,Social Media,Credit Card,49406.41,2,0,98812.82,4.7,0
+02/07/2024,Sports,Bicycle,Nairobi,In-Store,Bank Transfer,16919.62,10,20,135356.96,4.1,0
+10/02/2023,Sports,Yoga Mat,Thika,Social Media,Credit Card,54194.35,5,0,270971.75,3.2,0
+01/02/2024,Electronics,Camera,Mombasa,Online,Credit Card,73357.64,4,0,293430.56,4.4,0
+23/08/2023,Clothing,Hoodie,Nakuru,Online,Cash,2600.79,6,25,11703.56,4.3,0
+24/03/2024,Electronics,Smartphone,Mombasa,In-Store,Credit Card,111572.75,10,0,1115727.5,3.7,0
+13/10/2023,Books,Fiction Novel,Thika,Mobile App,PayPal,640.25,8,0,5122,3.6,0
+21/05/2023,Electronics,Smartphone,Nairobi,Mobile App,Cash,72244.58,9,5,617691.16,2.8,0
+24/07/2024,Sports,Dumbbells,Thika,In-Store,Bank Transfer,39795.8,9,15,304437.87,3.2,0
+04/11/2023,Clothing,Sneakers,Nakuru,Online,PayPal,957.19,4,0,3828.76,4.3,0
+07/11/2023,Electronics,Smartwatch,Machakos,Online,M-Pesa,79635.34,5,0,517629.71,2.8,1
+26/06/2023,Books,Textbook,Mombasa,In-Store,Bank Transfer,1830.48,4,0,7321.92,3.5,0
+11/03/2023,Sports,Swimming Goggles,Machakos,Online,Credit Card,40224.69,9,0,362022.21,3.7,2
+26/09/2023,Electronics,Smartwatch,Mombasa,In-Store,Bank Transfer,126286.1,6,5,719830.77,3.5,0
+05/04/2024,Electronics,Speaker,Kisumu,Social Media,M-Pesa,30505.64,6,20,146427.07,4,1
+24/05/2024,Clothing,Jacket,Eldoret,Social Media,Credit Card,3275.42,9,10,26530.9,4.4,0
+12/10/2023,Electronics,Headphones,Nairobi,Online,Credit Card,116391.87,1,15,98933.09,3.5,0
+31/01/2024,Home & Garden,Blender,Machakos,Mobile App,Cash,68546.01,8,25,411276.06,4.4,0
+29/06/2024,Sports,Football,Eldoret,In-Store,Bank Transfer,20622.27,8,15,140231.44,3.8,0
+28/11/2023,Home & Garden,Wall Art,Kisumu,Mobile App,Cash,47879.16,4,15,211625.882,3.9,0
+04/09/2024,Home & Garden,Desk Lamp,Machakos,Mobile App,PayPal,54347.13,5,10,244562.08,3.6,0
+29/07/2023,Sports,Swimming Goggles,Mombasa,Mobile App,Credit Card,41413.94,6,15,211211.09,4.5,0
+25/10/2024,Clothing,T-Shirt,Thika,Mobile App,Credit Card,2865.94,6,0,17195.64,4.5,0
+18/09/2023,Books,Science Book,Thika,Mobile App,PayPal,1769.05,6,0,10614.3,4,0
+10/04/2024,Books,Textbook,Eldoret,Social Media,M-Pesa,512.95,5,25,1923.56,4.8,0
+01/09/2024,Home & Garden,Pillow Set,Eldoret,Social Media,Credit Card,21843.54,7,25,114678.58,2.8,0
+13/03/2023,Home & Garden,Sofa,Mombasa,In-Store,M-Pesa,29417.73,1,0,29417.73,3.2,0
+11/01/2023,Home & Garden,Desk Lamp,Machakos,Online,Bank Transfer,17027.51,10,0,170275.1,2.8,2
+19/07/2024,Home & Garden,Blender,Nakuru,In-Store,Credit Card,18258.66,10,10,164327.94,3.4,0
+08/07/2024,Electronics,Smartwatch,Eldoret,Mobile App,Credit Card,27432.67,7,5,182427.26,4,1
+15/08/2023,Electronics,Smartwatch,Thika,Mobile App,Bank Transfer,20435.37,4,20,65393.18,3.1,0
+16/08/2024,Clothing,Jeans,Kisumu,Online,M-Pesa,3245.86,5,20,12983.44,4.7,0
+03/06/2023,Books,Self-Help Book,Mombasa,Online,M-Pesa,1607.31,8,25,9643.86,4.3,0
+23/03/2024,Sports,Swimming Goggles,Nakuru,Online,PayPal,46044.32,4,25,138132.96,4.5,0
+21/12/2024,Home & Garden,Sofa,Nakuru,Social Media,Bank Transfer,48839.07,6,0,293034.42,4.6,0
+12/09/2023,Clothing,Hoodie,Nakuru,In-Store,Credit Card,4113.44,7,10,25914.67,4.3,1
+31/12/2024,Books,Biographies,Nakuru,Online,PayPal,1081.03,2,25,2108.015,3.5,0
+19/09/2023,Books,Fiction Novel,Nakuru,Social Media,Bank Transfer,3209.4,2,20,5135.04,3.4,0
+07/02/2023,Home & Garden,Coffee Maker,Mombasa,In-Store,Credit Card,68408.84,9,5,584895.58,4.9,0
+14/09/2023,Clothing,T-Shirt,Thika,In-Store,M-Pesa,7577.67,9,0,68199.03,2.7,1
+24/02/2024,Books,Self-Help Book,Kisumu,In-Store,Bank Transfer,1191.24,3,5,3395.03,3.3,0
+15/07/2024,Clothing,Hoodie,Nairobi,Online,PayPal,8028.15,3,10,21676,3.7,0
+03/10/2023,Clothing,Jeans,Nairobi,In-Store,PayPal,8694.08,2,0,17388.16,4.5,0
+09/01/2023,Electronics,Speaker,Nakuru,Mobile App,Credit Card,24602.35,3,5,70116.7,3.3,0
+19/05/2023,Home & Garden,Pillow Set,Machakos,Online,PayPal,40757.17,1,20,32605.74,2.9,0
+10/04/2024,Clothing,Jeans,Machakos,Mobile App,PayPal,9506.31,8,5,72247.96,2.9,0
+22/10/2023,Clothing,Jeans,Thika,Online,M-Pesa,11802.85,3,0,35408.55,3.7,0
+12/09/2024,Books,Biographies,Eldoret,Social Media,PayPal,1793.18,9,15,13717.83,3.9,0
+07/02/2023,Books,Textbook,Kisumu,Social Media,Credit Card,1910.09,8,0,15280.72,3,0
+03/11/2023,Home & Garden,Rug,Kisumu,Online,PayPal,72409.88,7,20,405495.33,3.3,0
+10/02/2024,Electronics,Laptop,Nakuru,In-Store,Bank Transfer,130049.18,3,10,351132.79,3.1,0
+29/07/2023,Clothing,Jacket,Kisumu,Social Media,Bank Transfer,5863.01,8,15,39868.47,3.7,0
+31/01/2024,Electronics,Laptop,Mombasa,Online,Cash,57357.28,6,25,258107.76,4.7,1
+11/03/2023,Electronics,Smartwatch,Kisumu,Mobile App,PayPal,83637.8,1,25,62728.35,3.4,0
+03/03/2023,Sports,Dumbbells,Nairobi,Online,Credit Card,44813.66,9,10,362990.65,2.6,0
+22/12/2023,Sports,Running Shoes,Nairobi,Social Media,Bank Transfer,20442.03,10,25,199309.786,3.2,0
+13/11/2024,Sports,Tennis Racket,Nairobi,Social Media,Bank Transfer,26344.45,9,0,308230.065,4.3,0
+28/05/2023,Electronics,Laptop,Machakos,Social Media,Cash,99771.21,8,10,718352.71,2.9,1
+13/01/2023,Electronics,Smartwatch,Nakuru,Mobile App,Bank Transfer,34595.16,1,10,31135.64,4.9,0
+01/01/2023,Sports,Dumbbells,Nakuru,In-Store,Bank Transfer,33095.12,5,5,157201.82,5,0
+27/04/2023,Electronics,Tablet,Thika,Social Media,M-Pesa,34425.98,3,25,77458.46,2.7,0
+08/10/2024,Home & Garden,Pillow Set,Thika,Mobile App,Bank Transfer,76488.94,5,15,325077.99,4.2,0
+23/01/2023,Sports,Tennis Racket,Thika,Mobile App,PayPal,46830.79,4,5,177957,3.6,0
+20/04/2023,Sports,Running Shoes,Nakuru,Social Media,M-Pesa,57154.77,5,10,257196.46,4.6,0
+27/02/2024,Clothing,Jeans,Nakuru,In-Store,M-Pesa,8519.89,9,15,65177.16,4.4,0
+28/02/2023,Home & Garden,Blender,Nairobi,In-Store,Credit Card,50146.2,2,15,85248.54,3.6,0
+30/08/2023,Clothing,Jacket,Nakuru,Online,Cash,11282.33,2,10,20308.19,3.7,2
+17/09/2024,Books,Biographies,Mombasa,Social Media,Bank Transfer,3018.24,5,5,14336.64,4.5,0
+03/06/2023,Sports,Running Shoes,Eldoret,Social Media,M-Pesa,6579.19,2,0,13158.38,3.9,0
+17/05/2023,Electronics,Speaker,Machakos,In-Store,M-Pesa,2308.91,3,0,6926.73,3.2,0
+13/04/2023,Home & Garden,Wall Art,Eldoret,Online,M-Pesa,13885.55,5,15,59013.59,2.6,0
+01/10/2023,Electronics,Smartwatch,Nairobi,In-Store,Credit Card,134764.31,8,0,1078114.48,4,0
+11/06/2023,Sports,Yoga Mat,Machakos,Mobile App,Credit Card,4457.59,10,10,40118.31,4.1,0
+12/12/2024,Electronics,Headphones,Eldoret,In-Store,Cash,6740.99,6,0,52579.722,3.6,1
+13/11/2024,Home & Garden,Blender,Thika,Social Media,Bank Transfer,64711.7,4,10,232962.12,3.1,0
+04/04/2024,Clothing,T-Shirt,Nairobi,Online,PayPal,10564.13,3,0,31692.39,2.8,0
+24/02/2024,Home & Garden,Rug,Kisumu,Mobile App,PayPal,19748.92,8,20,126393.09,2.8,0
+10/06/2023,Sports,Football,Eldoret,Mobile App,Credit Card,53798.02,1,15,45728.32,3.5,0
+05/11/2024,Electronics,Smartphone,Machakos,Mobile App,Bank Transfer,29611.25,8,25,230967.75,4.5,1
+08/01/2023,Books,Self-Help Book,Machakos,Mobile App,Bank Transfer,2406.9,10,0,24069,4.7,0
+09/06/2024,Home & Garden,Coffee Maker,Nairobi,Social Media,Cash,12534.89,3,5,35724.44,4,1
+21/09/2024,Clothing,Boots,Mombasa,Social Media,M-Pesa,9364.89,6,15,47760.94,3.4,0
+27/06/2024,Books,Textbook,Machakos,In-Store,Credit Card,772.98,9,10,6261.14,3.5,0
+28/08/2024,Sports,Tennis Racket,Eldoret,In-Store,Bank Transfer,46320.88,1,25,34740.66,3.9,0
+03/03/2024,Books,Fiction Novel,Kisumu,Mobile App,M-Pesa,1603.48,2,25,2405.22,4.8,1
+29/10/2024,Sports,Tennis Racket,Mombasa,Mobile App,PayPal,13840.23,5,10,62281.03,4.6,0
+05/04/2024,Sports,Running Shoes,Nakuru,Mobile App,M-Pesa,32126.12,1,5,30519.81,3.1,0
+17/01/2023,Electronics,Smartphone,Machakos,Mobile App,PayPal,122534.85,9,20,882250.92,3.8,1
+29/04/2023,Home & Garden,Rug,Eldoret,Online,Bank Transfer,79118.38,4,10,284826.17,4.6,1
+02/12/2024,Books,Biographies,Thika,Mobile App,Credit Card,2044.2,4,0,10629.84,3.3,0
+01/03/2024,Books,Fiction Novel,Nairobi,In-Store,Cash,840.87,5,10,3783.92,2.9,0
+20/03/2023,Clothing,Dress,Nairobi,Mobile App,Cash,11975.68,9,0,107781.12,5,1
+05/05/2023,Electronics,Laptop,Nairobi,Mobile App,Credit Card,18778.87,8,15,127696.32,3.8,0
+31/12/2023,Sports,Bicycle,Eldoret,Online,Bank Transfer,40279.1,5,0,261814.15,3.4,0
+16/06/2023,Clothing,Sneakers,Kisumu,Online,PayPal,9750.32,2,0,19500.64,2.9,0
+17/04/2023,Sports,Dumbbells,Nakuru,Mobile App,M-Pesa,20806.74,7,20,116517.74,4.5,0
+21/08/2023,Books,Self-Help Book,Mombasa,In-Store,PayPal,2339.97,10,0,23399.7,4.6,1
+12/02/2023,Books,Biographies,Machakos,Social Media,Bank Transfer,1331.08,6,5,7587.16,2.6,0
+19/04/2024,Sports,Running Shoes,Nairobi,Mobile App,Cash,25282.7,1,15,21490.29,2.7,0
+03/05/2023,Sports,Tennis Racket,Eldoret,Online,PayPal,8664.76,8,15,58920.37,4.1,0
+04/11/2023,Home & Garden,Desk Lamp,Kisumu,Social Media,Cash,3883.95,2,0,10098.27,5,0
+18/03/2023,Books,Self-Help Book,Kisumu,Mobile App,Bank Transfer,3440.19,9,15,26317.45,3.7,0
+21/06/2024,Books,Fiction Novel,Nairobi,Mobile App,Cash,891.28,2,0,1782.56,4,1
+13/08/2024,Home & Garden,Sofa,Nairobi,Mobile App,Cash,26010.29,2,0,52020.58,3,0
+19/07/2024,Clothing,T-Shirt,Kisumu,Mobile App,PayPal,9180.67,2,10,16525.21,4.1,0
+23/02/2023,Books,Textbook,Nairobi,Mobile App,Bank Transfer,597.5,6,10,3226.5,2.8,0
+08/07/2024,Sports,Yoga Mat,Nairobi,Social Media,M-Pesa,28471.85,6,20,136664.88,2.8,0
+07/10/2024,Sports,Swimming Goggles,Mombasa,Online,Cash,10601.76,10,0,106017.6,4.5,0
+13/08/2024,Clothing,Jeans,Thika,In-Store,Bank Transfer,560.79,9,10,4542.4,4.5,0
+17/07/2023,Clothing,Jacket,Eldoret,In-Store,M-Pesa,5441.82,10,20,43534.56,4.6,0
+24/12/2024,Clothing,Jacket,Eldoret,Social Media,PayPal,3808.12,4,0,19802.224,4.1,0
+18/10/2024,Electronics,Headphones,Eldoret,In-Store,Cash,104312.39,10,0,1043123.9,4,1
+01/12/2024,Clothing,Jeans,Thika,Online,Credit Card,11978.67,1,0,11978.67,4.9,0
+20/04/2023,Electronics,Smartwatch,Nairobi,In-Store,M-Pesa,124835.66,1,20,99868.53,3.4,0
+06/11/2024,Clothing,Boots,Thika,Online,Cash,4238.78,7,20,30858.321,3.2,0
+15/05/2024,Clothing,Jeans,Nakuru,Mobile App,Credit Card,10504.44,4,25,31513.32,4.9,0
+20/06/2024,Home & Garden,Sofa,Nakuru,Social Media,Credit Card,5663.24,1,25,4247.43,3.2,0
+26/06/2024,Home & Garden,Desk Lamp,Kisumu,Mobile App,Credit Card,34551.26,1,25,25913.44,2.7,0
+04/02/2024,Home & Garden,Wall Art,Mombasa,Social Media,Credit Card,55323.73,5,25,207463.99,3.2,0
+23/04/2023,Books,Self-Help Book,Nairobi,In-Store,Bank Transfer,1530.66,9,0,13775.94,3.2,0
+06/03/2023,Home & Garden,Wall Art,Nairobi,Mobile App,PayPal,64117.34,7,0,448821.38,3.9,1
+04/10/2024,Clothing,Dress,Kisumu,In-Store,PayPal,10342.28,10,0,103422.8,3.7,0
+11/07/2023,Clothing,T-Shirt,Kisumu,Social Media,PayPal,4424.91,8,5,33629.32,2.8,0
+09/04/2023,Books,Cookbook,Thika,Mobile App,PayPal,938.29,7,15,5582.83,3.4,0
+19/05/2024,Clothing,Dress,Nairobi,Mobile App,Cash,5920.91,4,15,20131.09,3.1,1
+14/02/2023,Electronics,Camera,Nairobi,Online,PayPal,134596.95,4,20,430710.24,3,0
+15/01/2024,Electronics,Smartphone,Thika,Social Media,Credit Card,34668.36,4,5,131739.77,2.7,0
+15/12/2023,Sports,Bicycle,Nairobi,Mobile App,PayPal,53454.21,4,0,277961.892,4,0
+04/11/2024,Home & Garden,Rug,Eldoret,In-Store,M-Pesa,38500.19,5,0,250251.235,4.3,1
+12/08/2024,Books,Textbook,Mombasa,Social Media,Cash,620.3,9,5,5303.56,3.2,0
+04/10/2024,Home & Garden,Blender,Machakos,Social Media,PayPal,55918.37,1,0,55918.37,3.9,0
+03/08/2023,Clothing,Jeans,Machakos,In-Store,Credit Card,8980.96,3,5,25595.74,3,0
+11/01/2024,Electronics,Camera,Nakuru,In-Store,PayPal,21908.23,2,5,41625.64,4.1,1
+23/01/2024,Home & Garden,Rug,Thika,Social Media,Credit Card,55283.04,3,25,124386.84,2.5,0
+16/03/2023,Sports,Dumbbells,Thika,Social Media,M-Pesa,5638.74,3,5,16070.41,2.9,0
+08/04/2024,Clothing,Boots,Machakos,In-Store,Cash,8707.52,9,15,66612.53,2.9,2
+13/10/2023,Sports,Football,Eldoret,In-Store,Bank Transfer,25838.25,10,25,193786.88,3.3,0
+18/08/2024,Electronics,Laptop,Nakuru,Mobile App,Bank Transfer,116338.59,8,0,930708.72,2.8,0
+24/02/2023,Electronics,Laptop,Thika,Online,PayPal,72939.61,10,0,729396.1,3.8,0
+05/09/2023,Clothing,Hoodie,Mombasa,In-Store,M-Pesa,6346.78,10,0,63467.8,3.8,0
+15/02/2023,Sports,Tennis Racket,Nairobi,Mobile App,Cash,20325.31,3,0,60975.93,3.6,1
+15/03/2023,Clothing,Jeans,Machakos,In-Store,M-Pesa,6456.48,10,25,48423.6,3.6,0
+31/01/2023,Electronics,Camera,Machakos,Mobile App,Bank Transfer,26365.93,5,15,112055.2,2.6,0
+26/03/2023,Electronics,Speaker,Thika,Online,M-Pesa,14377.8,3,0,43133.4,4.2,0
+03/06/2023,Electronics,Headphones,Machakos,Mobile App,M-Pesa,118544.94,10,0,1185449.4,5,0
+06/09/2024,Electronics,Speaker,Eldoret,Mobile App,Cash,40599,2,0,81198,4.2,0
+18/11/2023,Home & Garden,Coffee Maker,Eldoret,Online,Credit Card,14717.42,5,0,73587.1,2.6,0
+20/12/2023,Electronics,Smartphone,Eldoret,Online,M-Pesa,99981.49,4,20,415923.001,2.7,0
+02/06/2023,Home & Garden,Pillow Set,Mombasa,Social Media,Bank Transfer,45389.72,4,20,145247.1,4.5,0
+12/02/2023,Home & Garden,Blender,Thika,Online,Cash,25362.01,3,20,60868.82,3.9,0
+24/09/2024,Books,Fiction Novel,Nakuru,In-Store,Credit Card,1612.59,10,25,12094.42,3.4,2
+06/05/2023,Sports,Swimming Goggles,Thika,In-Store,Credit Card,4432.16,5,0,22160.8,4.7,0
+14/07/2024,Sports,Yoga Mat,Eldoret,Online,Cash,37759.36,5,0,188796.8,4.9,0
+02/10/2023,Clothing,Sneakers,Mombasa,Social Media,Credit Card,6575.69,2,20,10521.1,3.1,0
+01/11/2023,Clothing,Boots,Nakuru,Mobile App,Credit Card,6499.82,5,20,25999.28,3.1,0
+18/04/2024,Clothing,Dress,Thika,Social Media,Credit Card,1697.07,5,0,8485.35,4.7,0
+13/02/2023,Home & Garden,Wall Art,Nakuru,In-Store,Cash,75734.42,6,10,408965.87,3,0
+26/04/2024,Home & Garden,Blender,Eldoret,In-Store,Cash,15980.43,1,0,15980.43,3.4,0
+23/07/2024,Home & Garden,Rug,Kisumu,Online,Credit Card,58677.78,6,5,334463.35,4.2,0
+08/02/2023,Home & Garden,Blender,Thika,In-Store,Bank Transfer,49119.54,1,15,41751.61,3.2,0
+22/06/2024,Home & Garden,Desk Lamp,Mombasa,In-Store,Credit Card,77602.77,6,5,442335.79,3.1,0
+29/12/2024,Electronics,Headphones,Thika,In-Store,Credit Card,121280.3,2,0,315328.78,3.8,0
+10/08/2023,Electronics,Smartwatch,Nairobi,In-Store,Credit Card,89811.02,4,25,269433.06,2.8,0
+02/12/2023,Clothing,T-Shirt,Nakuru,Online,M-Pesa,11496.42,10,25,112090.095,2.7,1
+31/01/2023,Books,Textbook,Eldoret,Online,M-Pesa,3216.83,4,0,12867.32,4,0
+05/12/2024,Books,Fiction Novel,Eldoret,In-Store,PayPal,1976.38,1,5,1877.56,3.7,0
+06/02/2024,Home & Garden,Wall Art,Kisumu,Online,Bank Transfer,73400.43,10,5,697304.08,3.4,0
+22/04/2023,Clothing,T-Shirt,Nairobi,Mobile App,PayPal,1315.5,2,10,2367.9,3.8,0
+24/06/2023,Books,Biographies,Nakuru,Mobile App,M-Pesa,2176.98,7,5,14476.92,4.5,0
+12/12/2023,Clothing,Sneakers,Eldoret,In-Store,M-Pesa,3261.64,5,15,18020.561,2.7,1
+01/09/2023,Home & Garden,Desk Lamp,Eldoret,Social Media,M-Pesa,66502.98,1,15,56527.53,3.7,0
+12/03/2024,Books,Textbook,Thika,Online,PayPal,2519.8,2,0,5039.6,4.5,0
+12/02/2024,Electronics,Laptop,Machakos,Online,PayPal,132970.73,6,20,638259.5,4.7,0
+29/06/2023,Electronics,Headphones,Mombasa,Social Media,M-Pesa,49415.98,4,0,197663.92,4.4,0
+12/05/2024,Home & Garden,Blender,Nairobi,Social Media,PayPal,44383.08,7,0,310681.56,4.1,0
+29/04/2023,Sports,Football,Mombasa,In-Store,PayPal,49984.66,5,0,249923.3,3.1,1
+14/11/2024,Electronics,Speaker,Eldoret,Social Media,Credit Card,52706.17,4,25,205554.063,4.3,0
+15/04/2023,Books,Fiction Novel,Mombasa,In-Store,Cash,2266.43,2,0,4532.86,4.2,0
+24/10/2023,Electronics,Smartwatch,Machakos,Online,PayPal,56499.94,10,0,564999.4,3.2,0
+01/10/2024,Electronics,Camera,Nakuru,Mobile App,PayPal,121484.08,7,20,680310.85,3.9,0
+02/07/2024,Home & Garden,Rug,Eldoret,Social Media,M-Pesa,71220.79,5,0,356103.95,4.5,0
+06/08/2024,Sports,Dumbbells,Mombasa,Mobile App,PayPal,6714.87,1,10,6043.38,4,2
+25/05/2023,Clothing,Jeans,Mombasa,Online,Credit Card,10150.64,4,10,36542.3,4.4,0
+08/06/2023,Sports,Tennis Racket,Nairobi,Social Media,PayPal,42160.85,9,25,284585.74,3.5,0
+16/06/2024,Books,Fiction Novel,Thika,Social Media,Credit Card,2697.68,5,5,12813.98,4,0
+19/10/2023,Sports,Running Shoes,Thika,In-Store,PayPal,8828.27,9,0,79454.43,4.6,1
+16/07/2024,Books,Comics,Nairobi,In-Store,PayPal,2252.02,6,0,13512.12,4.5,0
+06/04/2023,Books,Biographies,Machakos,Mobile App,PayPal,2464.97,7,10,15529.31,4.5,0
+11/04/2023,Books,Cookbook,Nakuru,Online,Credit Card,347.79,8,20,2225.86,4.2,0
+16/07/2023,Clothing,Hoodie,Mombasa,Mobile App,PayPal,4373.8,2,10,7872.84,4.4,0
+18/06/2023,Clothing,Jeans,Eldoret,Mobile App,PayPal,3626.87,1,0,3626.87,3.7,0
+26/02/2023,Electronics,Camera,Machakos,Social Media,PayPal,59819.6,7,0,418737.2,2.8,2
+27/01/2023,Books,Biographies,Mombasa,Online,M-Pesa,2438.61,10,15,20728.19,2.6,0
+26/11/2023,Sports,Yoga Mat,Eldoret,Mobile App,M-Pesa,18006.25,10,0,180062.5,3.5,0
+14/08/2023,Sports,Dumbbells,Machakos,Social Media,Bank Transfer,37842.47,1,15,32166.1,4.1,0
+17/02/2024,Books,Science Book,Nakuru,Mobile App,Bank Transfer,819.4,8,0,6555.2,4.4,0
+02/10/2024,Clothing,Sneakers,Mombasa,Mobile App,M-Pesa,6887.84,2,25,10331.76,4.6,1
+10/03/2023,Electronics,Laptop,Eldoret,Online,Cash,5364.79,9,10,43454.8,4.9,0
+20/12/2023,Books,Self-Help Book,Nairobi,In-Store,Cash,1445.21,3,5,5354.505,3.5,0
+01/01/2023,Electronics,Headphones,Nairobi,In-Store,Credit Card,102348.84,2,0,204697.68,3.4,0
+21/01/2024,Books,Self-Help Book,Machakos,Mobile App,Credit Card,1796.73,9,15,13744.98,2.8,0
+15/08/2024,Electronics,Camera,Eldoret,Mobile App,Cash,41160.6,1,0,41160.6,3.3,0
+31/08/2023,Books,Cookbook,Eldoret,Online,M-Pesa,1679.71,5,0,8398.55,3.6,0
+11/07/2023,Electronics,Headphones,Nakuru,Online,Credit Card,135946.33,8,0,1087570.64,2.7,0
+25/06/2023,Electronics,Headphones,Machakos,In-Store,M-Pesa,94983.31,5,20,379933.24,3.9,0
+28/04/2023,Books,Textbook,Thika,Social Media,Credit Card,2725.21,4,5,10355.8,4.6,0
+19/05/2024,Home & Garden,Coffee Maker,Nairobi,Mobile App,Credit Card,46136.09,8,0,369088.72,4.5,0
+23/05/2024,Books,Science Book,Thika,Online,Bank Transfer,1830.63,1,20,1464.5,3.1,0
+28/03/2023,Clothing,Hoodie,Machakos,Online,Cash,9292.16,7,0,65045.12,4.1,0
+16/01/2023,Clothing,Boots,Kisumu,Mobile App,Credit Card,1491.17,7,15,8872.46,4.4,0
+16/03/2023,Books,Fiction Novel,Thika,Mobile App,Bank Transfer,2122.18,2,0,4244.36,5,0
+16/03/2024,Sports,Bicycle,Nakuru,Online,PayPal,35683.58,5,5,169497.01,4.1,0
+04/02/2023,Sports,Swimming Goggles,Nairobi,In-Store,Credit Card,53595.29,1,15,45556,4.9,0
+25/10/2024,Clothing,Boots,Machakos,Social Media,PayPal,8742.64,5,10,39341.88,2.8,1
+06/02/2023,Home & Garden,Rug,Thika,Online,M-Pesa,23258.42,8,25,139550.52,4.2,0
+27/01/2023,Home & Garden,Desk Lamp,Mombasa,Social Media,Bank Transfer,31727.3,4,0,126909.2,4.8,0
+29/01/2024,Books,Textbook,Nairobi,Online,Bank Transfer,1883.67,9,25,12714.77,3.9,1
+12/06/2024,Sports,Bicycle,Eldoret,Social Media,Credit Card,50320.47,3,15,128317.2,3.9,0
+13/01/2024,Electronics,Speaker,Thika,Mobile App,PayPal,2096.88,3,5,5976.11,2.6,0
+03/12/2024,Electronics,Camera,Machakos,Mobile App,Bank Transfer,58379,10,15,645087.95,2.6,0
+06/07/2023,Clothing,Dress,Eldoret,In-Store,Cash,10303.54,5,10,46365.93,4.8,0
+10/07/2023,Sports,Bicycle,Mombasa,In-Store,Cash,49692.22,10,10,447229.98,4.1,0
+13/07/2024,Clothing,Boots,Eldoret,Mobile App,Bank Transfer,10048.55,4,5,38184.49,4.9,1
+29/06/2024,Electronics,Tablet,Nakuru,In-Store,Cash,13781.83,6,0,82690.98,4.4,0
+26/08/2024,Books,Self-Help Book,Kisumu,Social Media,Credit Card,3399.61,3,20,8159.06,3.1,0
+27/07/2024,Home & Garden,Pillow Set,Eldoret,Mobile App,M-Pesa,18505.45,9,0,166549.05,4.3,0
+17/01/2023,Electronics,Camera,Nakuru,Mobile App,Bank Transfer,142537.41,9,15,1090411.19,4,0
+22/11/2024,Home & Garden,Rug,Kisumu,In-Store,M-Pesa,16177.44,10,0,210306.72,4.6,0
+18/08/2024,Electronics,Headphones,Eldoret,Social Media,Credit Card,8939.7,9,15,68388.71,3.1,0
+09/04/2024,Electronics,Speaker,Kisumu,In-Store,Bank Transfer,47521.91,6,10,256618.31,2.8,0
+02/05/2024,Clothing,T-Shirt,Mombasa,In-Store,Cash,7622.86,4,20,24393.15,4.3,1
+27/09/2024,Electronics,Laptop,Machakos,Social Media,Bank Transfer,128030.78,1,0,128030.78,3.2,0
+28/01/2024,Electronics,Tablet,Machakos,Online,M-Pesa,116897.39,3,25,263019.13,4,1
+07/01/2023,Electronics,Camera,Eldoret,Social Media,PayPal,10901.06,3,25,24527.39,3.2,0
+24/07/2024,Sports,Tennis Racket,Eldoret,Mobile App,Bank Transfer,10269.7,3,15,26187.74,4.5,0
+14/10/2023,Books,Science Book,Nairobi,Mobile App,PayPal,1920.61,8,25,11523.66,3.2,0
+08/01/2024,Books,Comics,Kisumu,Mobile App,Cash,2032.32,6,20,9755.14,4.5,0
+10/12/2024,Sports,Running Shoes,Mombasa,In-Store,Cash,57505.5,2,0,149514.3,3.3,0
+16/03/2023,Electronics,Smartphone,Nairobi,In-Store,Cash,57130.53,4,5,217096.01,4.9,0
+07/05/2024,Electronics,Speaker,Kisumu,Mobile App,M-Pesa,32834.9,6,15,167457.99,2.6,0
+31/01/2024,Books,Biographies,Thika,In-Store,M-Pesa,1208.51,5,20,4834.04,4,2
+20/10/2024,Books,Self-Help Book,Nakuru,In-Store,Bank Transfer,1736.81,8,10,12505.03,3.5,0
+27/06/2023,Clothing,Dress,Machakos,In-Store,Cash,3811,2,5,7240.9,4.3,0
+22/10/2024,Electronics,Camera,Mombasa,In-Store,M-Pesa,20691.72,10,0,206917.2,2.5,0
+16/05/2024,Electronics,Smartphone,Nakuru,Online,M-Pesa,78899.41,7,10,497066.28,2.9,0
+01/07/2023,Books,Cookbook,Nairobi,In-Store,Bank Transfer,1592.88,2,25,2389.32,4.5,1
+19/05/2023,Books,Science Book,Kisumu,Mobile App,Cash,2098.53,5,25,7869.49,3.4,1
+04/11/2024,Electronics,Tablet,Mombasa,Online,PayPal,122866.86,8,20,1022252.27,4.3,0
+13/04/2024,Sports,Swimming Goggles,Mombasa,Social Media,M-Pesa,38937.97,3,0,116813.91,4.2,0
+13/08/2024,Clothing,Sneakers,Thika,In-Store,M-Pesa,4246.96,3,0,12740.88,4.9,1
+17/10/2024,Clothing,Boots,Nakuru,In-Store,M-Pesa,8927.26,6,0,53563.56,3.3,0
+24/11/2023,Clothing,Jeans,Mombasa,Mobile App,Cash,8578.41,4,5,42377.348,3.3,0
+11/09/2023,Books,Comics,Thika,Social Media,Bank Transfer,1000.37,7,10,6302.33,4.9,0
+02/04/2024,Home & Garden,Rug,Kisumu,Social Media,PayPal,57466.88,2,0,114933.76,4,0
+26/02/2023,Sports,Bicycle,Nairobi,In-Store,PayPal,10955.24,2,0,21910.48,3.3,0
+16/08/2024,Sports,Bicycle,Machakos,Social Media,M-Pesa,13325.69,6,0,79954.14,4.9,1
+09/01/2024,Sports,Dumbbells,Mombasa,In-Store,M-Pesa,48851.85,2,0,97703.7,3.5,0
+13/09/2024,Electronics,Smartwatch,Mombasa,In-Store,M-Pesa,132738.98,5,25,497771.18,4.5,0
+09/07/2023,Books,Biographies,Eldoret,Social Media,Cash,2487.51,6,15,12686.3,3.1,0
+02/02/2024,Electronics,Speaker,Machakos,Online,Credit Card,4565.88,5,5,21687.93,4.1,0
+07/08/2024,Sports,Running Shoes,Nairobi,Social Media,M-Pesa,21205.12,3,5,60434.59,4.7,1
+07/11/2023,Electronics,Speaker,Mombasa,In-Store,PayPal,112893.19,1,0,112893.19,3.2,1
+04/08/2023,Sports,Dumbbells,Nairobi,In-Store,M-Pesa,34847.02,8,0,278776.16,4.2,0
+01/08/2023,Sports,Yoga Mat,Mombasa,Social Media,M-Pesa,38217.47,3,0,114652.41,2.9,1
+26/04/2023,Books,Science Book,Nakuru,In-Store,M-Pesa,668.53,2,0,1337.06,3.5,0
+12/09/2023,Clothing,T-Shirt,Nairobi,Online,Bank Transfer,2063.85,6,25,9287.32,3,0
+07/11/2024,Clothing,T-Shirt,Kisumu,In-Store,Bank Transfer,4873.26,4,0,19493.04,4.1,0
+13/04/2023,Home & Garden,Rug,Eldoret,Online,Credit Card,61337.32,5,0,306686.6,2.7,0
+18/05/2023,Sports,Football,Nakuru,In-Store,Cash,51674.72,10,15,439235.12,2.9,0
+09/03/2023,Clothing,T-Shirt,Machakos,In-Store,Cash,11937.52,6,20,57300.1,4.5,0
+18/01/2023,Electronics,Speaker,Mombasa,Mobile App,Credit Card,117324.4,10,25,879933,4.4,0
+06/07/2024,Books,Fiction Novel,Mombasa,Mobile App,Credit Card,1656.36,6,15,8447.44,3.4,0
+25/05/2023,Clothing,Jeans,Machakos,Online,Cash,11327.4,3,0,33982.2,5,1
+03/03/2023,Books,Fiction Novel,Kisumu,In-Store,Bank Transfer,1038.58,8,10,7477.78,2.9,0
+27/02/2024,Books,Comics,Thika,Online,Bank Transfer,1663.84,10,0,16638.4,3.1,0
+16/08/2023,Home & Garden,Pillow Set,Thika,Online,Cash,26099.27,3,0,78297.81,4.3,1
+31/07/2024,Electronics,Laptop,Nairobi,Online,M-Pesa,93188.31,7,25,489238.63,4.8,0
+16/01/2024,Home & Garden,Coffee Maker,Machakos,Mobile App,PayPal,5938.68,8,15,40383.02,3.2,0
+20/03/2024,Clothing,Dress,Nakuru,Online,Credit Card,10122.86,5,25,37960.73,2.5,0
+13/04/2023,Electronics,Speaker,Nairobi,Online,M-Pesa,32668.48,7,5,217245.39,3.6,0
+17/11/2024,Electronics,Headphones,Mombasa,Social Media,PayPal,8308.27,1,0,8308.27,2.8,0
+23/02/2024,Electronics,Tablet,Thika,Online,Bank Transfer,14496.38,9,0,130467.42,3.6,0
+27/06/2024,Books,Comics,Mombasa,Mobile App,M-Pesa,3400.08,5,15,14450.34,4.9,0
+01/08/2024,Clothing,Hoodie,Nakuru,In-Store,M-Pesa,8596.74,1,0,8596.74,3.6,0
+23/05/2024,Sports,Football,Kisumu,Social Media,Bank Transfer,42382.42,10,10,381441.78,2.6,0
+23/03/2024,Electronics,Tablet,Mombasa,In-Store,PayPal,61581.82,8,10,443389.1,4.7,0
+20/01/2023,Clothing,T-Shirt,Kisumu,Online,PayPal,3266.3,3,25,7349.18,2.6,2
+11/03/2023,Books,Science Book,Nakuru,Online,Cash,3388.26,10,0,33882.6,4.5,0
+01/11/2024,Sports,Bicycle,Thika,Social Media,M-Pesa,54887.41,1,0,54887.41,3.1,0
+21/11/2023,Sports,Yoga Mat,Machakos,Mobile App,PayPal,779.8,4,0,4054.96,2.6,0
+16/10/2024,Sports,Yoga Mat,Machakos,Mobile App,PayPal,49409.67,7,25,259400.77,3.1,0
+15/04/2023,Books,Biographies,Nakuru,Online,Bank Transfer,1523.11,9,10,12337.19,3.5,0
+07/08/2024,Electronics,Laptop,Mombasa,Social Media,Cash,142976.86,8,25,857861.16,3.2,0
+19/08/2024,Clothing,Hoodie,Kisumu,Social Media,Credit Card,2925.76,9,10,23698.66,3.9,0
+17/03/2024,Sports,Bicycle,Machakos,Online,M-Pesa,42862.32,5,0,214311.6,4.6,1
+19/04/2023,Clothing,T-Shirt,Mombasa,Social Media,M-Pesa,6429.07,9,0,57861.63,2.7,0
+29/08/2023,Clothing,Boots,Thika,Online,Cash,1593.4,9,0,14340.6,3.4,0
+23/01/2023,Sports,Tennis Racket,Eldoret,Social Media,Credit Card,53908.34,2,25,80862.51,4.3,0
+08/11/2023,Sports,Running Shoes,Thika,Online,M-Pesa,58248.19,7,10,477052.68,2.9,0
+24/03/2024,Home & Garden,Pillow Set,Eldoret,In-Store,PayPal,78642.2,9,15,601612.83,4.8,0
+29/04/2024,Electronics,Speaker,Nairobi,Mobile App,PayPal,8929.7,8,15,60721.96,4.2,0
+04/04/2023,Clothing,Hoodie,Mombasa,Social Media,PayPal,1478.97,10,20,11831.76,4.4,0
+19/04/2024,Clothing,Sneakers,Nakuru,Mobile App,Credit Card,7398.87,7,0,51792.09,4.3,0
+31/12/2024,Books,Comics,Thika,Online,Cash,438.03,6,5,2496.77,4.8,0
+01/07/2023,Sports,Bicycle,Nairobi,Mobile App,Bank Transfer,3214.86,9,5,27487.05,3.7,0
+06/07/2023,Sports,Tennis Racket,Mombasa,Mobile App,Bank Transfer,21630.13,8,20,138432.83,3.2,0
+29/09/2023,Sports,Bicycle,Thika,Mobile App,PayPal,22953.09,9,5,196248.92,4.8,0
+28/07/2024,Home & Garden,Coffee Maker,Eldoret,Mobile App,Credit Card,5928.99,1,0,5928.99,3.3,0
+01/01/2023,Clothing,Dress,Eldoret,In-Store,Bank Transfer,3665,9,0,32985,3.8,0
+22/03/2024,Clothing,Dress,Eldoret,Social Media,PayPal,8511.91,4,0,34047.64,2.8,0
+30/09/2024,Books,Self-Help Book,Machakos,Social Media,PayPal,2142.4,7,0,14996.8,4.6,0
+08/11/2024,Electronics,Laptop,Machakos,Online,PayPal,134616.84,4,15,595006.438,4,0
+16/12/2023,Clothing,Boots,Nakuru,Online,Credit Card,2953.45,7,0,20674.15,3.1,1
+04/01/2024,Home & Garden,Pillow Set,Eldoret,Online,Bank Transfer,27130.1,1,0,27130.1,4.8,0
+27/10/2024,Home & Garden,Coffee Maker,Mombasa,Mobile App,M-Pesa,49609.35,7,15,295175.63,2.6,0
+08/03/2023,Home & Garden,Blender,Nairobi,Social Media,Bank Transfer,67734.13,8,25,406404.78,4.4,0
+17/04/2024,Home & Garden,Pillow Set,Eldoret,Online,PayPal,43650.51,1,20,34920.41,4.6,0
+01/12/2023,Home & Garden,Sofa,Nakuru,Mobile App,Bank Transfer,41744.15,2,5,103108.044,4.8,0
+16/11/2023,Home & Garden,Pillow Set,Nakuru,In-Store,PayPal,32149.54,10,25,313458.015,3.5,0
+08/05/2023,Electronics,Tablet,Kisumu,Mobile App,Cash,120929.74,1,0,120929.74,4,0
+26/12/2023,Clothing,T-Shirt,Machakos,Social Media,Cash,3333.56,7,0,23334.92,3.7,0
+27/12/2024,Electronics,Laptop,Machakos,Social Media,Credit Card,64344.83,4,20,267674.498,2.8,0
+31/08/2024,Home & Garden,Blender,Eldoret,Online,Bank Transfer,39252.24,1,0,39252.24,4.1,0
+29/11/2024,Clothing,Dress,Eldoret,Mobile App,Credit Card,1040.02,7,20,7571.343,4.5,0
+26/09/2023,Sports,Tennis Racket,Nakuru,Social Media,Bank Transfer,24981.34,6,20,119910.43,2.9,0
+07/08/2024,Home & Garden,Blender,Nakuru,Mobile App,Bank Transfer,60696.29,6,0,364177.74,3.6,1
+19/02/2024,Home & Garden,Desk Lamp,Mombasa,Online,Bank Transfer,11163.78,6,10,60284.41,4.7,0
+10/09/2024,Clothing,Hoodie,Nakuru,Mobile App,Cash,1123.21,7,15,6683.1,4,0
+05/06/2023,Electronics,Smartphone,Thika,Social Media,Credit Card,128625.17,2,0,257250.34,3.2,1
+04/02/2024,Books,Science Book,Nakuru,Social Media,Cash,1583.96,6,0,9503.76,2.6,0
+30/06/2024,Home & Garden,Wall Art,Nairobi,Online,Cash,72928.94,9,10,590724.41,4.5,0
+07/05/2024,Electronics,Smartphone,Machakos,Online,M-Pesa,72238.63,9,20,520118.14,4.3,2
+14/01/2023,Clothing,Jeans,Machakos,Online,Credit Card,7145.16,6,25,32153.22,4.8,0
+31/05/2023,Clothing,Boots,Nakuru,Mobile App,Credit Card,7843.83,7,0,54906.81,4.3,1
+22/08/2023,Electronics,Laptop,Eldoret,Mobile App,Credit Card,110841.53,8,15,753722.4,3.6,0
+29/09/2023,Books,Textbook,Machakos,Online,Bank Transfer,2073.14,3,15,5286.51,4.9,0
+02/10/2023,Clothing,T-Shirt,Thika,In-Store,PayPal,4229.44,5,15,17975.12,2.6,0
+21/07/2023,Books,Cookbook,Kisumu,Mobile App,Cash,2387.06,6,0,14322.36,4.6,0
+29/11/2024,Clothing,Jeans,Mombasa,Social Media,Cash,9352.14,10,25,91183.365,4.3,2
+16/05/2024,Books,Science Book,Machakos,Social Media,Credit Card,1077.27,5,0,5386.35,2.9,0
+01/11/2024,Sports,Tennis Racket,Nakuru,In-Store,M-Pesa,53925.71,6,0,420620.538,4.5,0
+31/01/2024,Books,Self-Help Book,Machakos,Online,Cash,1352.64,4,0,5410.56,4,0
+24/08/2023,Clothing,Dress,Thika,In-Store,Cash,7677.48,4,15,26103.43,4.7,0
+11/03/2024,Electronics,Smartwatch,Nairobi,Social Media,Bank Transfer,72177.25,5,0,360886.25,3.4,0
+01/07/2024,Home & Garden,Blender,Thika,Mobile App,Cash,21541.5,1,5,20464.42,4.7,0
+16/01/2023,Books,Biographies,Eldoret,In-Store,Bank Transfer,2554.65,9,0,22991.85,4.1,0
+05/07/2024,Home & Garden,Desk Lamp,Thika,Online,Credit Card,43301.17,9,10,350739.48,4.3,0
+15/08/2024,Sports,Tennis Racket,Nakuru,In-Store,PayPal,4218.7,6,25,18984.15,4.3,0
+02/04/2023,Electronics,Tablet,Machakos,Social Media,Credit Card,39561.38,4,0,158245.52,4.7,2
+29/08/2024,Sports,Football,Nakuru,Mobile App,Credit Card,16507.3,4,5,62727.74,3.6,0
+31/01/2023,Clothing,Sneakers,Machakos,Online,Credit Card,11721.54,9,25,79120.4,3.5,0
+30/05/2023,Sports,Dumbbells,Mombasa,Online,PayPal,33688.52,4,0,134754.08,2.8,0
+17/04/2024,Electronics,Laptop,Mombasa,In-Store,M-Pesa,4409.06,9,20,31745.23,3.6,0
+30/10/2023,Electronics,Smartwatch,Machakos,Social Media,Bank Transfer,20012,9,0,180108,3,0
+18/10/2024,Electronics,Tablet,Nairobi,In-Store,PayPal,44825.72,6,5,255506.6,4.9,0
+19/07/2023,Electronics,Speaker,Nakuru,Mobile App,Bank Transfer,117889.68,9,0,1061007.12,3.3,0
+18/02/2024,Sports,Running Shoes,Machakos,Online,M-Pesa,816.8,1,25,612.6,4.8,0
+06/12/2024,Home & Garden,Blender,Thika,Social Media,Bank Transfer,66860.02,6,0,401160.12,3.6,1
+03/11/2023,Books,Science Book,Kisumu,Online,M-Pesa,341.73,7,15,2643.277,4.3,0
+25/09/2024,Clothing,Dress,Nairobi,Social Media,PayPal,4225.21,7,10,26618.82,3.7,0
+21/07/2024,Electronics,Tablet,Machakos,In-Store,Bank Transfer,64114.18,4,10,230811.05,2.9,0
+24/06/2024,Sports,Tennis Racket,Eldoret,Social Media,Credit Card,23671.81,8,0,189374.48,3.1,0
+08/01/2024,Sports,Tennis Racket,Thika,Online,Bank Transfer,32030.83,8,0,256246.64,2.6,0
+10/12/2024,Books,Self-Help Book,Kisumu,Social Media,M-Pesa,2121.92,7,0,19309.472,2.8,1
+25/01/2024,Clothing,Jacket,Thika,Mobile App,Bank Transfer,10266.61,9,0,92399.49,2.5,2
+10/12/2023,Sports,Swimming Goggles,Nairobi,Mobile App,Credit Card,56480.26,8,15,499285.501,4.9,0
+18/03/2023,Books,Science Book,Kisumu,Online,Credit Card,1862.49,7,0,13037.43,2.7,0
+22/03/2024,Sports,Dumbbells,Kisumu,Online,PayPal,42938.54,7,0,300569.78,3.2,0
+30/09/2023,Sports,Bicycle,Kisumu,Online,Bank Transfer,3771.64,5,15,16029.47,4.8,0
+21/03/2024,Sports,Running Shoes,Thika,Mobile App,Cash,29474.73,1,15,25053.52,4.4,0
+20/02/2023,Sports,Dumbbells,Mombasa,Mobile App,Bank Transfer,49931.97,10,0,499319.7,2.7,0
+26/04/2024,Home & Garden,Coffee Maker,Kisumu,Online,Bank Transfer,14396.82,3,10,38871.41,5,0
+14/06/2023,Sports,Tennis Racket,Kisumu,Mobile App,M-Pesa,4069.6,8,0,32556.8,4.2,0
+07/01/2023,Clothing,T-Shirt,Mombasa,Social Media,M-Pesa,4979.09,9,15,38090.04,3.7,0
+17/09/2024,Home & Garden,Pillow Set,Thika,Online,M-Pesa,10000.56,6,0,60003.36,2.9,0
+07/01/2024,Electronics,Speaker,Thika,Online,Cash,29517.61,2,0,59035.22,3.1,0
+16/03/2024,Books,Fiction Novel,Machakos,In-Store,Credit Card,440.32,8,0,3522.56,4,0
+16/12/2024,Electronics,Headphones,Kisumu,Online,PayPal,86952.37,5,15,369547.57,4.5,0
+19/12/2023,Sports,Tennis Racket,Nakuru,Social Media,PayPal,33586.78,4,20,107477.7,3.1,1
+30/04/2024,Electronics,Headphones,Machakos,Online,PayPal,119368.67,9,0,1074318.03,3,0
+27/12/2023,Sports,Yoga Mat,Mombasa,Online,M-Pesa,15914.33,1,0,20688.629,4.2,0
+20/09/2023,Clothing,T-Shirt,Nakuru,Mobile App,Credit Card,11664.43,6,25,52489.93,3.8,1
+12/07/2024,Clothing,Dress,Machakos,In-Store,Bank Transfer,6594.31,7,10,41544.15,3.6,0
+14/07/2024,Books,Self-Help Book,Eldoret,In-Store,Cash,3151.19,9,5,26942.67,3.3,0
+05/12/2023,Clothing,Jacket,Machakos,Mobile App,Bank Transfer,11022.55,9,0,99202.95,3.6,0
+23/03/2023,Home & Garden,Wall Art,Nairobi,Social Media,Cash,36359.66,6,15,185434.27,3.4,0
+20/04/2023,Clothing,Sneakers,Mombasa,Online,PayPal,891.16,6,15,4544.92,2.6,0
+18/04/2024,Home & Garden,Wall Art,Nairobi,Online,Credit Card,8698.61,2,0,17397.22,4.4,1
+29/11/2024,Electronics,Smartwatch,Thika,Online,Credit Card,50623.03,5,25,189836.36,4.2,0
+29/11/2024,Electronics,Headphones,Thika,Mobile App,Credit Card,48638.8,5,0,243194,2.5,0
+11/06/2023,Clothing,Jeans,Nakuru,Mobile App,PayPal,4609.46,1,0,4609.46,4.6,0
+01/11/2024,Electronics,Smartphone,Kisumu,Online,Cash,33760.62,3,15,111916.454,4,0
+29/03/2024,Sports,Running Shoes,Nairobi,Social Media,Cash,3203.26,8,0,25626.08,4.3,0
+21/10/2024,Books,Biographies,Eldoret,Online,Cash,2566.55,10,15,21815.67,2.6,0
+08/11/2023,Electronics,Smartphone,Nairobi,Social Media,Cash,143694.11,10,5,1774622.252,2.5,0
+14/03/2024,Sports,Yoga Mat,Nairobi,Mobile App,Cash,8087.76,1,5,7683.37,2.6,0
+22/09/2024,Home & Garden,Sofa,Nairobi,Mobile App,PayPal,72860.7,4,15,247726.38,4,0
+16/02/2023,Sports,Running Shoes,Kisumu,In-Store,Cash,41349.87,6,0,248099.22,3.4,0
+17/03/2023,Electronics,Headphones,Nakuru,Online,M-Pesa,60871.95,7,0,426103.65,3.9,0
+09/11/2024,Books,Cookbook,Nairobi,In-Store,Bank Transfer,1903.05,3,5,5423.69,4.6,0
+10/06/2023,Home & Garden,Rug,Mombasa,Online,M-Pesa,31896.34,8,20,204136.58,3.3,0
+19/09/2023,Clothing,Boots,Kisumu,Online,M-Pesa,6172.15,7,15,36724.29,2.8,0
+13/08/2023,Home & Garden,Sofa,Nakuru,Mobile App,Credit Card,46903.35,3,0,140710.05,4.5,0
+31/12/2023,Electronics,Smartphone,Nairobi,Online,PayPal,7895.41,7,0,55267.87,4.1,1
+29/01/2024,Sports,Bicycle,Eldoret,Mobile App,Credit Card,1428.3,2,0,2856.6,3.5,0
+30/07/2024,Clothing,Sneakers,Nairobi,Mobile App,Cash,11513.41,8,15,78291.19,3.9,2
+16/11/2023,Books,Cookbook,Machakos,In-Store,M-Pesa,847.17,10,20,6777.36,2.6,1
+14/01/2024,Clothing,Jacket,Thika,In-Store,M-Pesa,10674.56,3,25,24017.76,3.4,0
+04/04/2023,Home & Garden,Coffee Maker,Nakuru,Online,PayPal,10785.72,8,0,86285.76,4.5,0
+24/10/2024,Clothing,Boots,Machakos,Online,Credit Card,2674.02,3,0,8022.06,4.5,0
+03/12/2024,Clothing,T-Shirt,Kisumu,Online,PayPal,7087.78,8,0,56702.24,2.7,0
+25/08/2024,Electronics,Smartwatch,Nakuru,In-Store,PayPal,56971.4,9,0,512742.6,4.7,0
+26/12/2024,Books,Comics,Nakuru,In-Store,M-Pesa,1521.5,9,0,13693.5,5,0
+04/06/2024,Clothing,Jacket,Eldoret,In-Store,M-Pesa,6796.12,7,0,47572.84,4.8,0
+04/11/2024,Clothing,Hoodie,Eldoret,Mobile App,Cash,11556.62,5,0,57783.1,3.8,0
+03/07/2024,Books,Self-Help Book,Nairobi,Online,Credit Card,2063.84,10,10,18574.56,2.8,1
+13/05/2024,Clothing,Jeans,Thika,In-Store,M-Pesa,3397.56,5,10,15289.02,5,0
+18/12/2024,Clothing,Boots,Machakos,Online,M-Pesa,5346.79,6,5,30476.7,2.8,0
+15/05/2023,Electronics,Laptop,Nairobi,In-Store,M-Pesa,42995.74,3,5,122537.86,2.8,0
+14/05/2023,Home & Garden,Rug,Mombasa,Online,Credit Card,30336.11,4,0,121344.44,3.8,0
+01/09/2024,Electronics,Headphones,Kisumu,Social Media,Credit Card,2427.1,1,15,2063.03,3.1,0
+16/05/2023,Books,Science Book,Kisumu,Social Media,PayPal,607.05,9,5,5190.28,4.4,0
+12/06/2023,Clothing,Sneakers,Nairobi,Social Media,M-Pesa,5901.28,7,0,41308.96,4,1
+10/03/2023,Clothing,T-Shirt,Machakos,Online,Cash,3351.33,9,10,27145.77,4.1,0
+11/01/2024,Clothing,Sneakers,Nairobi,In-Store,M-Pesa,5327.69,1,0,5327.69,3.5,1
+28/03/2023,Books,Textbook,Nakuru,Social Media,M-Pesa,1526.13,7,0,10682.91,3.9,0
+02/11/2024,Home & Garden,Blender,Nairobi,Mobile App,PayPal,23525.63,5,10,105865.34,4.9,0
+06/11/2023,Clothing,Boots,Kisumu,In-Store,Credit Card,7026.86,6,0,54809.508,3.4,0
+30/10/2023,Clothing,Hoodie,Mombasa,Social Media,Credit Card,5489.16,2,0,10978.32,4.9,0
+14/04/2023,Books,Comics,Mombasa,Mobile App,PayPal,2525.36,5,0,12626.8,4.2,1
+29/09/2024,Electronics,Smartwatch,Thika,Social Media,PayPal,142654.91,10,0,1426549.1,4.8,0
+14/08/2023,Clothing,Boots,Kisumu,Online,PayPal,7065.28,7,10,44511.26,3,0
+13/11/2024,Clothing,Jeans,Thika,Mobile App,Bank Transfer,11702.25,3,15,29840.74,3.8,0
+20/02/2024,Home & Garden,Desk Lamp,Machakos,Online,Credit Card,6941.83,6,25,31238.23,2.6,2
+26/05/2024,Home & Garden,Blender,Machakos,Social Media,Bank Transfer,73358.1,10,10,660222.9,3.3,0
+23/03/2024,Sports,Football,Thika,Mobile App,Cash,56851.17,6,5,324051.67,3.4,0
+22/03/2023,Home & Garden,Coffee Maker,Nakuru,Social Media,M-Pesa,34927.92,5,0,174639.6,2.9,0
+04/06/2024,Electronics,Smartwatch,Thika,Online,PayPal,51141.98,10,10,460277.82,2.7,0
+02/04/2024,Books,Biographies,Mombasa,Mobile App,Cash,2142.29,7,10,13496.43,3,1
+30/09/2023,Clothing,T-Shirt,Nakuru,Mobile App,Credit Card,3255.37,10,0,32553.7,3,0
+01/03/2024,Home & Garden,Sofa,Thika,Mobile App,PayPal,47014.88,4,0,188059.52,4.5,0
+20/08/2023,Home & Garden,Blender,Mombasa,Online,Bank Transfer,45672.44,4,25,137017.32,2.8,1
+26/05/2023,Electronics,Smartphone,Eldoret,Online,Bank Transfer,141141.71,6,0,846850.26,4.8,0
+30/06/2023,Sports,Bicycle,Nairobi,Mobile App,Cash,9891.25,6,10,53412.75,3.6,1
+25/10/2024,Books,Cookbook,Kisumu,Social Media,M-Pesa,659.77,4,0,2639.08,4.8,0
+08/04/2024,Sports,Bicycle,Machakos,Mobile App,Credit Card,13820.33,8,25,82921.98,2.8,0
+23/10/2024,Home & Garden,Coffee Maker,Mombasa,In-Store,Bank Transfer,1069.7,5,0,5348.5,4.6,1
+26/10/2024,Home & Garden,Rug,Mombasa,Social Media,PayPal,5780.24,6,15,29479.22,3.8,2
+10/07/2023,Electronics,Smartphone,Mombasa,Social Media,Credit Card,109964.26,2,10,197935.67,3.3,0
+11/08/2023,Clothing,T-Shirt,Nakuru,Online,PayPal,3962.93,10,0,39629.3,4.4,0
+26/12/2023,Electronics,Headphones,Mombasa,Online,Credit Card,20000.22,7,15,154701.703,3.8,0
+19/12/2023,Electronics,Smartwatch,Thika,In-Store,PayPal,109485.64,8,5,832090.86,3.4,0
+17/12/2024,Clothing,Jeans,Mombasa,In-Store,Credit Card,7859.27,8,5,77649.585,4.7,0
+19/08/2023,Clothing,T-Shirt,Kisumu,Mobile App,Bank Transfer,8448.68,4,15,28725.51,2.8,0
+16/02/2023,Electronics,Smartwatch,Kisumu,Online,Bank Transfer,60770.21,1,25,45577.66,3.8,0
+18/05/2024,Books,Textbook,Nairobi,In-Store,Credit Card,1519.63,2,0,3039.26,2.8,0
+19/05/2024,Home & Garden,Wall Art,Machakos,In-Store,PayPal,54479.46,3,0,163438.38,4.2,0
+25/07/2023,Books,Comics,Machakos,Mobile App,PayPal,3050.49,7,25,16015.07,3.3,0
+11/10/2024,Clothing,Jeans,Mombasa,In-Store,Credit Card,2128.8,3,0,6386.4,2.8,0
+28/02/2023,Home & Garden,Desk Lamp,Kisumu,In-Store,Credit Card,14948.15,6,20,71751.12,3.4,0
+08/09/2023,Sports,Running Shoes,Mombasa,Mobile App,M-Pesa,54072.96,4,25,162218.88,2.7,0
+12/05/2024,Sports,Yoga Mat,Kisumu,Social Media,Bank Transfer,16981.31,4,0,67925.24,4.2,0
+14/08/2023,Sports,Running Shoes,Machakos,Online,PayPal,19843.16,1,0,19843.16,4.4,0
+31/01/2024,Electronics,Smartwatch,Machakos,Mobile App,Bank Transfer,35927.31,8,15,244305.71,2.7,0
+13/01/2024,Books,Fiction Novel,Kisumu,Mobile App,Cash,2119.77,3,0,6359.31,2.7,2
+13/08/2024,Home & Garden,Sofa,Nairobi,Mobile App,Cash,34718.6,1,0,34718.6,4.3,0
+03/05/2024,Clothing,Sneakers,Kisumu,Social Media,PayPal,6211.49,3,0,18634.47,4.5,0
+09/04/2023,Electronics,Tablet,Mombasa,Social Media,Credit Card,100666.2,2,25,150999.3,2.8,0
+18/04/2024,Clothing,Dress,Nairobi,In-Store,PayPal,3301.99,7,20,18491.14,3.8,0
+10/05/2024,Books,Fiction Novel,Eldoret,Social Media,Credit Card,537.42,7,25,2821.45,3.1,0
+26/10/2024,Clothing,Jeans,Nakuru,Social Media,M-Pesa,5794.4,6,25,26074.8,3.9,0
+03/12/2023,Clothing,Boots,Thika,Mobile App,Credit Card,1825.81,2,20,2921.3,2.6,0
+04/05/2023,Sports,Football,Kisumu,In-Store,Credit Card,8006.54,1,0,8006.54,4,0
+18/10/2023,Electronics,Speaker,Kisumu,Social Media,Bank Transfer,42298.54,5,25,158619.53,3.7,0
+23/05/2024,Electronics,Laptop,Nakuru,Social Media,Bank Transfer,47313.21,9,20,340655.11,3.5,0
+12/03/2024,Sports,Bicycle,Kisumu,Online,Bank Transfer,49083.21,7,15,292045.1,4.2,0
+23/07/2023,Home & Garden,Sofa,Nairobi,Social Media,Credit Card,28757.86,4,25,86273.58,2.6,0
+21/05/2023,Home & Garden,Pillow Set,Nakuru,In-Store,Bank Transfer,35757.25,2,15,60787.32,3.9,0
+12/01/2024,Home & Garden,Desk Lamp,Nairobi,Mobile App,PayPal,37703.37,1,0,37703.37,3.4,0
+20/09/2024,Clothing,Jacket,Nakuru,In-Store,Bank Transfer,3946.66,2,15,6709.32,3.2,0
+04/11/2024,Sports,Swimming Goggles,Eldoret,Mobile App,PayPal,23972.17,5,20,124655.284,3.2,0
+18/09/2024,Home & Garden,Rug,Kisumu,In-Store,Cash,56955.71,2,10,102520.28,2.8,0
+20/08/2023,Sports,Tennis Racket,Mombasa,In-Store,Cash,16981.8,8,10,122268.96,3.9,0
+27/05/2024,Books,Cookbook,Nairobi,In-Store,Credit Card,1018.49,10,15,8657.16,3.6,0
+07/08/2024,Books,Comics,Mombasa,Mobile App,M-Pesa,1097.37,2,0,2194.74,3.6,0
+17/07/2023,Clothing,T-Shirt,Machakos,Social Media,M-Pesa,6007.7,5,15,25532.72,3.2,0
+08/09/2023,Books,Cookbook,Kisumu,Social Media,PayPal,722.12,3,0,2166.36,2.5,0
+03/08/2024,Sports,Bicycle,Machakos,Mobile App,Bank Transfer,55776.68,3,5,158963.54,2.6,0
+07/02/2024,Home & Garden,Sofa,Mombasa,Online,Credit Card,58920.04,8,15,400656.27,4.7,0
+22/07/2024,Sports,Bicycle,Mombasa,Mobile App,PayPal,20640.48,8,0,165123.84,4.8,2
+13/07/2023,Electronics,Smartwatch,Eldoret,In-Store,M-Pesa,40641.54,6,10,219464.32,3.1,0
+19/02/2023,Books,Self-Help Book,Nairobi,Online,Credit Card,3290.56,9,15,25172.78,4.7,0
+12/09/2023,Clothing,Jeans,Machakos,Social Media,Credit Card,11227.06,3,0,33681.18,3,0
+16/08/2024,Clothing,Dress,Nakuru,In-Store,M-Pesa,715.24,4,25,2145.72,3.5,0
+05/08/2024,Books,Textbook,Machakos,Online,M-Pesa,2066.94,6,0,12401.64,4.7,0
+21/04/2024,Sports,Yoga Mat,Mombasa,Online,Bank Transfer,26626.36,5,0,133131.8,3.2,2
+18/02/2023,Home & Garden,Desk Lamp,Machakos,Mobile App,M-Pesa,13089.13,9,15,100131.84,2.9,0
+23/07/2023,Sports,Running Shoes,Nakuru,Social Media,Cash,11361.74,6,0,68170.44,3,0
+15/02/2024,Clothing,Sneakers,Machakos,In-Store,M-Pesa,2067.36,3,15,5271.77,3.9,0
+27/03/2024,Clothing,T-Shirt,Mombasa,Online,Credit Card,2768.59,7,25,14535.1,2.7,0
+04/05/2024,Books,Textbook,Nakuru,Mobile App,M-Pesa,1700.13,7,0,11900.91,4,0
+27/02/2023,Home & Garden,Desk Lamp,Thika,Online,Credit Card,22817.13,6,5,130057.64,2.7,1
+05/10/2023,Clothing,Boots,Eldoret,Mobile App,Bank Transfer,2462.21,1,5,2339.1,4.3,1
+04/04/2023,Clothing,T-Shirt,Mombasa,Mobile App,Bank Transfer,1283.17,10,0,12831.7,3.6,0
+25/03/2024,Clothing,Boots,Machakos,In-Store,Cash,1099.37,6,0,6596.22,4.5,0
+25/11/2023,Home & Garden,Wall Art,Eldoret,Social Media,M-Pesa,66670.41,8,25,520029.198,3.5,0
+03/07/2024,Sports,Swimming Goggles,Mombasa,Mobile App,M-Pesa,23547.25,9,5,201328.99,4.7,0
+09/06/2023,Books,Comics,Mombasa,Mobile App,PayPal,3091.07,2,0,6182.14,3.3,0
+30/12/2024,Sports,Swimming Goggles,Thika,Mobile App,Bank Transfer,24015.65,9,10,194526.77,3.8,0
+13/04/2023,Clothing,Jacket,Mombasa,In-Store,Bank Transfer,7094.14,2,0,14188.28,2.8,0
+20/09/2024,Electronics,Smartphone,Eldoret,Social Media,PayPal,8210.62,6,20,39410.98,2.6,1
+04/09/2024,Electronics,Headphones,Machakos,Online,Bank Transfer,45119.51,1,5,42863.53,2.9,0
+15/04/2023,Sports,Tennis Racket,Kisumu,Mobile App,Credit Card,36131.75,2,25,54197.62,2.9,0
+17/06/2023,Books,Science Book,Thika,Mobile App,Credit Card,1005,8,0,8040,2.6,1
+28/08/2024,Clothing,Jeans,Nairobi,Social Media,Credit Card,4834.17,6,10,26104.52,4.7,0
+29/10/2023,Clothing,Jeans,Thika,Online,PayPal,9889.22,4,10,35601.19,3.3,1
+05/10/2023,Electronics,Tablet,Eldoret,Social Media,PayPal,90684.61,6,0,544107.66,3.7,0
+14/07/2023,Electronics,Speaker,Kisumu,Social Media,PayPal,103284.5,2,15,175583.65,4.5,0
+04/09/2024,Home & Garden,Pillow Set,Thika,In-Store,Bank Transfer,34629.38,4,0,138517.52,4.4,0
+03/01/2024,Home & Garden,Desk Lamp,Nakuru,Social Media,Bank Transfer,26057.42,3,0,78172.26,3.9,0
+31/10/2024,Electronics,Headphones,Kisumu,Online,Credit Card,121809.14,3,0,365427.42,3.4,0
+13/02/2023,Clothing,Jeans,Eldoret,Mobile App,M-Pesa,1320.36,7,5,8780.39,2.9,0
+26/06/2023,Sports,Bicycle,Mombasa,Social Media,Credit Card,28118.38,3,20,67484.11,4.6,0
+23/10/2024,Clothing,T-Shirt,Nakuru,Social Media,M-Pesa,4355.08,5,0,21775.4,4.2,0
+07/10/2023,Clothing,Jeans,Thika,Online,Credit Card,8029.06,1,0,8029.06,3.9,1
+05/06/2023,Clothing,Boots,Machakos,In-Store,M-Pesa,9917.6,2,0,19835.2,2.7,0
+05/07/2024,Electronics,Tablet,Thika,Mobile App,PayPal,100086.45,2,15,170146.96,2.9,0
+27/06/2024,Books,Biographies,Nakuru,Social Media,Cash,3159.61,2,0,6319.22,3.3,0
+02/02/2024,Electronics,Headphones,Kisumu,Mobile App,Credit Card,125901.41,1,0,125901.41,2.9,1
+02/02/2024,Books,Science Book,Thika,Social Media,Credit Card,2962.11,9,15,22660.14,4.1,0
+31/10/2023,Books,Comics,Kisumu,Online,PayPal,1693.1,3,5,4825.33,4.1,0
+09/11/2023,Clothing,Boots,Nakuru,In-Store,Credit Card,1363.69,3,0,5318.391,2.6,0
+03/04/2023,Home & Garden,Pillow Set,Mombasa,Online,Cash,58832.92,9,0,529496.28,3.7,0
+12/08/2024,Clothing,Hoodie,Machakos,Social Media,PayPal,7508.22,10,10,67573.98,4.2,0
+13/08/2023,Clothing,Sneakers,Thika,In-Store,M-Pesa,8956.59,1,0,8956.59,4.7,0
+15/06/2023,Electronics,Camera,Thika,In-Store,M-Pesa,11233.42,6,5,64030.49,3.8,0
+03/07/2023,Books,Self-Help Book,Machakos,Online,M-Pesa,1329.65,1,15,1130.2,3.2,1
+22/09/2024,Clothing,Sneakers,Thika,Online,Cash,6861.23,3,20,16466.95,2.9,0
+13/04/2024,Sports,Yoga Mat,Nairobi,Social Media,Bank Transfer,32318.52,7,0,226229.64,4.4,1
+08/08/2023,Clothing,Jeans,Machakos,In-Store,PayPal,7508.26,7,5,49929.93,4.5,0
+12/02/2024,Electronics,Smartwatch,Kisumu,Online,PayPal,137131.54,7,0,959920.78,3.6,0
+10/11/2024,Sports,Running Shoes,Machakos,Online,M-Pesa,58404.96,4,0,303705.792,2.9,1
+25/06/2024,Sports,Dumbbells,Nairobi,In-Store,Cash,53924.06,8,0,431392.48,3.7,0
+06/10/2024,Electronics,Headphones,Nakuru,Social Media,Bank Transfer,16055.84,1,20,12844.67,4.3,0
+23/04/2024,Clothing,T-Shirt,Thika,Online,Cash,3344.67,2,0,6689.34,4,1
+08/07/2024,Electronics,Headphones,Eldoret,Online,Cash,145550.67,7,5,967911.96,4.2,0
+13/12/2024,Books,Self-Help Book,Thika,Online,Credit Card,2544.78,7,15,19683.872,3.5,0
+03/04/2024,Clothing,Sneakers,Machakos,Mobile App,PayPal,10038.48,3,15,25598.12,3,0
+05/10/2024,Sports,Tennis Racket,Mombasa,Mobile App,Cash,13876.83,5,20,55507.32,4.1,0
+24/09/2024,Home & Garden,Desk Lamp,Eldoret,Online,Bank Transfer,22034.87,8,0,176278.96,3.5,0
+29/07/2024,Home & Garden,Sofa,Machakos,Social Media,PayPal,49803.88,8,0,398431.04,2.5,0
+20/02/2024,Books,Cookbook,Thika,Social Media,Cash,2089.28,10,10,18803.52,3.2,1
+14/04/2024,Clothing,Hoodie,Eldoret,Mobile App,M-Pesa,5225.97,4,10,18813.49,3.8,0
+29/09/2023,Clothing,Jacket,Thika,Online,Bank Transfer,3869.12,10,0,38691.2,3.2,0
+02/02/2023,Sports,Dumbbells,Thika,Social Media,M-Pesa,20004.02,3,0,60012.06,2.9,0
+11/07/2024,Books,Fiction Novel,Nakuru,Social Media,Cash,2069.21,1,0,2069.21,2.9,0
+12/11/2024,Home & Garden,Blender,Eldoret,Online,Credit Card,843.15,9,5,9371.609,3.3,0
+01/03/2024,Sports,Tennis Racket,Mombasa,Social Media,Cash,50104.41,2,15,85177.5,5,0
+26/11/2024,Clothing,Jacket,Machakos,Mobile App,M-Pesa,1043.3,4,0,4173.2,3.5,0
+27/10/2023,Electronics,Smartwatch,Machakos,Mobile App,Credit Card,4558.53,6,20,21880.94,2.7,0
+04/04/2024,Sports,Dumbbells,Machakos,Social Media,PayPal,40099.01,5,20,160396.04,3.9,0
+01/02/2023,Books,Comics,Nairobi,Online,PayPal,1810.73,7,0,12675.11,2.8,0
+16/09/2023,Books,Cookbook,Thika,Online,M-Pesa,1038.96,5,10,4675.32,2.8,0
+19/01/2024,Electronics,Headphones,Nakuru,Mobile App,Cash,143294.44,9,20,1031719.97,2.9,1
+04/05/2024,Books,Self-Help Book,Machakos,In-Store,M-Pesa,1335.54,6,20,6410.59,2.8,1
+09/08/2023,Clothing,Jeans,Machakos,In-Store,M-Pesa,7503.37,6,5,42769.21,4.8,0
+07/11/2023,Home & Garden,Coffee Maker,Machakos,Online,Cash,40313.19,8,20,335405.746,4.2,0
+17/11/2023,Sports,Dumbbells,Eldoret,Social Media,Cash,10740.91,4,5,40815.46,4.6,1
+04/01/2023,Home & Garden,Blender,Thika,Mobile App,Credit Card,8848.89,10,0,88488.9,4.4,0
+21/05/2024,Clothing,T-Shirt,Machakos,Online,Bank Transfer,3223.53,3,25,7252.94,2.9,0
+21/07/2024,Sports,Football,Eldoret,In-Store,PayPal,21182.4,6,15,108030.24,3.3,0
+20/02/2024,Home & Garden,Desk Lamp,Thika,Mobile App,Credit Card,57253.97,6,0,343523.82,2.8,0
+25/06/2024,Books,Cookbook,Eldoret,Online,Bank Transfer,512.99,6,0,3077.94,4.6,0
+24/08/2023,Home & Garden,Pillow Set,Nairobi,Mobile App,Bank Transfer,36765.35,5,25,137870.06,4.4,0
+17/04/2024,Home & Garden,Rug,Mombasa,Mobile App,Bank Transfer,70008.53,5,0,350042.65,2.8,0
+07/02/2023,Sports,Bicycle,Mombasa,Mobile App,Cash,50935.88,10,5,483890.86,3.3,0
+12/03/2023,Sports,Yoga Mat,Mombasa,In-Store,M-Pesa,32073.16,7,0,224512.12,4.2,0
+24/07/2024,Sports,Tennis Racket,Mombasa,Social Media,M-Pesa,31071,9,0,279639,2.7,0
+08/07/2023,Books,Biographies,Nakuru,In-Store,M-Pesa,1212.77,9,20,8731.94,3.3,0
+20/08/2023,Clothing,T-Shirt,Nakuru,Mobile App,Bank Transfer,4257.22,4,15,14474.55,3.7,0
+27/10/2023,Sports,Yoga Mat,Nairobi,Online,Cash,25836.43,8,5,196356.87,3.2,0
+25/08/2024,Electronics,Camera,Nakuru,Social Media,Bank Transfer,140160.27,10,20,1121282.16,4.8,2
+21/01/2024,Clothing,Jeans,Machakos,Social Media,Credit Card,7258.1,10,10,65322.9,4.1,0
+06/05/2024,Home & Garden,Sofa,Eldoret,Online,M-Pesa,9683.51,9,15,74078.85,3.1,0
+10/11/2024,Clothing,Hoodie,Thika,Mobile App,Credit Card,1594.8,2,20,3317.184,4.8,0
+19/08/2024,Home & Garden,Coffee Maker,Kisumu,Mobile App,PayPal,60285.74,10,25,452143.05,3.4,0
+16/06/2024,Home & Garden,Rug,Machakos,Social Media,Cash,51100.67,10,15,434355.69,2.8,0
+05/07/2024,Electronics,Speaker,Eldoret,Online,Credit Card,23231.97,8,25,139391.82,4,1
+25/03/2023,Electronics,Speaker,Mombasa,Mobile App,PayPal,81986.29,10,25,614897.17,3.7,1
+11/03/2024,Sports,Tennis Racket,Kisumu,Mobile App,Cash,48766.58,5,5,231641.26,3.7,1
+03/08/2023,Sports,Bicycle,Eldoret,Online,M-Pesa,11424.18,4,0,45696.72,3.8,0
+05/07/2024,Books,Textbook,Eldoret,Online,M-Pesa,2149.99,10,25,16124.92,2.7,1
+18/04/2023,Home & Garden,Pillow Set,Nairobi,Online,PayPal,52809.94,10,0,528099.4,3.6,0
+02/04/2023,Home & Garden,Blender,Mombasa,Social Media,Bank Transfer,47147.93,4,15,160302.96,4.1,0
+19/07/2023,Sports,Tennis Racket,Machakos,Online,Bank Transfer,57694.38,1,15,49040.22,2.8,0
